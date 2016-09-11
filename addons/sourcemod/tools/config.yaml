@@ -1,0 +1,301 @@
+---
+settings:
+  github_user: "jaredballou"
+  github_repo: "insurgency-sourcemod"
+  github_branch: "master"
+  compile_plugins: true
+  baseurl: "https://raw.github.com/%(github_user)s/%(github_repo)s/%(github_branch)s"
+  prefixes:
+    - "[INS]"
+myinfo_vars:
+  "author": "Jared Ballou (jballou)"
+  "description": "New Plugin"
+  "name": "New Plugin"
+  "url": "http://jballou.com/insurgency"
+  "version": "0.0.1"
+source_parser:
+  defaults:
+    regex: '(%s)\s*\((.*)\);'
+    name: 0
+    value: 1
+    description: 2
+    "file_type": "Plugin"
+  "functions":
+    "commands":
+      "RegAdminCmd":
+        description: 3
+      "RegConsoleCmd": {}
+      "RegServerCmd": {}
+    "cvars":
+      "CreateConVar": {}
+    "translations":
+      "LoadTranslations":
+        file: 0
+    "gamedata":
+      "LoadGameConfigFile":
+        file: 0
+  "directives":
+    "include":
+      regex: '#include[\t ]*<([^>]+)>'
+      file_path: "scripting/include/%s.inc"
+      file_type: "Source"
+templates:
+  header:
+    content:
+      - "#raw"
+      - "# SourceMod for Insurgency"
+      - "This repository has a complete installation of SourceMod, including all my plugins and source files. It's updated regularly, kept in sync with upstream, and includes a ton of stuff. It's still very much a development branch, so be aware that almost all the plugins I am working on are still pretty new and could be buggy."
+      - "##Plugin list"
+      - "These plugins are all provided as-is, I do my best to document and describe them but they are all potentially broken, so be aware. Please send me feedback and bug reports to help keep these working."
+      - "#end raw"
+  footer:
+    content:
+      - "#raw"
+      - ""
+      - "## Ideas to develop"
+      - "This is a sort of scratchpad and todo list for things that I think of or people ask for me to work on."
+      - "TODO"
+      - "#end raw"
+  myinfo:
+    file: templates/myinfo.tmpl
+  plugin:
+    file: templates/plugin.tmpl
+  readme:
+    file: templates/readme.tmpl
+  update:
+    file: templates/update.tmpl
+todo:
+  "Remove counterattack capture ability in checkpoint coop mode via a cvar. Having to capture a building and then stand inside it while it gets assaulted instead of choosing good firing positions outside makes the game switch from tight, careful action to Call of Duty twitch shooter.": 1
+  "Review bot CVARs and changes from last two patches to see if there are any new options to try or setting changes that can help get the bots to behave like mildly well trained, scared teenagers instead of a guy on a sunday stroll who can hipshoot you at a hundred meters.": 1
+  "IR strobe on the back of US helmets for IFF. Possible to do with a particle effect or alpha/color mask, Source engine precompiled lighting makes actual strobes unlikely.": 0
+  "IR laser? Is there a variable I can check to see if a player has NV enabled, and then how to control visibility of the beam per-client.": 0
+  "Artillery, mortar, or air support SM plugin to give delayed but devastating damage on an area? How to balance and offset the massive power for the Insurgent side?": 0
+  "Wounded/disabled players, can talk for very short time but no ability to move or shoot? Implement contact shots?": 0
+  "Look at ability to modify game rules via tricky Sourcemod magic, like passing off spawning additional waves, spawning in staggered groups, and other fun things we need to do.": 0
+  "Ability to loot ammo from dead bodies and have them added to the player's inventory properly. Needs to be sorted out how player inventory is handled, with the array method where each magazine's capacity is tracked and retained, and make sure we only pick up the right ammo for the primary weapon. The system needs to inform player 'picked up one full AK74 magazine' or 'picked up one nearly empty M16 magazine'. Should loot from most full to least full, loot one mag per run of the command, and say how many mags still available to be looted. Add cvar-controlled timer to delay next loot/shoot/reload/switch for half a second or so to balance it. Add support for shared magazines, namely AKS74U/AK74 and M16/M4A1/MK18.": 0
+  "Decouple flashbang visual impairment and audio impairment. The goal is to slightly increase flashed vision loss time, but greatly increase efefct and duration of audio impairment.": 0
+  "Add controls to disable bot shooting while sliding or jumping.": 1
+  "Add controls to disable firing for slight delay after jumping or falling.": 1
+  "Add slot for 'ear protection', can be Peltors, plugs, or nothing. Costs points, affects shots/frags/flashes impact on hearing": 0
+  "Add slot for radio, allow Prox, Squad, or Team as options to select how widely they want to communicate. maybe some team-level abilities via radio?": 0
+  "Add tripwires, timers, and daisy chains to IEDs for Insurgents, give them multiple IEDs and have a defuse mission": 0
+  "Add fragmentation effect to grenades, slightly reduce damage blast radius but shoots 60+ fragments (bullets) out in a random pattern to really clear a room": 1
+  "Create config-driven rules-based tutorial mod to tell players about their chosen kits and loadout. Have events hooked to firing, killing, getting killed, etc. to use in tips.": 0
+  "Add ability to place explosives (grenades with mechanical switches) as booby traps": 0
+  "Add 100 round magazine for SAR that adds weight/recoil to promote bipod use in intermediate machinegun role": 0
+  "Add deployable supply point to Squad Leader. Destructible cache point that can be deployed and packed. One per round so it needs to be protected.": 0
+file_types:
+  plugins:
+    ext: "smx"
+    path: "plugins"
+  include:
+    ext: "inc"
+    path: "scripting/include"
+  scripting:
+    ext: "sp"
+    path: "scripting"
+libraries:
+  thirdparty:
+    navmesh: {}
+  stock:
+    admin: {}
+    adminmenu: {}
+    adt: {}
+    adt_array: {}
+    adt_stack: {}
+    adt_trie: {}
+    banning: {}
+    basecomm: {}
+    bitbuffer: {}
+    clientprefs: {}
+    clients: {}
+    commandfilters: {}
+    commandline: {}
+    console: {}
+    convars: {}
+    core: {}
+    cstrike: {}
+    datapack: {}
+    dbi: {}
+    entity: {}
+    entity_prop_stocks: {}
+    events: {}
+    files: {}
+    float: {}
+    functions: {}
+    geoip: {}
+    halflife: {}
+    handles: {}
+    helpers: {}
+    keyvalues: {}
+    lang: {}
+    logging: {}
+    mapchooser: {}
+    menus: {}
+    nextmap: {}
+    profiler: {}
+    protobuf: {}
+    regex: {}
+    sdkhooks: {}
+    sdktools: {}
+    sdktools_client: {}
+    sdktools_engine: {}
+    sdktools_entinput: {}
+    sdktools_entoutput: {}
+    sdktools_functions: {}
+    sdktools_gamerules: {}
+    sdktools_hooks: {}
+    sdktools_sound: {}
+    sdktools_stocks: {}
+    sdktools_stringtables: {}
+    sdktools_tempents: {}
+    sdktools_tempents_stocks: {}
+    sdktools_trace: {}
+    sdktools_voice: {}
+    sorting: {}
+    sourcemod: {}
+    string: {}
+    testing: {}
+    textparse: {}
+    tf2: {}
+    tf2_stocks: {}
+    timers: {}
+    topmenus: {}
+    usermessages: {}
+    vector: {}
+    version: {}
+    version_auto: {}
+plugins:
+  build:
+    ammocheck: {}
+    botcount: {}
+    botnames: {}
+    botspawns: {}
+    cooplobby: {}
+    damagemod: {}
+    events: {}
+    hlstatsx: {}
+    insurgency: {}
+    nofog: {}
+    respawn: {}
+    restrictedarea: {}
+    rpgdrift: {}
+    suicide_bomb: {}
+    votelog: {}
+    updater: {}
+    weapon_pickup: {}
+  disabled:
+    backblast: {}
+    cvarlist: {}
+    dropweapon: {}
+    insmaps: {}
+    looting: {}
+    magnifier: {}
+    navmesh: {}
+    navmesh-chat: {}
+    navmesh-export: {}
+    noobj: {}
+    pistolsonly: {}
+    prop_dynamic: {}
+    score: {}
+    simple-chatprocessor: {}
+    smtactics: {}
+    sprinklers: {}
+    theater_reconnect: {}
+    theaterpicker: {}
+  thirdparty:
+    advertisements: {}
+    afk_manager: {}
+    clientprefs: {}
+    doi_deathnotices: {}
+    doi_uberbolt: {}
+    gem_damage_report: {}
+    killer_info_display: {}
+    sernix/c_dy_respawn_naong: {}
+    serverhop: {}
+    sm_downloader: {}
+    sourcebans_listener: {}
+    sourcebans: {}
+    webshortcuts: {}
+  stock:
+    admin-flatfile/admin-flatfile: {}
+    admin-flatfile/admin-groups: {}
+    admin-flatfile/admin-overrides: {}
+    admin-flatfile/admin-simple: {}
+    admin-flatfile/admin-users: {}
+    admin-sql-prefetch: {}
+    admin-sql-threaded: {}
+    adminhelp: {}
+    adminmenu: {}
+    adminmenu/dynamicmenu: {}
+    antiflood: {}
+    basebans: {}
+    basebans/ban: {}
+    basechat: {}
+    basecomm: {}
+    basecomm/forwards: {}
+    basecomm/gag: {}
+    basecomm/natives: {}
+    basecommands: {}
+    basecommands/cancelvote: {}
+    basecommands/execcfg: {}
+    basecommands/kick: {}
+    basecommands/map: {}
+    basecommands/reloadadmins: {}
+    basecommands/who: {}
+    basetriggers: {}
+    basevotes: {}
+    basevotes/voteban: {}
+    basevotes/votekick: {}
+    basevotes/votemap: {}
+    clientprefs: {}
+    funcommands: {}
+    funcommands/beacon: {}
+    funcommands/blind: {}
+    funcommands/drug: {}
+    funcommands/fire: {}
+    funcommands/gravity: {}
+    funcommands/ice: {}
+    funcommands/noclip: {}
+    funcommands/timebomb: {}
+    funvotes: {}
+    funvotes/votealltalk: {}
+    funvotes/voteburn: {}
+    funvotes/voteff: {}
+    funvotes/votegravity: {}
+    funvotes/voteslay: {}
+    mapchooser: {}
+    nextmap: {}
+    nominations: {}
+    playercommands: {}
+    playercommands/rename: {}
+    playercommands/slap: {}
+    playercommands/slay: {}
+    randomcycle: {}
+    reservedslots: {}
+    rockthevote: {}
+    sounds: {}
+    sql-admin-manager: {}
+    testsuite/benchmark: {}
+    testsuite/bug4059: {}
+    testsuite/callfunctest: {}
+    testsuite/capstest: {}
+    testsuite/clientprefstest: {}
+    testsuite/cstrike-test: {}
+    testsuite/entpropelements: {}
+    testsuite/fakenative1: {}
+    testsuite/fakenative2: {}
+    testsuite/filetest: {}
+    testsuite/fwdtest1: {}
+    testsuite/fwdtest2: {}
+    testsuite/gamerules-props: {}
+    testsuite/goto_test: {}
+    testsuite/keyvalues: {}
+    testsuite/outputtest: {}
+    testsuite/ptstest: {}
+    testsuite/sorttest: {}
+    testsuite/sqltest: {}
+    testsuite/stacktest: {}
+    testsuite/structtest: {}
+    testsuite/tf2-test: {}
+    testsuite/tries: {}

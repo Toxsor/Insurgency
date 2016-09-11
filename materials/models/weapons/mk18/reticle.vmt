@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+
+{
+	"$basetexture"	"models\weapons\mk18\reticle_d"
+	//"$detail"		"models\weapons\optics\laser_noise"
+	//"$detailblendmode" "2"
+	//"$detailframe"	"0"
+	"$translucent" 	"1"
+	//"$additive"	"1"
+	//"$selfillum"	"1"
+
+}
+
+

@@ -1,0 +1,19 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.0.4"
+		}
+		"Notes"		"Read navigation mesh"
+		"Name"		"[INS] Navmesh Parser"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/navmesh.sp"
+		"Source"	"Path_SM/scripting/include/navmesh.inc"
+		"Plugin"	"Path_SM/plugins/navmesh.smx"
+
+	}
+}

@@ -1,0 +1,65 @@
+// Advertisements 0.5
+// by Tsunami
+// 
+// Types
+// -----
+// C: Center message
+// H: Hint message
+// M: Menu message
+// S: Say message
+//    - Colors:  {DEFAULT}, {TEAM}, {GREEN}, {LIGHTGREEN}
+//    - Example: {GREEN}Current {LIGHTGREEN}Map: {DEFAULT}{CURRENTMAP}
+// T: Top message
+//    - Colors:  {WHITE},  {RED},  {GREEN}, {BLUE}, {YELLOW}, {PURPLE}, {CYAN},
+//               {ORANGE}, {PINK}, {OLIVE}, {LIME}, {VIOLET}, {LIGHTBLUE}
+//    - Example: {ORANGE} www.domain.com
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+	"1"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}Visit us @ www.rgservers.com"
+	}
+	"2"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}Intentionally Team-killing will result in a permanent ban! Don't TK just because you want to play a certain way or class."
+	}
+	"3"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}Server not online? Bug reports? Let us know on our forums or steam page because we don't experience everything that our players do!"
+	}
+	"4"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}Admin/Staff impersonation is something we don't take kindly. Doing this will result in a permanent ban. RespectedGaming staff are denoted by the tags .:RG:."
+	}
+	"5"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}Feel free to join us on TeamSpeak 3 @ voice.rgservers.com"
+	}
+	"6"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}Your opinion matters! Have suggestions for maps, bot settings, or other things? Let us know and we'll see what we can do!"
+	}
+	"7"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}Want to see what we've changed or will be changing? Check our forums!"
+	}
+	"8"
+	{
+		"type"		"S"
+		"text"		"{LIGHTGREEN}Use of comms to spout nonsense will result in a global silence on voice comms and text only for that player. Since muting locally doesn't always work, we will invoke the usage of our powers to do so."
+	}
+}

@@ -1,0 +1,36 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture"	"models\weapons\glock\glock_d"
+	"$bumpmap"	 	"models\weapons\glock\glock_n"
+
+	"$phong"                        "1"
+	"$phongalbedotint"              "1"
+	"$phongtint"                    "[1 1 1]"
+
+	"$phongboost"                   "3"
+	"$phongexponent"                "42"
+	"$phongfresnelranges"           "[.9 2 10]"
+
+
+	"$envmap"                       "env_cubemap"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"                   "[.1 .1 .1]"
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

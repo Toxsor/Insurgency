@@ -1,0 +1,108 @@
+L 08/19/2016 - 00:05:32: SourceMod log file session started (file "L20160819.log") (Version "1.8.0.5919")
+L 08/19/2016 - 00:05:32: -------- Mapchange to winter_rescue_v1 --------
+L 08/19/2016 - 01:15:07: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/19/2016 - 02:24:01: -------- Mapchange to dusty_nights_coopv1_1 --------
+L 08/19/2016 - 03:30:58: -------- Mapchange to almaden_coop_v1_1 --------
+L 08/19/2016 - 03:43:11: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/19/2016 - 04:04:35: -------- Mapchange to panama_canal_a3 --------
+L 08/19/2016 - 04:40:13: -------- Mapchange to launch_control_coopv1_9 --------
+L 08/19/2016 - 05:02:04: -------- Mapchange to zagros_convoy_b5 --------
+L 08/19/2016 - 05:16:43: -------- Mapchange to almaden_coop_v1_1 --------
+L 08/19/2016 - 06:21:34: -------- Mapchange to amber_spiritsv1_1_coop --------
+L 08/19/2016 - 07:04:23: -------- Mapchange to siege_coop --------
+L 08/19/2016 - 08:03:07: -------- Mapchange to sinjar_coop --------
+L 08/19/2016 - 08:30:27: -------- Mapchange to district_coop --------
+L 08/19/2016 - 08:42:32: -------- Mapchange to tell_coop --------
+L 08/19/2016 - 08:51:50: -------- Mapchange to tell_coop --------
+L 08/19/2016 - 09:13:18: -------- Mapchange to tell_coop --------
+L 08/19/2016 - 09:28:37: -------- Mapchange to tet --------
+L 08/19/2016 - 09:49:47: -------- Mapchange to the_burbs_coop --------
+L 08/19/2016 - 10:10:59: -------- Mapchange to the_burbs_coop --------
+L 08/19/2016 - 10:47:29: -------- Mapchange to verticality_coop --------
+L 08/19/2016 - 11:02:43: -------- Mapchange to embassy_coop --------
+L 08/19/2016 - 11:15:08: -------- Mapchange to revolt_coop --------
+L 08/19/2016 - 11:53:59: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/19/2016 - 12:49:50: -------- Mapchange to ministry_coop --------
+L 08/19/2016 - 13:06:28: -------- Mapchange to badlands_night_b1 --------
+L 08/19/2016 - 13:18:03: SourceMod log file session started (file "L20160819.log") (Version "1.8.0.5919")
+L 08/19/2016 - 13:18:03: -------- Mapchange to tell_coop --------
+L 08/19/2016 - 13:18:03: [simple-chatprocessor.smx] [SCP] Recognized mod [Insurgency].
+L 08/19/2016 - 13:18:03: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.insurgency.phrases].
+L 08/19/2016 - 13:18:03: [antitk.smx] [Anti-TK Manager] Data File: addons/sourcemod/data/AntiTK.txt
+L 08/19/2016 - 13:18:03: [antitk.smx] [Anti-TK] Detected Mod Insurgency
+L 08/19/2016 - 14:54:41: [basecommands.smx] "Blaze<40><STEAM_1:1:868254><>" changed map to "central_coop_final checkpoint"
+L 08/19/2016 - 14:54:44: [SM] Changed map to "central_coop_final checkpoint"
+L 08/19/2016 - 14:54:45: -------- Mapchange to central_coop_final --------
+L 08/19/2016 - 14:59:40: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Brocko Obamo<48><STEAM_1:1:5246567><>"
+L 08/19/2016 - 15:06:29: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Njustin<49><STEAM_1:0:34002383><>"
+L 08/19/2016 - 15:06:54: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "RJ Starkiller<62><STEAM_1:1:70463703><>"
+L 08/19/2016 - 15:06:54: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Brocko Obamo<85><STEAM_1:1:5246567><>"
+L 08/19/2016 - 15:07:37: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "RJ Starkiller<62><STEAM_1:1:70463703><>"
+L 08/19/2016 - 15:11:04: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "RJ Starkiller<62><STEAM_1:1:70463703><>"
+L 08/19/2016 - 15:11:04: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Drake<86><STEAM_1:0:1318928><>"
+L 08/19/2016 - 15:11:04: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Shenna<87><STEAM_1:1:99273851><>"
+L 08/19/2016 - 15:11:04: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Skyjet<88><STEAM_1:1:61329633><>"
+L 08/19/2016 - 15:11:04: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Njustin<49><STEAM_1:0:34002383><>"
+L 08/19/2016 - 15:18:54: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/19/2016 - 15:31:46: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Blaze<40><STEAM_1:1:868254><>"
+L 08/19/2016 - 15:35:12: -------- Mapchange to karkand_redux_p2_v1 --------
+L 08/19/2016 - 15:42:10: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Blaze<40><STEAM_1:1:868254><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Juwain<185><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Tayyib<191><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Adham<192><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Fadil<193><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Kadeer<167><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Fakhir<168><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Mudar<169><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Mamdouh<171><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Wajid<172><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Shumayl<173><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Saeed<175><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Habib<176><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Ghaith<179><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Mustafa<180><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Mubarak<181><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Iqbal<182><BOT><>"
+L 08/19/2016 - 15:43:48: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Taslim<194><BOT><>"
+L 08/19/2016 - 15:44:12: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Rashad<184><BOT><>"
+L 08/19/2016 - 15:44:12: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Muhyi al Din<186><BOT><>"
+L 08/19/2016 - 15:44:12: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Tayyib<191><BOT><>"
+L 08/19/2016 - 15:44:12: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Marghub<170><BOT><>"
+L 08/19/2016 - 15:44:12: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Mamdouh<171><BOT><>"
+L 08/19/2016 - 15:44:12: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Wajid<172><BOT><>"
+L 08/19/2016 - 15:44:12: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Habib<176><BOT><>"
+L 08/19/2016 - 15:44:12: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Safi<177><BOT><>"
+L 08/19/2016 - 15:44:12: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Ghaith<179><BOT><>"
+L 08/19/2016 - 15:44:12: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Iqbal<182><BOT><>"
+L 08/19/2016 - 15:44:12: [respawn.smx] "Blaze<40><STEAM_1:1:868254><>" respawned "Taslim<194><BOT><>"
+L 08/19/2016 - 15:53:04: -------- Mapchange to tunnel_rats_coopv1_4 --------
+L 08/19/2016 - 16:12:22: -------- Mapchange to siege_coop --------
+L 08/19/2016 - 16:24:07: -------- Mapchange to caves_coop --------
+L 08/19/2016 - 16:34:07: -------- Mapchange to fortress_coop_beta5 --------
+L 08/19/2016 - 17:03:18: -------- Mapchange to market_coop --------
+L 08/19/2016 - 17:20:29: -------- Mapchange to winter_rescue_v1 --------
+L 08/19/2016 - 17:35:59: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/19/2016 - 17:54:00: -------- Mapchange to buhriz_coop --------
+L 08/19/2016 - 18:05:34: -------- Mapchange to badel_coop_v1 --------
+L 08/19/2016 - 18:18:55: -------- Mapchange to hurtlocker_coopv2hc --------
+L 08/19/2016 - 18:30:48: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/19/2016 - 18:36:49: -------- Mapchange to bunker_busting_coopv1_5 --------
+L 08/19/2016 - 18:50:38: -------- Mapchange to baghdad_b5 --------
+L 08/19/2016 - 19:00:01: -------- Mapchange to payback_b3 --------
+L 08/19/2016 - 19:12:18: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/19/2016 - 19:29:14: -------- Mapchange to block_partyv1_1_coop --------
+L 08/19/2016 - 19:57:56: -------- Mapchange to kandagal_coop_b5 --------
+L 08/19/2016 - 20:16:30: -------- Mapchange to bridge_coop_optimized_v1 --------
+L 08/19/2016 - 20:28:03: -------- Mapchange to game_day_coopv1_3 --------
+L 08/19/2016 - 20:43:44: -------- Mapchange to district_coop --------
+L 08/19/2016 - 20:55:14: -------- Mapchange to gizab_b1_coop --------
+L 08/19/2016 - 21:09:03: -------- Mapchange to osama_b3_checkpoint --------
+L 08/19/2016 - 21:30:12: -------- Mapchange to baghdad_b5 --------
+L 08/19/2016 - 21:41:14: -------- Mapchange to the_burbs_coop --------
+L 08/19/2016 - 21:53:42: -------- Mapchange to jail_break_coop_ws --------
+L 08/19/2016 - 22:07:22: -------- Mapchange to amber_spiritsv1_1_coop --------
+L 08/19/2016 - 22:23:24: -------- Mapchange to de_lake_coop_nd_v1_2 --------
+L 08/19/2016 - 22:28:45: -------- Mapchange to prophet_coop --------
+L 08/19/2016 - 22:41:41: -------- Mapchange to caves_coop --------
+L 08/19/2016 - 22:50:49: -------- Mapchange to game_day_coopv1_3 --------
+L 08/19/2016 - 23:06:15: -------- Mapchange to haditha_dam_coop_finale --------

@@ -1,0 +1,19 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.6.19"
+		}
+		"Notes"		"Provides ingame functionality for interaction from an HLstatsX CE installation"
+		"Name"		"[INS] HLStatsX CE Ingame Plugin"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/hlstatsx.sp"
+		"Plugin"	"Path_SM/plugins/hlstatsx.smx"
+		"Source"	"Path_SM/scripting/include/loghelper.inc"
+
+	}
+}

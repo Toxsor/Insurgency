@@ -1,0 +1,529 @@
+L 07/18/2016 - 00:34:51: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 07/18/2016 - 00:34:51: SMC parsing error on line 0
+L 07/18/2016 - 00:34:51:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/18/2016 - 00:34:51:   [1]  ERROR: Line contained too many invalid tokens
+L 07/18/2016 - 00:34:52: SMC parsing error on line 0
+L 07/18/2016 - 00:34:52:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/18/2016 - 00:34:52:   [1]  ERROR: Line contained too many invalid tokens
+L 07/19/2016 - 12:22:46: SMC parsing error on line 0
+L 07/19/2016 - 12:22:46:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/19/2016 - 12:22:46:   [1]  ERROR: Line contained too many invalid tokens
+L 07/19/2016 - 12:22:46: Update available for "Ammo Check" (ammocheck.smx). Current: 1.0.2 - Latest: 
+L 07/19/2016 - 12:22:46: SMC parsing error on line 0
+L 07/19/2016 - 12:22:46:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/19/2016 - 12:22:46:   [1]  ERROR: Line contained too many invalid tokens
+L 07/20/2016 - 13:17:00: SMC parsing error on line 0
+L 07/20/2016 - 13:17:00:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/20/2016 - 13:17:00:   [1]  ERROR: Line contained too many invalid tokens
+L 07/20/2016 - 13:17:01: SMC parsing error on line 0
+L 07/20/2016 - 13:17:01:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/20/2016 - 13:17:01:   [1]  ERROR: Line contained too many invalid tokens
+L 07/20/2016 - 13:17:03: SMC parsing error on line 1
+L 07/20/2016 - 13:17:03:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/20/2016 - 13:17:03:   [1]  ERROR: A property was declared outside of a section
+L 07/21/2016 - 17:25:05: SMC parsing error on line 0
+L 07/21/2016 - 17:25:05:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/21/2016 - 17:25:05:   [1]  ERROR: Line contained too many invalid tokens
+L 07/21/2016 - 17:25:05: SMC parsing error on line 0
+L 07/21/2016 - 17:25:05:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/21/2016 - 17:25:05:   [1]  ERROR: Line contained too many invalid tokens
+L 07/21/2016 - 17:25:07: SMC parsing error on line 1
+L 07/21/2016 - 17:25:07:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/21/2016 - 17:25:07:   [1]  ERROR: A property was declared outside of a section
+L 07/22/2016 - 18:54:41: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 07/22/2016 - 18:54:42: SMC parsing error on line 0
+L 07/22/2016 - 18:54:42:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/22/2016 - 18:54:42:   [1]  ERROR: Line contained too many invalid tokens
+L 07/22/2016 - 18:54:43: SMC parsing error on line 0
+L 07/22/2016 - 18:54:43:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/22/2016 - 18:54:43:   [1]  ERROR: Line contained too many invalid tokens
+L 07/22/2016 - 18:54:44: SMC parsing error on line 1
+L 07/22/2016 - 18:54:44:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/22/2016 - 18:54:44:   [1]  ERROR: A property was declared outside of a section
+L 07/23/2016 - 19:35:56: SMC parsing error on line 0
+L 07/23/2016 - 19:35:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/23/2016 - 19:35:56:   [1]  ERROR: Line contained too many invalid tokens
+L 07/23/2016 - 19:35:56: SMC parsing error on line 0
+L 07/23/2016 - 19:35:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/23/2016 - 19:35:56:   [1]  ERROR: Line contained too many invalid tokens
+L 07/23/2016 - 19:35:57: SMC parsing error on line 1
+L 07/23/2016 - 19:35:57:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/23/2016 - 19:35:57:   [1]  ERROR: A property was declared outside of a section
+L 07/24/2016 - 07:22:59: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 07/24/2016 - 07:23:00: SMC parsing error on line 0
+L 07/24/2016 - 07:23:00:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/24/2016 - 07:23:00:   [1]  ERROR: Line contained too many invalid tokens
+L 07/24/2016 - 07:23:00: SMC parsing error on line 0
+L 07/24/2016 - 07:23:00:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/24/2016 - 07:23:00:   [1]  ERROR: Line contained too many invalid tokens
+L 07/24/2016 - 07:23:01: SMC parsing error on line 1
+L 07/24/2016 - 07:23:01:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/24/2016 - 07:23:01:   [1]  ERROR: A property was declared outside of a section
+L 07/25/2016 - 08:41:40: SMC parsing error on line 0
+L 07/25/2016 - 08:41:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/25/2016 - 08:41:40:   [1]  ERROR: Line contained too many invalid tokens
+L 07/25/2016 - 08:41:41: SMC parsing error on line 0
+L 07/25/2016 - 08:41:41:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/25/2016 - 08:41:41:   [1]  ERROR: Line contained too many invalid tokens
+L 07/25/2016 - 08:41:42: SMC parsing error on line 1
+L 07/25/2016 - 08:41:42:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/25/2016 - 08:41:42:   [1]  ERROR: A property was declared outside of a section
+L 07/26/2016 - 09:26:28: SMC parsing error on line 0
+L 07/26/2016 - 09:26:28:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/26/2016 - 09:26:28:   [1]  ERROR: Line contained too many invalid tokens
+L 07/26/2016 - 09:26:28: SMC parsing error on line 0
+L 07/26/2016 - 09:26:28:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/26/2016 - 09:26:28:   [1]  ERROR: Line contained too many invalid tokens
+L 07/26/2016 - 09:26:31: SMC parsing error on line 1
+L 07/26/2016 - 09:26:31:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/26/2016 - 09:26:31:   [1]  ERROR: A property was declared outside of a section
+L 07/27/2016 - 13:43:45: SMC parsing error on line 0
+L 07/27/2016 - 13:43:45:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/27/2016 - 13:43:45:   [1]  ERROR: Line contained too many invalid tokens
+L 07/27/2016 - 13:43:46: SMC parsing error on line 0
+L 07/27/2016 - 13:43:46:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/27/2016 - 13:43:46:   [1]  ERROR: Line contained too many invalid tokens
+L 07/27/2016 - 13:43:47: SMC parsing error on line 1
+L 07/27/2016 - 13:43:47:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/27/2016 - 13:43:47:   [1]  ERROR: A property was declared outside of a section
+L 07/27/2016 - 15:33:56: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 07/27/2016 - 15:33:56: SMC parsing error on line 0
+L 07/27/2016 - 15:33:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/27/2016 - 15:33:56:   [1]  ERROR: Line contained too many invalid tokens
+L 07/27/2016 - 15:33:56: SMC parsing error on line 0
+L 07/27/2016 - 15:33:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/27/2016 - 15:33:56:   [1]  ERROR: Line contained too many invalid tokens
+L 07/27/2016 - 15:33:58: SMC parsing error on line 1
+L 07/27/2016 - 15:33:58:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/27/2016 - 15:33:58:   [1]  ERROR: A property was declared outside of a section
+L 07/28/2016 - 17:15:11: SMC parsing error on line 0
+L 07/28/2016 - 17:15:11:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/28/2016 - 17:15:11:   [1]  ERROR: Line contained too many invalid tokens
+L 07/28/2016 - 17:15:12: SMC parsing error on line 0
+L 07/28/2016 - 17:15:12:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/28/2016 - 17:15:12:   [1]  ERROR: Line contained too many invalid tokens
+L 07/28/2016 - 17:15:13: SMC parsing error on line 1
+L 07/28/2016 - 17:15:13:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/28/2016 - 17:15:13:   [1]  ERROR: A property was declared outside of a section
+L 07/29/2016 - 17:51:17: SMC parsing error on line 0
+L 07/29/2016 - 17:51:17:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/29/2016 - 17:51:17:   [1]  ERROR: Line contained too many invalid tokens
+L 07/29/2016 - 17:51:18: SMC parsing error on line 0
+L 07/29/2016 - 17:51:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/29/2016 - 17:51:18:   [1]  ERROR: Line contained too many invalid tokens
+L 07/29/2016 - 17:51:19: SMC parsing error on line 1
+L 07/29/2016 - 17:51:19:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/29/2016 - 17:51:19:   [1]  ERROR: A property was declared outside of a section
+L 07/30/2016 - 14:34:42: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 07/30/2016 - 14:34:43: SMC parsing error on line 0
+L 07/30/2016 - 14:34:43:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/30/2016 - 14:34:43:   [1]  ERROR: Line contained too many invalid tokens
+L 07/30/2016 - 14:34:44: SMC parsing error on line 0
+L 07/30/2016 - 14:34:44:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/30/2016 - 14:34:44:   [1]  ERROR: Line contained too many invalid tokens
+L 07/30/2016 - 14:34:45: SMC parsing error on line 1
+L 07/30/2016 - 14:34:45:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/30/2016 - 14:34:45:   [1]  ERROR: A property was declared outside of a section
+L 07/31/2016 - 12:56:36: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 07/31/2016 - 12:56:38: SMC parsing error on line 0
+L 07/31/2016 - 12:56:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 07/31/2016 - 12:56:38:   [1]  ERROR: Line contained too many invalid tokens
+L 07/31/2016 - 12:56:39: SMC parsing error on line 0
+L 07/31/2016 - 12:56:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 07/31/2016 - 12:56:39:   [1]  ERROR: Line contained too many invalid tokens
+L 07/31/2016 - 12:56:41: SMC parsing error on line 1
+L 07/31/2016 - 12:56:41:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 07/31/2016 - 12:56:41:   [1]  ERROR: A property was declared outside of a section
+L 08/01/2016 - 13:29:36: SMC parsing error on line 0
+L 08/01/2016 - 13:29:36:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/01/2016 - 13:29:36:   [1]  ERROR: Line contained too many invalid tokens
+L 08/01/2016 - 13:29:36: SMC parsing error on line 0
+L 08/01/2016 - 13:29:36:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/01/2016 - 13:29:36:   [1]  ERROR: Line contained too many invalid tokens
+L 08/01/2016 - 13:29:37: SMC parsing error on line 1
+L 08/01/2016 - 13:29:37:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/01/2016 - 13:29:37:   [1]  ERROR: A property was declared outside of a section
+L 08/01/2016 - 23:32:30: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 08/01/2016 - 23:32:31: SMC parsing error on line 0
+L 08/01/2016 - 23:32:31:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/01/2016 - 23:32:31:   [1]  ERROR: Line contained too many invalid tokens
+L 08/01/2016 - 23:32:32: SMC parsing error on line 0
+L 08/01/2016 - 23:32:32:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/01/2016 - 23:32:32:   [1]  ERROR: Line contained too many invalid tokens
+L 08/01/2016 - 23:32:33: SMC parsing error on line 1
+L 08/01/2016 - 23:32:33:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/01/2016 - 23:32:33:   [1]  ERROR: A property was declared outside of a section
+L 08/02/2016 - 17:17:28: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 08/02/2016 - 17:17:51: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 08/02/2016 - 17:17:52: SMC parsing error on line 0
+L 08/02/2016 - 17:17:52:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/02/2016 - 17:17:52:   [1]  ERROR: Line contained too many invalid tokens
+L 08/02/2016 - 17:17:52: SMC parsing error on line 0
+L 08/02/2016 - 17:17:52:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/02/2016 - 17:17:52:   [1]  ERROR: Line contained too many invalid tokens
+L 08/02/2016 - 17:17:53: SMC parsing error on line 1
+L 08/02/2016 - 17:17:53:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/02/2016 - 17:17:53:   [1]  ERROR: A property was declared outside of a section
+L 08/03/2016 - 17:51:34: SMC parsing error on line 0
+L 08/03/2016 - 17:51:34:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/03/2016 - 17:51:34:   [1]  ERROR: Line contained too many invalid tokens
+L 08/03/2016 - 17:51:35: SMC parsing error on line 0
+L 08/03/2016 - 17:51:35:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/03/2016 - 17:51:35:   [1]  ERROR: Line contained too many invalid tokens
+L 08/03/2016 - 17:51:35: SMC parsing error on line 1
+L 08/03/2016 - 17:51:35:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/03/2016 - 17:51:35:   [1]  ERROR: A property was declared outside of a section
+L 08/04/2016 - 19:34:53: SMC parsing error on line 0
+L 08/04/2016 - 19:34:53:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/04/2016 - 19:34:53:   [1]  ERROR: Line contained too many invalid tokens
+L 08/04/2016 - 19:34:54: SMC parsing error on line 0
+L 08/04/2016 - 19:34:54:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/04/2016 - 19:34:54:   [1]  ERROR: Line contained too many invalid tokens
+L 08/04/2016 - 19:34:54: Update available for "[INS] Coop Lobby Override" (cooplobby.smx). Current: 0.0.1 - Latest: 0.0.2
+L 08/04/2016 - 19:34:54:   [0]  Plugin for overriding Insurgency Coop to 32 players
+L 08/04/2016 - 19:34:55: SMC parsing error on line 1
+L 08/04/2016 - 19:34:55:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/04/2016 - 19:34:55:   [1]  ERROR: A property was declared outside of a section
+L 08/04/2016 - 19:34:55: Successfully updated and installed "[INS] Coop Lobby Override".
+L 08/05/2016 - 17:20:39: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 08/05/2016 - 17:20:40: SMC parsing error on line 0
+L 08/05/2016 - 17:20:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/05/2016 - 17:20:40:   [1]  ERROR: Line contained too many invalid tokens
+L 08/05/2016 - 17:20:41: SMC parsing error on line 0
+L 08/05/2016 - 17:20:41:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/05/2016 - 17:20:41:   [1]  ERROR: Line contained too many invalid tokens
+L 08/05/2016 - 17:20:42: SMC parsing error on line 1
+L 08/05/2016 - 17:20:42:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/05/2016 - 17:20:42:   [1]  ERROR: A property was declared outside of a section
+L 08/06/2016 - 18:34:11: SMC parsing error on line 0
+L 08/06/2016 - 18:34:11:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/06/2016 - 18:34:11:   [1]  ERROR: Line contained too many invalid tokens
+L 08/06/2016 - 18:34:12: SMC parsing error on line 0
+L 08/06/2016 - 18:34:12:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/06/2016 - 18:34:12:   [1]  ERROR: Line contained too many invalid tokens
+L 08/06/2016 - 18:34:13: SMC parsing error on line 1
+L 08/06/2016 - 18:34:13:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/06/2016 - 18:34:13:   [1]  ERROR: A property was declared outside of a section
+L 08/07/2016 - 18:55:05: SMC parsing error on line 0
+L 08/07/2016 - 18:55:05:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/07/2016 - 18:55:05:   [1]  ERROR: Line contained too many invalid tokens
+L 08/07/2016 - 18:55:05: Update available for "Ammo Check" (ammocheck.smx). Current: 1.0.2 - Latest: 1.0.3
+L 08/07/2016 - 18:55:05:   [0]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 08/07/2016 - 18:55:05: SMC parsing error on line 0
+L 08/07/2016 - 18:55:05:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/07/2016 - 18:55:05:   [1]  ERROR: Line contained too many invalid tokens
+L 08/07/2016 - 18:55:06: SMC parsing error on line 1
+L 08/07/2016 - 18:55:06:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/07/2016 - 18:55:06:   [1]  ERROR: A property was declared outside of a section
+L 08/07/2016 - 18:55:07: Successfully updated and installed "Ammo Check".
+L 08/08/2016 - 20:40:32: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 08/08/2016 - 20:40:33: Update available for "[INS] Damage Modifier" (damagemod.smx). Current: 0.0.2 - Latest: 1.0.0
+L 08/08/2016 - 20:40:33:   [0]  Damage Modifier
+L 08/08/2016 - 20:40:33:   [1]  Modifies damage before applying to players
+L 08/08/2016 - 20:40:33: SMC parsing error on line 0
+L 08/08/2016 - 20:40:33:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/08/2016 - 20:40:33:   [1]  ERROR: Line contained too many invalid tokens
+L 08/08/2016 - 20:40:36: Update available for "Ammo Check" (ammocheck.smx). Current: 1.0.3 - Latest: 1.0.4
+L 08/08/2016 - 20:40:36:   [0]  Ammo Check
+L 08/08/2016 - 20:40:36:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 08/08/2016 - 20:40:36: Update available for "[INS] No Fog" (nofog.smx). Current: 0.0.1 - Latest: 1.0.0
+L 08/08/2016 - 20:40:36:   [0]  No Fog
+L 08/08/2016 - 20:40:36:   [1]  Removes fog
+L 08/08/2016 - 20:40:36: SMC parsing error on line 0
+L 08/08/2016 - 20:40:36:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/08/2016 - 20:40:36:   [1]  ERROR: Line contained too many invalid tokens
+L 08/08/2016 - 20:40:37: Update available for "[INS] Restricted Area Removal" (restrictedarea.smx). Current: 0.0.1 - Latest: 1.0.0
+L 08/08/2016 - 20:40:37:   [0]  Restricted Area Removal
+L 08/08/2016 - 20:40:37:   [1]  Plugin for removing Restricted Areas
+L 08/08/2016 - 20:40:37: Update available for "Coop Lobby Override" (cooplobby.smx). Current: 0.0.2 - Latest: 1.0.0
+L 08/08/2016 - 20:40:37:   [0]  Coop Lobby Override
+L 08/08/2016 - 20:40:37:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 08/08/2016 - 20:40:37: Update available for "[INS] Weapon Pickup" (weapon_pickup.smx). Current: 0.1.0 - Latest: 1.0.0
+L 08/08/2016 - 20:40:37:   [0]  Weapon Pickup
+L 08/08/2016 - 20:40:37:   [1]  Weapon Pickup logic for manipulating player inventory
+L 08/08/2016 - 20:40:37: Update available for "[INS] Insurgency Support Library" (insurgency.smx). Current: 1.3.7 - Latest: 1.4.0
+L 08/08/2016 - 20:40:37:   [0]  Insurgency Support Library
+L 08/08/2016 - 20:40:37:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 08/08/2016 - 20:40:37: Update available for "Bot Spawns" (botspawns.smx). Current: 0.4.2 - Latest: 1.0.0
+L 08/08/2016 - 20:40:37:   [0]  Bot Spawns
+L 08/08/2016 - 20:40:37:   [1]  Adds a number of options and ways to handle bot spawns
+L 08/08/2016 - 20:40:37: SMC parsing error on line 1
+L 08/08/2016 - 20:40:37:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/08/2016 - 20:40:37:   [1]  ERROR: A property was declared outside of a section
+L 08/08/2016 - 20:40:37: Update available for "[INS] RPG Adjustments" (rpgdrift.smx). Current: 0.0.3 - Latest: 1.0.0
+L 08/08/2016 - 20:40:37:   [0]  RPG Adjustments
+L 08/08/2016 - 20:40:37:   [1]  Adjusts behavior of RPG rounds
+L 08/08/2016 - 20:40:37: Update available for "Bot Counter" (botcount.smx). Current: 0.0.3 - Latest: 1.0.0
+L 08/08/2016 - 20:40:37:   [0]  Bot Counter
+L 08/08/2016 - 20:40:37:   [1]  Shows Bots Left Alive
+L 08/08/2016 - 20:40:37: Successfully updated and installed "[INS] Damage Modifier".
+L 08/08/2016 - 20:40:38: Successfully updated and installed "Ammo Check".
+L 08/08/2016 - 20:40:38: Successfully updated and installed "[INS] No Fog".
+L 08/08/2016 - 20:40:38: Successfully updated and installed "[INS] Restricted Area Removal".
+L 08/08/2016 - 20:40:38: Successfully updated and installed "Coop Lobby Override".
+L 08/08/2016 - 20:40:38: Successfully updated and installed "[INS] Weapon Pickup".
+L 08/08/2016 - 20:40:38: Successfully updated and installed "[INS] Insurgency Support Library".
+L 08/08/2016 - 20:40:38: Successfully updated and installed "Bot Spawns".
+L 08/08/2016 - 20:40:39: Successfully updated and installed "[INS] RPG Adjustments".
+L 08/08/2016 - 20:40:39: Successfully updated and installed "Bot Counter".
+L 08/10/2016 - 01:33:25: SMC parsing error on line 0
+L 08/10/2016 - 01:33:25:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/10/2016 - 01:33:25:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2016 - 01:33:25: SMC parsing error on line 0
+L 08/10/2016 - 01:33:25:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/10/2016 - 01:33:25:   [1]  ERROR: Line contained too many invalid tokens
+L 08/10/2016 - 01:33:25: SMC parsing error on line 1
+L 08/10/2016 - 01:33:25:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/10/2016 - 01:33:25:   [1]  ERROR: A property was declared outside of a section
+L 08/11/2016 - 02:02:09: SMC parsing error on line 0
+L 08/11/2016 - 02:02:09:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/11/2016 - 02:02:09:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2016 - 02:02:09: SMC parsing error on line 0
+L 08/11/2016 - 02:02:09:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/11/2016 - 02:02:09:   [1]  ERROR: Line contained too many invalid tokens
+L 08/11/2016 - 02:02:10: SMC parsing error on line 1
+L 08/11/2016 - 02:02:10:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/11/2016 - 02:02:10:   [1]  ERROR: A property was declared outside of a section
+L 08/12/2016 - 05:49:35: SMC parsing error on line 0
+L 08/12/2016 - 05:49:35:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/12/2016 - 05:49:35:   [1]  ERROR: Line contained too many invalid tokens
+L 08/12/2016 - 05:49:36: SMC parsing error on line 0
+L 08/12/2016 - 05:49:36:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/12/2016 - 05:49:36:   [1]  ERROR: Line contained too many invalid tokens
+L 08/12/2016 - 05:49:36: SMC parsing error on line 1
+L 08/12/2016 - 05:49:36:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/12/2016 - 05:49:36:   [1]  ERROR: A property was declared outside of a section
+L 08/13/2016 - 05:33:27: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 08/13/2016 - 05:33:28: SMC parsing error on line 0
+L 08/13/2016 - 05:33:28:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/13/2016 - 05:33:28:   [1]  ERROR: Line contained too many invalid tokens
+L 08/13/2016 - 05:33:29: SMC parsing error on line 1
+L 08/13/2016 - 05:33:29:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/13/2016 - 05:33:29:   [1]  ERROR: A property was declared outside of a section
+L 08/14/2016 - 07:24:38: SMC parsing error on line 0
+L 08/14/2016 - 07:24:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/14/2016 - 07:24:38:   [1]  ERROR: Line contained too many invalid tokens
+L 08/14/2016 - 07:24:40: SMC parsing error on line 1
+L 08/14/2016 - 07:24:40:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/14/2016 - 07:24:40:   [1]  ERROR: A property was declared outside of a section
+L 08/15/2016 - 08:12:43: SMC parsing error on line 0
+L 08/15/2016 - 08:12:43:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/15/2016 - 08:12:43:   [1]  ERROR: Line contained too many invalid tokens
+L 08/15/2016 - 08:12:44: SMC parsing error on line 1
+L 08/15/2016 - 08:12:44:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/15/2016 - 08:12:44:   [1]  ERROR: A property was declared outside of a section
+L 08/16/2016 - 11:46:51: SMC parsing error on line 0
+L 08/16/2016 - 11:46:51:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/16/2016 - 11:46:51:   [1]  ERROR: Line contained too many invalid tokens
+L 08/16/2016 - 11:46:51: SMC parsing error on line 1
+L 08/16/2016 - 11:46:51:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/16/2016 - 11:46:51:   [1]  ERROR: A property was declared outside of a section
+L 08/17/2016 - 14:43:26: SMC parsing error on line 0
+L 08/17/2016 - 14:43:26:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/17/2016 - 14:43:26:   [1]  ERROR: Line contained too many invalid tokens
+L 08/17/2016 - 14:43:28: SMC parsing error on line 1
+L 08/17/2016 - 14:43:28:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/17/2016 - 14:43:28:   [1]  ERROR: A property was declared outside of a section
+L 08/17/2016 - 18:45:52: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 08/17/2016 - 18:45:52: SMC parsing error on line 0
+L 08/17/2016 - 18:45:52:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/17/2016 - 18:45:52:   [1]  ERROR: Line contained too many invalid tokens
+L 08/17/2016 - 18:45:53: SMC parsing error on line 0
+L 08/17/2016 - 18:45:53:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/17/2016 - 18:45:53:   [1]  ERROR: Line contained too many invalid tokens
+L 08/17/2016 - 18:45:54: SMC parsing error on line 1
+L 08/17/2016 - 18:45:54:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/17/2016 - 18:45:54:   [1]  ERROR: A property was declared outside of a section
+L 08/18/2016 - 21:50:11: SMC parsing error on line 0
+L 08/18/2016 - 21:50:11:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/18/2016 - 21:50:11:   [1]  ERROR: Line contained too many invalid tokens
+L 08/18/2016 - 21:50:12: SMC parsing error on line 0
+L 08/18/2016 - 21:50:12:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/18/2016 - 21:50:12:   [1]  ERROR: Line contained too many invalid tokens
+L 08/18/2016 - 21:50:12: SMC parsing error on line 1
+L 08/18/2016 - 21:50:12:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/18/2016 - 21:50:12:   [1]  ERROR: A property was declared outside of a section
+L 08/19/2016 - 13:18:31: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 08/19/2016 - 13:18:32: SMC parsing error on line 0
+L 08/19/2016 - 13:18:32:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/19/2016 - 13:18:32:   [1]  ERROR: Line contained too many invalid tokens
+L 08/19/2016 - 13:18:33: SMC parsing error on line 0
+L 08/19/2016 - 13:18:33:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/19/2016 - 13:18:33:   [1]  ERROR: Line contained too many invalid tokens
+L 08/19/2016 - 13:18:33: SMC parsing error on line 1
+L 08/19/2016 - 13:18:33:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/19/2016 - 13:18:33:   [1]  ERROR: A property was declared outside of a section
+L 08/20/2016 - 14:03:14: SMC parsing error on line 0
+L 08/20/2016 - 14:03:14:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/20/2016 - 14:03:14:   [1]  ERROR: Line contained too many invalid tokens
+L 08/20/2016 - 14:03:14: SMC parsing error on line 0
+L 08/20/2016 - 14:03:14:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/20/2016 - 14:03:14:   [1]  ERROR: Line contained too many invalid tokens
+L 08/20/2016 - 14:03:16: SMC parsing error on line 1
+L 08/20/2016 - 14:03:16:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/20/2016 - 14:03:16:   [1]  ERROR: A property was declared outside of a section
+L 08/21/2016 - 14:42:39: SMC parsing error on line 0
+L 08/21/2016 - 14:42:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/21/2016 - 14:42:39:   [1]  ERROR: Line contained too many invalid tokens
+L 08/21/2016 - 14:42:39: SMC parsing error on line 0
+L 08/21/2016 - 14:42:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/21/2016 - 14:42:39:   [1]  ERROR: Line contained too many invalid tokens
+L 08/21/2016 - 14:42:40: SMC parsing error on line 1
+L 08/21/2016 - 14:42:40:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/21/2016 - 14:42:40:   [1]  ERROR: A property was declared outside of a section
+L 08/21/2016 - 20:05:49: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 08/21/2016 - 20:05:49: SMC parsing error on line 0
+L 08/21/2016 - 20:05:49:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/21/2016 - 20:05:49:   [1]  ERROR: Line contained too many invalid tokens
+L 08/21/2016 - 20:05:53: SMC parsing error on line 0
+L 08/21/2016 - 20:05:53:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/21/2016 - 20:05:53:   [1]  ERROR: Line contained too many invalid tokens
+L 08/21/2016 - 20:05:54: SMC parsing error on line 1
+L 08/21/2016 - 20:05:54:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/21/2016 - 20:05:54:   [1]  ERROR: A property was declared outside of a section
+L 08/22/2016 - 21:08:15: SMC parsing error on line 0
+L 08/22/2016 - 21:08:15:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/22/2016 - 21:08:15:   [1]  ERROR: Line contained too many invalid tokens
+L 08/22/2016 - 21:08:15: SMC parsing error on line 0
+L 08/22/2016 - 21:08:15:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/22/2016 - 21:08:15:   [1]  ERROR: Line contained too many invalid tokens
+L 08/22/2016 - 21:08:16: SMC parsing error on line 1
+L 08/22/2016 - 21:08:16:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/22/2016 - 21:08:16:   [1]  ERROR: A property was declared outside of a section
+L 08/24/2016 - 07:25:19: SMC parsing error on line 0
+L 08/24/2016 - 07:25:19:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/24/2016 - 07:25:19:   [1]  ERROR: Line contained too many invalid tokens
+L 08/24/2016 - 07:25:22: SMC parsing error on line 0
+L 08/24/2016 - 07:25:22:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/24/2016 - 07:25:22:   [1]  ERROR: Line contained too many invalid tokens
+L 08/24/2016 - 07:25:23: SMC parsing error on line 1
+L 08/24/2016 - 07:25:23:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/24/2016 - 07:25:23:   [1]  ERROR: A property was declared outside of a section
+L 08/25/2016 - 10:26:13: SMC parsing error on line 0
+L 08/25/2016 - 10:26:13:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/25/2016 - 10:26:13:   [1]  ERROR: Line contained too many invalid tokens
+L 08/25/2016 - 10:26:14: SMC parsing error on line 0
+L 08/25/2016 - 10:26:14:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/25/2016 - 10:26:14:   [1]  ERROR: Line contained too many invalid tokens
+L 08/25/2016 - 10:26:16: SMC parsing error on line 1
+L 08/25/2016 - 10:26:16:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/25/2016 - 10:26:16:   [1]  ERROR: A property was declared outside of a section
+L 08/26/2016 - 05:46:21: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 08/26/2016 - 05:46:22: SMC parsing error on line 0
+L 08/26/2016 - 05:46:22:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/26/2016 - 05:46:22:   [1]  ERROR: Line contained too many invalid tokens
+L 08/26/2016 - 05:46:22: SMC parsing error on line 0
+L 08/26/2016 - 05:46:22:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/26/2016 - 05:46:22:   [1]  ERROR: Line contained too many invalid tokens
+L 08/26/2016 - 05:46:23: SMC parsing error on line 1
+L 08/26/2016 - 05:46:23:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/26/2016 - 05:46:23:   [1]  ERROR: A property was declared outside of a section
+L 08/26/2016 - 18:03:17: Update available for "Updater" (updater.smx). Current: 1.2.2 - Latest: 
+L 08/26/2016 - 18:03:18: SMC parsing error on line 0
+L 08/26/2016 - 18:03:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/26/2016 - 18:03:18:   [1]  ERROR: Line contained too many invalid tokens
+L 08/26/2016 - 18:03:18: SMC parsing error on line 0
+L 08/26/2016 - 18:03:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/26/2016 - 18:03:18:   [1]  ERROR: Line contained too many invalid tokens
+L 08/26/2016 - 18:03:19: SMC parsing error on line 1
+L 08/26/2016 - 18:03:19:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/26/2016 - 18:03:19:   [1]  ERROR: A property was declared outside of a section
+L 08/26/2016 - 21:28:28: SMC parsing error on line 0
+L 08/26/2016 - 21:28:28:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/26/2016 - 21:28:28:   [1]  ERROR: Line contained too many invalid tokens
+L 08/26/2016 - 21:28:29: SMC parsing error on line 0
+L 08/26/2016 - 21:28:29:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/26/2016 - 21:28:29:   [1]  ERROR: Line contained too many invalid tokens
+L 08/26/2016 - 21:28:29: SMC parsing error on line 1
+L 08/26/2016 - 21:28:29:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/26/2016 - 21:28:29:   [1]  ERROR: A property was declared outside of a section
+L 08/28/2016 - 01:06:57: SMC parsing error on line 0
+L 08/28/2016 - 01:06:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/28/2016 - 01:06:57:   [1]  ERROR: Line contained too many invalid tokens
+L 08/28/2016 - 01:06:57: SMC parsing error on line 0
+L 08/28/2016 - 01:06:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/28/2016 - 01:06:57:   [1]  ERROR: Line contained too many invalid tokens
+L 08/28/2016 - 01:06:58: SMC parsing error on line 1
+L 08/28/2016 - 01:06:58:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/28/2016 - 01:06:58:   [1]  ERROR: A property was declared outside of a section
+L 08/29/2016 - 01:32:44: SMC parsing error on line 0
+L 08/29/2016 - 01:32:44:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/29/2016 - 01:32:44:   [1]  ERROR: Line contained too many invalid tokens
+L 08/29/2016 - 01:32:46: SMC parsing error on line 0
+L 08/29/2016 - 01:32:46:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/29/2016 - 01:32:46:   [1]  ERROR: Line contained too many invalid tokens
+L 08/29/2016 - 01:32:46: SMC parsing error on line 1
+L 08/29/2016 - 01:32:46:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/29/2016 - 01:32:46:   [1]  ERROR: A property was declared outside of a section
+L 08/30/2016 - 07:19:12: SMC parsing error on line 0
+L 08/30/2016 - 07:19:12:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/30/2016 - 07:19:12:   [1]  ERROR: Line contained too many invalid tokens
+L 08/30/2016 - 07:19:13: SMC parsing error on line 0
+L 08/30/2016 - 07:19:13:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/30/2016 - 07:19:13:   [1]  ERROR: Line contained too many invalid tokens
+L 08/30/2016 - 07:19:14: SMC parsing error on line 1
+L 08/30/2016 - 07:19:14:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/30/2016 - 07:19:14:   [1]  ERROR: A property was declared outside of a section
+L 08/30/2016 - 12:13:16: SMC parsing error on line 0
+L 08/30/2016 - 12:13:16:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/30/2016 - 12:13:16:   [1]  ERROR: Line contained too many invalid tokens
+L 08/30/2016 - 12:13:17: SMC parsing error on line 0
+L 08/30/2016 - 12:13:17:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/30/2016 - 12:13:17:   [1]  ERROR: Line contained too many invalid tokens
+L 08/30/2016 - 12:13:18: SMC parsing error on line 1
+L 08/30/2016 - 12:13:18:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/30/2016 - 12:13:18:   [1]  ERROR: A property was declared outside of a section
+L 08/31/2016 - 12:38:39: SMC parsing error on line 0
+L 08/31/2016 - 12:38:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/31/2016 - 12:38:39:   [1]  ERROR: Line contained too many invalid tokens
+L 08/31/2016 - 12:38:40: SMC parsing error on line 0
+L 08/31/2016 - 12:38:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/31/2016 - 12:38:40:   [1]  ERROR: Line contained too many invalid tokens
+L 08/31/2016 - 12:38:41: SMC parsing error on line 1
+L 08/31/2016 - 12:38:41:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/31/2016 - 12:38:41:   [1]  ERROR: A property was declared outside of a section
+L 09/01/2016 - 14:20:56: SMC parsing error on line 0
+L 09/01/2016 - 14:20:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 09/01/2016 - 14:20:56:   [1]  ERROR: Line contained too many invalid tokens
+L 09/01/2016 - 14:20:57: SMC parsing error on line 0
+L 09/01/2016 - 14:20:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 09/01/2016 - 14:20:57:   [1]  ERROR: Line contained too many invalid tokens
+L 09/01/2016 - 14:20:58: SMC parsing error on line 1
+L 09/01/2016 - 14:20:58:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 09/01/2016 - 14:20:58:   [1]  ERROR: A property was declared outside of a section
+L 09/02/2016 - 20:24:56: SMC parsing error on line 0
+L 09/02/2016 - 20:24:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 09/02/2016 - 20:24:56:   [1]  ERROR: Line contained too many invalid tokens
+L 09/02/2016 - 20:24:57: SMC parsing error on line 0
+L 09/02/2016 - 20:24:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 09/02/2016 - 20:24:57:   [1]  ERROR: Line contained too many invalid tokens
+L 09/02/2016 - 20:24:57: SMC parsing error on line 1
+L 09/02/2016 - 20:24:57:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 09/02/2016 - 20:24:57:   [1]  ERROR: A property was declared outside of a section
+L 09/03/2016 - 14:25:38: SMC parsing error on line 0
+L 09/03/2016 - 14:25:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 09/03/2016 - 14:25:38:   [1]  ERROR: Line contained too many invalid tokens
+L 09/03/2016 - 14:25:38: SMC parsing error on line 0
+L 09/03/2016 - 14:25:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 09/03/2016 - 14:25:38:   [1]  ERROR: Line contained too many invalid tokens
+L 09/03/2016 - 14:25:39: SMC parsing error on line 1
+L 09/03/2016 - 14:25:39:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 09/03/2016 - 14:25:39:   [1]  ERROR: A property was declared outside of a section
+L 09/04/2016 - 14:49:39: SMC parsing error on line 0
+L 09/04/2016 - 14:49:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 09/04/2016 - 14:49:39:   [1]  ERROR: Line contained too many invalid tokens
+L 09/04/2016 - 14:49:39: SMC parsing error on line 0
+L 09/04/2016 - 14:49:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 09/04/2016 - 14:49:39:   [1]  ERROR: Line contained too many invalid tokens
+L 09/04/2016 - 14:49:40: SMC parsing error on line 1
+L 09/04/2016 - 14:49:40:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 09/04/2016 - 14:49:40:   [1]  ERROR: A property was declared outside of a section
+L 09/05/2016 - 17:19:18: SMC parsing error on line 0
+L 09/05/2016 - 17:19:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 09/05/2016 - 17:19:18:   [1]  ERROR: Line contained too many invalid tokens
+L 09/05/2016 - 17:19:19: SMC parsing error on line 0
+L 09/05/2016 - 17:19:19:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 09/05/2016 - 17:19:19:   [1]  ERROR: Line contained too many invalid tokens
+L 09/05/2016 - 17:19:20: SMC parsing error on line 1
+L 09/05/2016 - 17:19:20:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 09/05/2016 - 17:19:20:   [1]  ERROR: A property was declared outside of a section

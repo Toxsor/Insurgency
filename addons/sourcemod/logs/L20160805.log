@@ -1,0 +1,124 @@
+L 08/05/2016 - 00:04:39: SourceMod log file session started (file "L20160805.log") (Version "1.8.0.5919")
+L 08/05/2016 - 00:04:39: -------- Mapchange to takbar_b5 --------
+L 08/05/2016 - 00:20:03: -------- Mapchange to panama_canal_a3 --------
+L 08/05/2016 - 00:38:09: -------- Mapchange to winter_rescue_v1 --------
+L 08/05/2016 - 00:52:53: -------- Mapchange to launch_control_coopv1_9 --------
+L 08/05/2016 - 01:09:36: -------- Mapchange to baghdad_b5 --------
+L 08/05/2016 - 01:20:49: -------- Mapchange to embassy_coop --------
+L 08/05/2016 - 01:40:57: -------- Mapchange to ins_abdallah_new_night_coop --------
+L 08/05/2016 - 01:48:41: -------- Mapchange to invasion_coop_beta3 --------
+L 08/05/2016 - 02:12:00: -------- Mapchange to hurtlocker_coopv2hc --------
+L 08/05/2016 - 02:37:41: -------- Mapchange to caves_coop --------
+L 08/05/2016 - 02:57:43: -------- Mapchange to ministry_coop --------
+L 08/05/2016 - 03:11:55: -------- Mapchange to gizab_b1_coop --------
+L 08/05/2016 - 03:45:26: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/05/2016 - 03:48:51: [respawn.smx] "Blaze<6850><STEAM_1:1:868254><>" respawned "Honyars<6848><STEAM_1:0:89230144><>"
+L 08/05/2016 - 05:14:03: [respawn.smx] "Blaze<6861><STEAM_1:1:868254><>" respawned "PurpleWolf<6872><STEAM_1:0:39188717><>"
+L 08/05/2016 - 05:46:27: -------- Mapchange to zagros_convoy_b5 --------
+L 08/05/2016 - 05:51:45: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/05/2016 - 06:26:17: -------- Mapchange to invasion_coop_beta3 --------
+L 08/05/2016 - 06:34:45: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/05/2016 - 07:09:41: -------- Mapchange to cu_chi_tunnels --------
+L 08/05/2016 - 07:26:16: -------- Mapchange to cu_chi_tunnels --------
+L 08/05/2016 - 07:53:56: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/05/2016 - 08:23:55: -------- Mapchange to ministry_coop --------
+L 08/05/2016 - 08:40:10: -------- Mapchange to tell_coop --------
+L 08/05/2016 - 09:18:34: -------- Mapchange to buhriz_coop --------
+L 08/05/2016 - 09:31:57: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/05/2016 - 09:43:01: -------- Mapchange to trenches6_coop_v1_2 --------
+L 08/05/2016 - 10:13:48: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/05/2016 - 11:20:14: -------- Mapchange to angle_iron_coop_beta5 --------
+L 08/05/2016 - 11:38:31: -------- Mapchange to panama_canal_a3 --------
+L 08/05/2016 - 12:12:24: -------- Mapchange to ps7n --------
+L 08/05/2016 - 12:27:34: -------- Mapchange to payback_b3 --------
+L 08/05/2016 - 12:52:58: -------- Mapchange to pow_raid --------
+L 08/05/2016 - 13:01:08: -------- Mapchange to prophet_coop --------
+L 08/05/2016 - 13:13:43: -------- Mapchange to tell_coop --------
+L 08/05/2016 - 13:59:13: -------- Mapchange to drycanal_coop --------
+L 08/05/2016 - 14:50:42: -------- Mapchange to badlands_coop_b1 --------
+L 08/05/2016 - 15:12:33: -------- Mapchange to zagros_convoy_b5 --------
+L 08/05/2016 - 15:24:28: -------- Mapchange to the_burbs_coop --------
+L 08/05/2016 - 15:34:49: -------- Mapchange to baghdad_b5 --------
+L 08/05/2016 - 15:44:41: -------- Mapchange to panama_canal_a3 --------
+L 08/05/2016 - 16:02:01: -------- Mapchange to kandagal_coop_b5 --------
+L 08/05/2016 - 16:34:27: -------- Mapchange to tell_coop --------
+L 08/05/2016 - 16:53:07: -------- Mapchange to almaden_coop_v1_1 --------
+L 08/05/2016 - 17:06:29: -------- Mapchange to ministry_coop --------
+L 08/05/2016 - 17:15:52: -------- Mapchange to buhriz_coop --------
+L 08/05/2016 - 17:20:32: SourceMod log file session started (file "L20160805.log") (Version "1.8.0.5919")
+L 08/05/2016 - 17:20:32: -------- Mapchange to tell_coop --------
+L 08/05/2016 - 17:20:32: [simple-chatprocessor.smx] [SCP] Recognized mod [Insurgency].
+L 08/05/2016 - 17:20:32: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.insurgency.phrases].
+L 08/05/2016 - 17:20:32: [antitk.smx] [Anti-TK Manager] Data File: addons/sourcemod/data/AntiTK.txt
+L 08/05/2016 - 17:20:32: [antitk.smx] [Anti-TK] Detected Mod Insurgency
+L 08/05/2016 - 17:33:57: -------- Mapchange to buhriz_coop --------
+L 08/05/2016 - 17:46:50: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/05/2016 - 17:55:46: -------- Mapchange to panama_canal_a3 --------
+L 08/05/2016 - 18:24:58: -------- Mapchange to buhriz_coop --------
+L 08/05/2016 - 18:36:52: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/05/2016 - 18:50:24: -------- Mapchange to healthcenter_coop --------
+L 08/05/2016 - 19:11:06: -------- Mapchange to cs_militia_coop_v1_1 --------
+L 08/05/2016 - 19:19:46: -------- Mapchange to osama_b3_checkpoint --------
+L 08/05/2016 - 19:33:25: -------- Mapchange to bridge_coop_optimized_v1 --------
+L 08/05/2016 - 19:44:35: -------- Mapchange to crossbowv1_1 --------
+L 08/05/2016 - 19:56:21: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/05/2016 - 20:09:11: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/05/2016 - 20:19:34: -------- Mapchange to baghdad_b5 --------
+L 08/05/2016 - 20:29:36: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/05/2016 - 20:48:09: -------- Mapchange to siege_coop --------
+L 08/05/2016 - 20:58:25: -------- Mapchange to jail_break_coop_ws --------
+L 08/05/2016 - 21:11:11: -------- Mapchange to bunker_busting_coopv1_5 --------
+L 08/05/2016 - 21:24:52: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/05/2016 - 21:31:14: [respawn.smx] "Blaze<569><STEAM_1:1:868254><>" respawned "-Matt Nitro-<402><STEAM_1:1:85925142><>"
+L 08/05/2016 - 21:31:14: [respawn.smx] "Blaze<569><STEAM_1:1:868254><>" respawned "Blaze<569><STEAM_1:1:868254><>"
+L 08/05/2016 - 21:31:14: [respawn.smx] "Blaze<569><STEAM_1:1:868254><>" respawned "Boseman71<573><STEAM_1:1:55287299><>"
+L 08/05/2016 - 21:35:32: [respawn.smx] "Blaze<569><STEAM_1:1:868254><>" respawned "Blaze<569><STEAM_1:1:868254><>"
+L 08/05/2016 - 21:38:18: [respawn.smx] "Blaze<569><STEAM_1:1:868254><>" respawned "Blaze<569><STEAM_1:1:868254><>"
+L 08/05/2016 - 21:38:18: [respawn.smx] "Blaze<569><STEAM_1:1:868254><>" respawned "Boseman71<577><STEAM_1:1:55287299><>"
+L 08/05/2016 - 21:39:48: [respawn.smx] "Blaze<569><STEAM_1:1:868254><>" respawned "Blaze<569><STEAM_1:1:868254><>"
+L 08/05/2016 - 21:45:27: -------- Mapchange to badel_coop_v1 --------
+L 08/05/2016 - 22:05:18: -------- Mapchange to bunker_busting_coopv1_5 --------
+L 08/05/2016 - 22:18:31: -------- Mapchange to kandagal_coop_b5 --------
+L 08/05/2016 - 22:29:56: -------- Mapchange to tunnel_rats_coopv1_4 --------
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "1440") (reason "General Exploit of Game/Map/Server")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:41:12: [sourcebans.smx] "Hiro<677><STEAM_1:0:27934489><>" banned "-Matt Nitro-<402><STEAM_1:1:85925142><>" (minutes "5") (reason "You have been banned by this server, check https://bans.rgservers.com for more info")
+L 08/05/2016 - 22:58:46: -------- Mapchange to ministry_coop --------
+L 08/05/2016 - 23:05:46: -------- Mapchange to market_coop --------
+L 08/05/2016 - 23:16:27: -------- Mapchange to embassy_coop --------
+L 08/05/2016 - 23:32:50: -------- Mapchange to jail_break_coop_ws --------
+L 08/05/2016 - 23:45:44: -------- Mapchange to jail_break_coop_ws --------

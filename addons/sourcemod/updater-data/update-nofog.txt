@@ -1,0 +1,18 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.0.1"
+		}
+		"Notes"		"Removes fog"
+		"Name"		"[INS] No Fog"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/nofog.sp"
+		"Plugin"	"Path_SM/plugins/nofog.smx"
+
+	}
+}

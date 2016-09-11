@@ -1,0 +1,83 @@
+L 08/09/2016 - 00:27:16: SourceMod log file session started (file "L20160809.log") (Version "1.8.0.5919")
+L 08/09/2016 - 00:27:16: [basecommands.smx] "Blaze<400><STEAM_1:1:868254><>" changed map to "tell_coop checkpoint"
+L 08/09/2016 - 00:27:19: [SM] Changed map to "tell_coop checkpoint"
+L 08/09/2016 - 00:27:20: -------- Mapchange to tell_coop --------
+L 08/09/2016 - 01:01:21: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Jäger<428><STEAM_1:1:89115422><>"
+L 08/09/2016 - 01:01:21: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Blaze<429><STEAM_1:1:868254><>"
+L 08/09/2016 - 01:05:01: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "FetZig@DrecKsAuT<408><STEAM_1:1:156121606><>"
+L 08/09/2016 - 01:05:01: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Blaze<429><STEAM_1:1:868254><>"
+L 08/09/2016 - 01:05:46: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Blaze<429><STEAM_1:1:868254><>"
+L 08/09/2016 - 01:06:17: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Harry Manback<423><STEAM_1:1:2962214><>"
+L 08/09/2016 - 01:06:17: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Manhunt<427><STEAM_1:1:28536086><>"
+L 08/09/2016 - 01:11:18: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Blaze<429><STEAM_1:1:868254><>"
+L 08/09/2016 - 01:14:28: -------- Mapchange to bb_gauntlet_b4 --------
+L 08/09/2016 - 01:24:28: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Hyper→Highspeed→Genius<433><STEAM_1:0:57684118><>"
+L 08/09/2016 - 01:24:28: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Harry Manback<423><STEAM_1:1:2962214><>"
+L 08/09/2016 - 01:24:28: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Manhunt<427><STEAM_1:1:28536086><>"
+L 08/09/2016 - 01:24:28: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "GRIM<459><STEAM_1:1:8068730><>"
+L 08/09/2016 - 01:25:00: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Blaze<429><STEAM_1:1:868254><>"
+L 08/09/2016 - 01:28:01: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Manhunt<427><STEAM_1:1:28536086><>"
+L 08/09/2016 - 01:28:01: [respawn.smx] "Blaze<429><STEAM_1:1:868254><>" respawned "Blaze<429><STEAM_1:1:868254><>"
+L 08/09/2016 - 01:48:17: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/09/2016 - 01:56:20: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/09/2016 - 02:04:49: -------- Mapchange to healthcenter_coop --------
+L 08/09/2016 - 02:24:17: -------- Mapchange to ministry_coop --------
+L 08/09/2016 - 02:33:26: -------- Mapchange to tell_coop --------
+L 08/09/2016 - 02:52:13: -------- Mapchange to takbar_b5 --------
+L 08/09/2016 - 03:07:19: -------- Mapchange to badlands_coop_b1 --------
+L 08/09/2016 - 03:24:52: -------- Mapchange to almaden_coop_v1_1 --------
+L 08/09/2016 - 03:40:17: -------- Mapchange to siege_coop --------
+L 08/09/2016 - 04:03:23: -------- Mapchange to launch_control_coopv1_9 --------
+L 08/09/2016 - 04:58:06: -------- Mapchange to market_coop --------
+L 08/09/2016 - 05:52:43: -------- Mapchange to ministry_coop --------
+L 08/09/2016 - 06:47:39: -------- Mapchange to nightfall_coopv1_2 --------
+L 08/09/2016 - 07:45:53: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/09/2016 - 10:35:57: -------- Mapchange to bb_gauntlet_b4 --------
+L 08/09/2016 - 10:52:11: -------- Mapchange to panama_canal_a3 --------
+L 08/09/2016 - 11:10:06: -------- Mapchange to sinjar_coop --------
+L 08/09/2016 - 11:23:07: -------- Mapchange to jack_hammer_coopv1_2 --------
+L 08/09/2016 - 11:35:06: -------- Mapchange to siege_coop --------
+L 08/09/2016 - 11:49:24: -------- Mapchange to pow_raid --------
+L 08/09/2016 - 12:03:42: -------- Mapchange to trenches6_coop_v1_2 --------
+L 08/09/2016 - 12:14:35: -------- Mapchange to cs_militia_coop_v1_1 --------
+L 08/09/2016 - 12:38:14: -------- Mapchange to dusty_nights_coopv1_1 --------
+L 08/09/2016 - 13:04:06: -------- Mapchange to buhriz_coop --------
+L 08/09/2016 - 15:18:52: -------- Mapchange to bridge_coop_optimized_v1 --------
+L 08/09/2016 - 15:37:40: -------- Mapchange to ps7n --------
+L 08/09/2016 - 15:43:09: -------- Mapchange to ministry_coop --------
+L 08/09/2016 - 15:52:39: -------- Mapchange to bunker_busting_coopv1_5 --------
+L 08/09/2016 - 16:08:30: -------- Mapchange to winter_rescue_v1 --------
+L 08/09/2016 - 16:25:17: -------- Mapchange to verticality_coop --------
+L 08/09/2016 - 16:36:00: -------- Mapchange to chateau_tunnels_v1 --------
+L 08/09/2016 - 16:55:47: -------- Mapchange to drycanal_coop --------
+L 08/09/2016 - 17:14:30: -------- Mapchange to shellshock_2 --------
+L 08/09/2016 - 17:26:29: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/09/2016 - 17:34:49: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/09/2016 - 17:53:19: -------- Mapchange to healthcenter_coop --------
+L 08/09/2016 - 18:04:32: -------- Mapchange to tunnel_rats_coopv1_4 --------
+L 08/09/2016 - 18:21:21: -------- Mapchange to almaden_coop_v1_1 --------
+L 08/09/2016 - 18:32:44: -------- Mapchange to launch_control_coopv1_9 --------
+L 08/09/2016 - 18:52:57: -------- Mapchange to shellshock_2 --------
+L 08/09/2016 - 19:07:52: -------- Mapchange to osama_b3_checkpoint --------
+L 08/09/2016 - 19:20:15: -------- Mapchange to siege_coop --------
+L 08/09/2016 - 19:31:17: -------- Mapchange to tell_coop --------
+L 08/09/2016 - 19:42:07: -------- Mapchange to cs_motel_coop_nd_v1_3 --------
+L 08/09/2016 - 19:51:43: -------- Mapchange to ministry_coop --------
+L 08/09/2016 - 20:00:18: -------- Mapchange to sinjar_coop --------
+L 08/09/2016 - 20:16:01: -------- Mapchange to trenches6_coop_v1_2 --------
+L 08/09/2016 - 20:28:34: -------- Mapchange to heights_coop --------
+L 08/09/2016 - 20:42:11: -------- Mapchange to revolt_coop --------
+L 08/09/2016 - 20:55:00: -------- Mapchange to tell_coop --------
+L 08/09/2016 - 21:09:59: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/09/2016 - 21:34:24: -------- Mapchange to the_burbs_coop --------
+L 08/09/2016 - 21:42:53: -------- Mapchange to jack_hammer_coopv1_2 --------
+L 08/09/2016 - 21:54:34: -------- Mapchange to drycanal_coop --------
+L 08/09/2016 - 22:11:16: -------- Mapchange to launch_control_coopv1_9 --------
+L 08/09/2016 - 22:26:37: -------- Mapchange to embassy_coop --------
+L 08/09/2016 - 22:39:31: -------- Mapchange to osama_b3_checkpoint --------
+L 08/09/2016 - 22:53:53: -------- Mapchange to district_coop --------
+L 08/09/2016 - 23:08:17: -------- Mapchange to block_partyv1_1_coop --------
+L 08/09/2016 - 23:26:48: -------- Mapchange to healthcenter_coop --------
+L 08/09/2016 - 23:35:57: -------- Mapchange to prophet_coop --------
+L 08/09/2016 - 23:45:24: -------- Mapchange to de_lake_coop_nd_v1_2 --------
+L 08/09/2016 - 23:53:09: -------- Mapchange to baghdad_b5 --------

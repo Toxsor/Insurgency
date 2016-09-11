@@ -1,0 +1,3457 @@
+L 08/26/2016 - 21:28:06: Download started:
+L 08/26/2016 - 21:28:06:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/26/2016 - 21:28:06:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:28:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:28: Download started:
+L 08/26/2016 - 21:28:28:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/26/2016 - 21:28:28:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:29:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:29: Download started:
+L 08/26/2016 - 21:28:29:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/26/2016 - 21:28:29:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:29:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:29: Download started:
+L 08/26/2016 - 21:28:29:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/26/2016 - 21:28:29:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:29:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:29:  
+L 08/26/2016 - 21:28:29: SMC DEBUG
+L 08/26/2016 - 21:28:29: information->baseurl
+L 08/26/2016 - 21:28:29:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:29: version->latest
+L 08/26/2016 - 21:28:29:   [0]  1.0.0
+L 08/26/2016 - 21:28:29: information->notes
+L 08/26/2016 - 21:28:29:   [0]  Damage Modifier
+L 08/26/2016 - 21:28:29:   [1]  Modifies damage before applying to players
+L 08/26/2016 - 21:28:29: files->source
+L 08/26/2016 - 21:28:29:   [0]  Path_SM/scripting/damagemod.sp
+L 08/26/2016 - 21:28:29:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:29:   [2]  Path_SM/scripting/include/updater.inc
+L 08/26/2016 - 21:28:29: files->plugin
+L 08/26/2016 - 21:28:29:   [0]  Path_SM/plugins/damagemod.smx
+L 08/26/2016 - 21:28:29: END SMC DEBUG
+L 08/26/2016 - 21:28:29:  
+L 08/26/2016 - 21:28:29: Download started:
+L 08/26/2016 - 21:28:29:   [0]  URL: http://ins.jballou.com/sourcemod/update-events.txt
+L 08/26/2016 - 21:28:29:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:29:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:29:  
+L 08/26/2016 - 21:28:29: SMC DEBUG
+L 08/26/2016 - 21:28:29: information->baseurl
+L 08/26/2016 - 21:28:29:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:29: version->latest
+L 08/26/2016 - 21:28:29:   [0]  1.0.0
+L 08/26/2016 - 21:28:29: information->notes
+L 08/26/2016 - 21:28:29:   [0]  Event Logger
+L 08/26/2016 - 21:28:29:   [1]  Log events to client or server
+L 08/26/2016 - 21:28:29: files->source
+L 08/26/2016 - 21:28:29:   [0]  Path_SM/scripting/events.sp
+L 08/26/2016 - 21:28:29:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:29:   [2]  Path_SM/scripting/include/updater.inc
+L 08/26/2016 - 21:28:29: files->plugin
+L 08/26/2016 - 21:28:29:   [0]  Path_SM/plugins/events.smx
+L 08/26/2016 - 21:28:29: END SMC DEBUG
+L 08/26/2016 - 21:28:29:  
+L 08/26/2016 - 21:28:29: Download started:
+L 08/26/2016 - 21:28:29:   [0]  URL: http://ins.jballou.com/sourcemod/update-ammocheck.txt
+L 08/26/2016 - 21:28:29:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:30:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: SMC DEBUG
+L 08/26/2016 - 21:28:30: information->baseurl
+L 08/26/2016 - 21:28:30:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:30: version->latest
+L 08/26/2016 - 21:28:30:   [0]  1.0.4
+L 08/26/2016 - 21:28:30: information->notes
+L 08/26/2016 - 21:28:30:   [0]  Ammo Check
+L 08/26/2016 - 21:28:30:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 08/26/2016 - 21:28:30: files->source
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/scripting/ammocheck.sp
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:30:   [2]  Path_SM/scripting/include/updater.inc
+L 08/26/2016 - 21:28:30: files->plugin
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/plugins/ammocheck.smx
+L 08/26/2016 - 21:28:30: END SMC DEBUG
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: Download started:
+L 08/26/2016 - 21:28:30:   [0]  URL: http://ins.jballou.com/sourcemod/update-nofog.txt
+L 08/26/2016 - 21:28:30:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:30:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: SMC DEBUG
+L 08/26/2016 - 21:28:30: information->baseurl
+L 08/26/2016 - 21:28:30:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:30: version->latest
+L 08/26/2016 - 21:28:30:   [0]  1.0.0
+L 08/26/2016 - 21:28:30: information->notes
+L 08/26/2016 - 21:28:30:   [0]  No Fog
+L 08/26/2016 - 21:28:30:   [1]  Removes fog
+L 08/26/2016 - 21:28:30: files->source
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/scripting/nofog.sp
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:30:   [2]  Path_SM/scripting/include/updater.inc
+L 08/26/2016 - 21:28:30: files->plugin
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/plugins/nofog.smx
+L 08/26/2016 - 21:28:30: END SMC DEBUG
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: Download started:
+L 08/26/2016 - 21:28:30:   [0]  URL: http://ins.jballou.com/sourcemod/update-restrictedarea.txt
+L 08/26/2016 - 21:28:30:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:30:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: SMC DEBUG
+L 08/26/2016 - 21:28:30: information->baseurl
+L 08/26/2016 - 21:28:30:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:30: version->latest
+L 08/26/2016 - 21:28:30:   [0]  1.0.0
+L 08/26/2016 - 21:28:30: information->notes
+L 08/26/2016 - 21:28:30:   [0]  Restricted Area Removal
+L 08/26/2016 - 21:28:30:   [1]  Plugin for removing Restricted Areas
+L 08/26/2016 - 21:28:30: files->source
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/scripting/restrictedarea.sp
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:30:   [2]  Path_SM/scripting/include/updater.inc
+L 08/26/2016 - 21:28:30: files->plugin
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/plugins/restrictedarea.smx
+L 08/26/2016 - 21:28:30: END SMC DEBUG
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: Download started:
+L 08/26/2016 - 21:28:30:   [0]  URL: http://ins.jballou.com/sourcemod/update-cooplobby.txt
+L 08/26/2016 - 21:28:30:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:30:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: SMC DEBUG
+L 08/26/2016 - 21:28:30: information->baseurl
+L 08/26/2016 - 21:28:30:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:30: version->latest
+L 08/26/2016 - 21:28:30:   [0]  1.0.0
+L 08/26/2016 - 21:28:30: information->notes
+L 08/26/2016 - 21:28:30:   [0]  Coop Lobby Override
+L 08/26/2016 - 21:28:30:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 08/26/2016 - 21:28:30: files->source
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/scripting/cooplobby.sp
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:30:   [2]  Path_SM/scripting/include/updater.inc
+L 08/26/2016 - 21:28:30: files->plugin
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/plugins/cooplobby.smx
+L 08/26/2016 - 21:28:30: END SMC DEBUG
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: Download started:
+L 08/26/2016 - 21:28:30:   [0]  URL: http://ins.jballou.com/sourcemod/update-weapon_pickup.txt
+L 08/26/2016 - 21:28:30:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:30:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: SMC DEBUG
+L 08/26/2016 - 21:28:30: information->baseurl
+L 08/26/2016 - 21:28:30:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:30: version->latest
+L 08/26/2016 - 21:28:30:   [0]  1.0.0
+L 08/26/2016 - 21:28:30: information->notes
+L 08/26/2016 - 21:28:30:   [0]  Weapon Pickup
+L 08/26/2016 - 21:28:30:   [1]  Weapon Pickup logic for manipulating player inventory
+L 08/26/2016 - 21:28:30: files->source
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/scripting/weapon_pickup.sp
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/26/2016 - 21:28:30:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:30:   [3]  Path_SM/scripting/include/updater.inc
+L 08/26/2016 - 21:28:30: files->plugin
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/plugins/weapon_pickup.smx
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/26/2016 - 21:28:30:   [2]  Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt
+L 08/26/2016 - 21:28:30: END SMC DEBUG
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: Download started:
+L 08/26/2016 - 21:28:30:   [0]  URL: http://ins.jballou.com/sourcemod/update-respawn.txt
+L 08/26/2016 - 21:28:30:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:30:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: SMC DEBUG
+L 08/26/2016 - 21:28:30: information->baseurl
+L 08/26/2016 - 21:28:30:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:30: version->latest
+L 08/26/2016 - 21:28:30:   [0]  1.8.3
+L 08/26/2016 - 21:28:30: information->notes
+L 08/26/2016 - 21:28:30:   [0]  Player Respawn
+L 08/26/2016 - 21:28:30:   [1]  Respawn players
+L 08/26/2016 - 21:28:30: files->source
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/scripting/respawn.sp
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:30: files->plugin
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/plugins/respawn.smx
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/translations/common.phrases.txt
+L 08/26/2016 - 21:28:30:   [2]  Path_SM/translations/respawn.phrases.txt
+L 08/26/2016 - 21:28:30:   [3]  Path_SM/gamedata/plugin.respawn.txt
+L 08/26/2016 - 21:28:30: END SMC DEBUG
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: Download started:
+L 08/26/2016 - 21:28:30:   [0]  URL: http://ins.jballou.com/sourcemod/update-insurgency.txt
+L 08/26/2016 - 21:28:30:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:30:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: SMC DEBUG
+L 08/26/2016 - 21:28:30: information->baseurl
+L 08/26/2016 - 21:28:30:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:30: version->latest
+L 08/26/2016 - 21:28:30:   [0]  1.4.0
+L 08/26/2016 - 21:28:30: information->notes
+L 08/26/2016 - 21:28:30:   [0]  Insurgency Support Library
+L 08/26/2016 - 21:28:30:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 08/26/2016 - 21:28:30: files->source
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/scripting/insurgency.sp
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:30:   [2]  Path_SM/scripting/include/loghelper.inc
+L 08/26/2016 - 21:28:30:   [3]  Path_SM/scripting/include/updater.inc
+L 08/26/2016 - 21:28:30: files->plugin
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/plugins/insurgency.smx
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/translations/insurgency.phrases.txt
+L 08/26/2016 - 21:28:30:   [2]  Path_SM/gamedata/insurgency.games.txt
+L 08/26/2016 - 21:28:30: END SMC DEBUG
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: Download started:
+L 08/26/2016 - 21:28:30:   [0]  URL: http://ins.jballou.com/sourcemod/update-botspawns.txt
+L 08/26/2016 - 21:28:30:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:30:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: SMC DEBUG
+L 08/26/2016 - 21:28:30: information->baseurl
+L 08/26/2016 - 21:28:30:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:30: version->latest
+L 08/26/2016 - 21:28:30:   [0]  1.0.0
+L 08/26/2016 - 21:28:30: information->notes
+L 08/26/2016 - 21:28:30:   [0]  Bot Spawns
+L 08/26/2016 - 21:28:30:   [1]  Adds a number of options and ways to handle bot spawns
+L 08/26/2016 - 21:28:30: files->source
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/scripting/botspawns.sp
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/26/2016 - 21:28:30:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:30:   [3]  Path_SM/scripting/include/updater.inc
+L 08/26/2016 - 21:28:30: files->plugin
+L 08/26/2016 - 21:28:30:   [0]  Path_SM/plugins/botspawns.smx
+L 08/26/2016 - 21:28:30:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/26/2016 - 21:28:30: END SMC DEBUG
+L 08/26/2016 - 21:28:30:  
+L 08/26/2016 - 21:28:30: Download started:
+L 08/26/2016 - 21:28:30:   [0]  URL: http://ins.jballou.com/sourcemod/update-rpgdrift.txt
+L 08/26/2016 - 21:28:30:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:31:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:31:  
+L 08/26/2016 - 21:28:31: SMC DEBUG
+L 08/26/2016 - 21:28:31: information->baseurl
+L 08/26/2016 - 21:28:31:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:31: version->latest
+L 08/26/2016 - 21:28:31:   [0]  1.0.0
+L 08/26/2016 - 21:28:31: information->notes
+L 08/26/2016 - 21:28:31:   [0]  RPG Adjustments
+L 08/26/2016 - 21:28:31:   [1]  Adjusts behavior of RPG rounds
+L 08/26/2016 - 21:28:31: files->source
+L 08/26/2016 - 21:28:31:   [0]  Path_SM/scripting/rpgdrift.sp
+L 08/26/2016 - 21:28:31:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:31:   [2]  Path_SM/scripting/include/updater.inc
+L 08/26/2016 - 21:28:31:   [3]  Path_SM/scripting/include/smlib/entities.inc
+L 08/26/2016 - 21:28:31: files->plugin
+L 08/26/2016 - 21:28:31:   [0]  Path_SM/plugins/rpgdrift.smx
+L 08/26/2016 - 21:28:31: END SMC DEBUG
+L 08/26/2016 - 21:28:31:  
+L 08/26/2016 - 21:28:31: Download started:
+L 08/26/2016 - 21:28:31:   [0]  URL: http://ins.jballou.com/sourcemod/update-botcount.txt
+L 08/26/2016 - 21:28:31:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:31:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:31:  
+L 08/26/2016 - 21:28:31: SMC DEBUG
+L 08/26/2016 - 21:28:31: information->baseurl
+L 08/26/2016 - 21:28:31:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:31: version->latest
+L 08/26/2016 - 21:28:31:   [0]  1.0.0
+L 08/26/2016 - 21:28:31: information->notes
+L 08/26/2016 - 21:28:31:   [0]  Bot Counter
+L 08/26/2016 - 21:28:31:   [1]  Shows Bots Left Alive
+L 08/26/2016 - 21:28:31: files->source
+L 08/26/2016 - 21:28:31:   [0]  Path_SM/scripting/botcount.sp
+L 08/26/2016 - 21:28:31:   [1]  Path_SM/scripting/include/updater.inc
+L 08/26/2016 - 21:28:31:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:31: files->plugin
+L 08/26/2016 - 21:28:31:   [0]  Path_SM/plugins/botcount.smx
+L 08/26/2016 - 21:28:31: END SMC DEBUG
+L 08/26/2016 - 21:28:31:  
+L 08/26/2016 - 21:28:31: Download started:
+L 08/26/2016 - 21:28:31:   [0]  URL: http://ins.jballou.com/sourcemod/update-botnames.txt
+L 08/26/2016 - 21:28:31:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/26/2016 - 21:28:31:   [2]  Successful: Yes
+L 08/26/2016 - 21:28:31:  
+L 08/26/2016 - 21:28:31: SMC DEBUG
+L 08/26/2016 - 21:28:31: information->baseurl
+L 08/26/2016 - 21:28:31:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/26/2016 - 21:28:31: version->latest
+L 08/26/2016 - 21:28:31:   [0]  1.0.5
+L 08/26/2016 - 21:28:31: information->notes
+L 08/26/2016 - 21:28:31:   [0]  Bot Names
+L 08/26/2016 - 21:28:31:   [1]  Gives automatic names to bots on creation.
+L 08/26/2016 - 21:28:31: files->source
+L 08/26/2016 - 21:28:31:   [0]  Path_SM/scripting/botnames.sp
+L 08/26/2016 - 21:28:31:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/26/2016 - 21:28:31: files->plugin
+L 08/26/2016 - 21:28:31:   [0]  Path_SM/plugins/botnames.smx
+L 08/26/2016 - 21:28:31: END SMC DEBUG
+L 08/26/2016 - 21:28:31:  
+L 08/28/2016 - 01:06:57: Download started:
+L 08/28/2016 - 01:06:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/28/2016 - 01:06:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:57:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:57: Download started:
+L 08/28/2016 - 01:06:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/28/2016 - 01:06:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:57:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:57: Download started:
+L 08/28/2016 - 01:06:57:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/28/2016 - 01:06:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:58:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:58: Download started:
+L 08/28/2016 - 01:06:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/28/2016 - 01:06:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:58:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:58:  
+L 08/28/2016 - 01:06:58: SMC DEBUG
+L 08/28/2016 - 01:06:58: information->baseurl
+L 08/28/2016 - 01:06:58:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:58: version->latest
+L 08/28/2016 - 01:06:58:   [0]  1.0.0
+L 08/28/2016 - 01:06:58: information->notes
+L 08/28/2016 - 01:06:58:   [0]  Damage Modifier
+L 08/28/2016 - 01:06:58:   [1]  Modifies damage before applying to players
+L 08/28/2016 - 01:06:58: files->source
+L 08/28/2016 - 01:06:58:   [0]  Path_SM/scripting/damagemod.sp
+L 08/28/2016 - 01:06:58:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:58:   [2]  Path_SM/scripting/include/updater.inc
+L 08/28/2016 - 01:06:58: files->plugin
+L 08/28/2016 - 01:06:58:   [0]  Path_SM/plugins/damagemod.smx
+L 08/28/2016 - 01:06:58: END SMC DEBUG
+L 08/28/2016 - 01:06:58:  
+L 08/28/2016 - 01:06:58: Download started:
+L 08/28/2016 - 01:06:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-events.txt
+L 08/28/2016 - 01:06:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:58:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:58:  
+L 08/28/2016 - 01:06:58: SMC DEBUG
+L 08/28/2016 - 01:06:58: information->baseurl
+L 08/28/2016 - 01:06:58:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:58: version->latest
+L 08/28/2016 - 01:06:58:   [0]  1.0.0
+L 08/28/2016 - 01:06:58: information->notes
+L 08/28/2016 - 01:06:58:   [0]  Event Logger
+L 08/28/2016 - 01:06:58:   [1]  Log events to client or server
+L 08/28/2016 - 01:06:58: files->source
+L 08/28/2016 - 01:06:58:   [0]  Path_SM/scripting/events.sp
+L 08/28/2016 - 01:06:58:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:58:   [2]  Path_SM/scripting/include/updater.inc
+L 08/28/2016 - 01:06:58: files->plugin
+L 08/28/2016 - 01:06:58:   [0]  Path_SM/plugins/events.smx
+L 08/28/2016 - 01:06:58: END SMC DEBUG
+L 08/28/2016 - 01:06:58:  
+L 08/28/2016 - 01:06:58: Download started:
+L 08/28/2016 - 01:06:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-ammocheck.txt
+L 08/28/2016 - 01:06:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:58:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:58:  
+L 08/28/2016 - 01:06:58: SMC DEBUG
+L 08/28/2016 - 01:06:58: information->baseurl
+L 08/28/2016 - 01:06:58:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:58: version->latest
+L 08/28/2016 - 01:06:58:   [0]  1.0.4
+L 08/28/2016 - 01:06:58: information->notes
+L 08/28/2016 - 01:06:58:   [0]  Ammo Check
+L 08/28/2016 - 01:06:58:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 08/28/2016 - 01:06:58: files->source
+L 08/28/2016 - 01:06:58:   [0]  Path_SM/scripting/ammocheck.sp
+L 08/28/2016 - 01:06:58:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:58:   [2]  Path_SM/scripting/include/updater.inc
+L 08/28/2016 - 01:06:58: files->plugin
+L 08/28/2016 - 01:06:58:   [0]  Path_SM/plugins/ammocheck.smx
+L 08/28/2016 - 01:06:58: END SMC DEBUG
+L 08/28/2016 - 01:06:58:  
+L 08/28/2016 - 01:06:58: Download started:
+L 08/28/2016 - 01:06:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-nofog.txt
+L 08/28/2016 - 01:06:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:58:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:58:  
+L 08/28/2016 - 01:06:58: SMC DEBUG
+L 08/28/2016 - 01:06:58: information->baseurl
+L 08/28/2016 - 01:06:58:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:58: version->latest
+L 08/28/2016 - 01:06:58:   [0]  1.0.0
+L 08/28/2016 - 01:06:58: information->notes
+L 08/28/2016 - 01:06:58:   [0]  No Fog
+L 08/28/2016 - 01:06:58:   [1]  Removes fog
+L 08/28/2016 - 01:06:58: files->source
+L 08/28/2016 - 01:06:58:   [0]  Path_SM/scripting/nofog.sp
+L 08/28/2016 - 01:06:58:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:58:   [2]  Path_SM/scripting/include/updater.inc
+L 08/28/2016 - 01:06:58: files->plugin
+L 08/28/2016 - 01:06:58:   [0]  Path_SM/plugins/nofog.smx
+L 08/28/2016 - 01:06:58: END SMC DEBUG
+L 08/28/2016 - 01:06:58:  
+L 08/28/2016 - 01:06:58: Download started:
+L 08/28/2016 - 01:06:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-restrictedarea.txt
+L 08/28/2016 - 01:06:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:59:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: SMC DEBUG
+L 08/28/2016 - 01:06:59: information->baseurl
+L 08/28/2016 - 01:06:59:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:59: version->latest
+L 08/28/2016 - 01:06:59:   [0]  1.0.0
+L 08/28/2016 - 01:06:59: information->notes
+L 08/28/2016 - 01:06:59:   [0]  Restricted Area Removal
+L 08/28/2016 - 01:06:59:   [1]  Plugin for removing Restricted Areas
+L 08/28/2016 - 01:06:59: files->source
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/scripting/restrictedarea.sp
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:59:   [2]  Path_SM/scripting/include/updater.inc
+L 08/28/2016 - 01:06:59: files->plugin
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/plugins/restrictedarea.smx
+L 08/28/2016 - 01:06:59: END SMC DEBUG
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: Download started:
+L 08/28/2016 - 01:06:59:   [0]  URL: http://ins.jballou.com/sourcemod/update-cooplobby.txt
+L 08/28/2016 - 01:06:59:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:59:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: SMC DEBUG
+L 08/28/2016 - 01:06:59: information->baseurl
+L 08/28/2016 - 01:06:59:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:59: version->latest
+L 08/28/2016 - 01:06:59:   [0]  1.0.0
+L 08/28/2016 - 01:06:59: information->notes
+L 08/28/2016 - 01:06:59:   [0]  Coop Lobby Override
+L 08/28/2016 - 01:06:59:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 08/28/2016 - 01:06:59: files->source
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/scripting/cooplobby.sp
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:59:   [2]  Path_SM/scripting/include/updater.inc
+L 08/28/2016 - 01:06:59: files->plugin
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/plugins/cooplobby.smx
+L 08/28/2016 - 01:06:59: END SMC DEBUG
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: Download started:
+L 08/28/2016 - 01:06:59:   [0]  URL: http://ins.jballou.com/sourcemod/update-weapon_pickup.txt
+L 08/28/2016 - 01:06:59:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:59:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: SMC DEBUG
+L 08/28/2016 - 01:06:59: information->baseurl
+L 08/28/2016 - 01:06:59:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:59: version->latest
+L 08/28/2016 - 01:06:59:   [0]  1.0.0
+L 08/28/2016 - 01:06:59: information->notes
+L 08/28/2016 - 01:06:59:   [0]  Weapon Pickup
+L 08/28/2016 - 01:06:59:   [1]  Weapon Pickup logic for manipulating player inventory
+L 08/28/2016 - 01:06:59: files->source
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/scripting/weapon_pickup.sp
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/28/2016 - 01:06:59:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:59:   [3]  Path_SM/scripting/include/updater.inc
+L 08/28/2016 - 01:06:59: files->plugin
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/plugins/weapon_pickup.smx
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/28/2016 - 01:06:59:   [2]  Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt
+L 08/28/2016 - 01:06:59: END SMC DEBUG
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: Download started:
+L 08/28/2016 - 01:06:59:   [0]  URL: http://ins.jballou.com/sourcemod/update-respawn.txt
+L 08/28/2016 - 01:06:59:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:59:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: SMC DEBUG
+L 08/28/2016 - 01:06:59: information->baseurl
+L 08/28/2016 - 01:06:59:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:59: version->latest
+L 08/28/2016 - 01:06:59:   [0]  1.8.3
+L 08/28/2016 - 01:06:59: information->notes
+L 08/28/2016 - 01:06:59:   [0]  Player Respawn
+L 08/28/2016 - 01:06:59:   [1]  Respawn players
+L 08/28/2016 - 01:06:59: files->source
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/scripting/respawn.sp
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:59: files->plugin
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/plugins/respawn.smx
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/translations/common.phrases.txt
+L 08/28/2016 - 01:06:59:   [2]  Path_SM/translations/respawn.phrases.txt
+L 08/28/2016 - 01:06:59:   [3]  Path_SM/gamedata/plugin.respawn.txt
+L 08/28/2016 - 01:06:59: END SMC DEBUG
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: Download started:
+L 08/28/2016 - 01:06:59:   [0]  URL: http://ins.jballou.com/sourcemod/update-insurgency.txt
+L 08/28/2016 - 01:06:59:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:59:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: SMC DEBUG
+L 08/28/2016 - 01:06:59: information->baseurl
+L 08/28/2016 - 01:06:59:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:59: version->latest
+L 08/28/2016 - 01:06:59:   [0]  1.4.0
+L 08/28/2016 - 01:06:59: information->notes
+L 08/28/2016 - 01:06:59:   [0]  Insurgency Support Library
+L 08/28/2016 - 01:06:59:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 08/28/2016 - 01:06:59: files->source
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/scripting/insurgency.sp
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:59:   [2]  Path_SM/scripting/include/loghelper.inc
+L 08/28/2016 - 01:06:59:   [3]  Path_SM/scripting/include/updater.inc
+L 08/28/2016 - 01:06:59: files->plugin
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/plugins/insurgency.smx
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/translations/insurgency.phrases.txt
+L 08/28/2016 - 01:06:59:   [2]  Path_SM/gamedata/insurgency.games.txt
+L 08/28/2016 - 01:06:59: END SMC DEBUG
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: Download started:
+L 08/28/2016 - 01:06:59:   [0]  URL: http://ins.jballou.com/sourcemod/update-botspawns.txt
+L 08/28/2016 - 01:06:59:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:59:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: SMC DEBUG
+L 08/28/2016 - 01:06:59: information->baseurl
+L 08/28/2016 - 01:06:59:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:59: version->latest
+L 08/28/2016 - 01:06:59:   [0]  1.0.0
+L 08/28/2016 - 01:06:59: information->notes
+L 08/28/2016 - 01:06:59:   [0]  Bot Spawns
+L 08/28/2016 - 01:06:59:   [1]  Adds a number of options and ways to handle bot spawns
+L 08/28/2016 - 01:06:59: files->source
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/scripting/botspawns.sp
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/28/2016 - 01:06:59:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:59:   [3]  Path_SM/scripting/include/updater.inc
+L 08/28/2016 - 01:06:59: files->plugin
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/plugins/botspawns.smx
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/28/2016 - 01:06:59: END SMC DEBUG
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: Download started:
+L 08/28/2016 - 01:06:59:   [0]  URL: http://ins.jballou.com/sourcemod/update-rpgdrift.txt
+L 08/28/2016 - 01:06:59:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:59:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: SMC DEBUG
+L 08/28/2016 - 01:06:59: information->baseurl
+L 08/28/2016 - 01:06:59:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:59: version->latest
+L 08/28/2016 - 01:06:59:   [0]  1.0.0
+L 08/28/2016 - 01:06:59: information->notes
+L 08/28/2016 - 01:06:59:   [0]  RPG Adjustments
+L 08/28/2016 - 01:06:59:   [1]  Adjusts behavior of RPG rounds
+L 08/28/2016 - 01:06:59: files->source
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/scripting/rpgdrift.sp
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:59:   [2]  Path_SM/scripting/include/updater.inc
+L 08/28/2016 - 01:06:59:   [3]  Path_SM/scripting/include/smlib/entities.inc
+L 08/28/2016 - 01:06:59: files->plugin
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/plugins/rpgdrift.smx
+L 08/28/2016 - 01:06:59: END SMC DEBUG
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: Download started:
+L 08/28/2016 - 01:06:59:   [0]  URL: http://ins.jballou.com/sourcemod/update-botcount.txt
+L 08/28/2016 - 01:06:59:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:59:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: SMC DEBUG
+L 08/28/2016 - 01:06:59: information->baseurl
+L 08/28/2016 - 01:06:59:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:59: version->latest
+L 08/28/2016 - 01:06:59:   [0]  1.0.0
+L 08/28/2016 - 01:06:59: information->notes
+L 08/28/2016 - 01:06:59:   [0]  Bot Counter
+L 08/28/2016 - 01:06:59:   [1]  Shows Bots Left Alive
+L 08/28/2016 - 01:06:59: files->source
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/scripting/botcount.sp
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/scripting/include/updater.inc
+L 08/28/2016 - 01:06:59:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:59: files->plugin
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/plugins/botcount.smx
+L 08/28/2016 - 01:06:59: END SMC DEBUG
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: Download started:
+L 08/28/2016 - 01:06:59:   [0]  URL: http://ins.jballou.com/sourcemod/update-botnames.txt
+L 08/28/2016 - 01:06:59:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/28/2016 - 01:06:59:   [2]  Successful: Yes
+L 08/28/2016 - 01:06:59:  
+L 08/28/2016 - 01:06:59: SMC DEBUG
+L 08/28/2016 - 01:06:59: information->baseurl
+L 08/28/2016 - 01:06:59:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/28/2016 - 01:06:59: version->latest
+L 08/28/2016 - 01:06:59:   [0]  1.0.5
+L 08/28/2016 - 01:06:59: information->notes
+L 08/28/2016 - 01:06:59:   [0]  Bot Names
+L 08/28/2016 - 01:06:59:   [1]  Gives automatic names to bots on creation.
+L 08/28/2016 - 01:06:59: files->source
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/scripting/botnames.sp
+L 08/28/2016 - 01:06:59:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/28/2016 - 01:06:59: files->plugin
+L 08/28/2016 - 01:06:59:   [0]  Path_SM/plugins/botnames.smx
+L 08/28/2016 - 01:06:59: END SMC DEBUG
+L 08/28/2016 - 01:06:59:  
+L 08/29/2016 - 01:32:44: Download started:
+L 08/29/2016 - 01:32:44:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/29/2016 - 01:32:44:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:44:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:44: Download started:
+L 08/29/2016 - 01:32:44:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/29/2016 - 01:32:44:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:46:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:46: Download started:
+L 08/29/2016 - 01:32:46:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/29/2016 - 01:32:46:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:46:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:46: Download started:
+L 08/29/2016 - 01:32:46:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/29/2016 - 01:32:46:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:46:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:46:  
+L 08/29/2016 - 01:32:46: SMC DEBUG
+L 08/29/2016 - 01:32:46: information->baseurl
+L 08/29/2016 - 01:32:46:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:46: version->latest
+L 08/29/2016 - 01:32:46:   [0]  1.0.0
+L 08/29/2016 - 01:32:46: information->notes
+L 08/29/2016 - 01:32:46:   [0]  Damage Modifier
+L 08/29/2016 - 01:32:46:   [1]  Modifies damage before applying to players
+L 08/29/2016 - 01:32:46: files->source
+L 08/29/2016 - 01:32:46:   [0]  Path_SM/scripting/damagemod.sp
+L 08/29/2016 - 01:32:46:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:46:   [2]  Path_SM/scripting/include/updater.inc
+L 08/29/2016 - 01:32:46: files->plugin
+L 08/29/2016 - 01:32:46:   [0]  Path_SM/plugins/damagemod.smx
+L 08/29/2016 - 01:32:46: END SMC DEBUG
+L 08/29/2016 - 01:32:46:  
+L 08/29/2016 - 01:32:46: Download started:
+L 08/29/2016 - 01:32:46:   [0]  URL: http://ins.jballou.com/sourcemod/update-events.txt
+L 08/29/2016 - 01:32:46:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:47:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:47:  
+L 08/29/2016 - 01:32:47: SMC DEBUG
+L 08/29/2016 - 01:32:47: information->baseurl
+L 08/29/2016 - 01:32:47:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:47: version->latest
+L 08/29/2016 - 01:32:47:   [0]  1.0.0
+L 08/29/2016 - 01:32:47: information->notes
+L 08/29/2016 - 01:32:47:   [0]  Event Logger
+L 08/29/2016 - 01:32:47:   [1]  Log events to client or server
+L 08/29/2016 - 01:32:47: files->source
+L 08/29/2016 - 01:32:47:   [0]  Path_SM/scripting/events.sp
+L 08/29/2016 - 01:32:47:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:47:   [2]  Path_SM/scripting/include/updater.inc
+L 08/29/2016 - 01:32:47: files->plugin
+L 08/29/2016 - 01:32:47:   [0]  Path_SM/plugins/events.smx
+L 08/29/2016 - 01:32:47: END SMC DEBUG
+L 08/29/2016 - 01:32:47:  
+L 08/29/2016 - 01:32:47: Download started:
+L 08/29/2016 - 01:32:47:   [0]  URL: http://ins.jballou.com/sourcemod/update-ammocheck.txt
+L 08/29/2016 - 01:32:47:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:47:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:47:  
+L 08/29/2016 - 01:32:47: SMC DEBUG
+L 08/29/2016 - 01:32:47: information->baseurl
+L 08/29/2016 - 01:32:47:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:47: version->latest
+L 08/29/2016 - 01:32:47:   [0]  1.0.4
+L 08/29/2016 - 01:32:47: information->notes
+L 08/29/2016 - 01:32:47:   [0]  Ammo Check
+L 08/29/2016 - 01:32:47:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 08/29/2016 - 01:32:47: files->source
+L 08/29/2016 - 01:32:47:   [0]  Path_SM/scripting/ammocheck.sp
+L 08/29/2016 - 01:32:47:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:47:   [2]  Path_SM/scripting/include/updater.inc
+L 08/29/2016 - 01:32:47: files->plugin
+L 08/29/2016 - 01:32:47:   [0]  Path_SM/plugins/ammocheck.smx
+L 08/29/2016 - 01:32:47: END SMC DEBUG
+L 08/29/2016 - 01:32:47:  
+L 08/29/2016 - 01:32:47: Download started:
+L 08/29/2016 - 01:32:47:   [0]  URL: http://ins.jballou.com/sourcemod/update-nofog.txt
+L 08/29/2016 - 01:32:47:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:47:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:47:  
+L 08/29/2016 - 01:32:47: SMC DEBUG
+L 08/29/2016 - 01:32:47: information->baseurl
+L 08/29/2016 - 01:32:47:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:47: version->latest
+L 08/29/2016 - 01:32:47:   [0]  1.0.0
+L 08/29/2016 - 01:32:47: information->notes
+L 08/29/2016 - 01:32:47:   [0]  No Fog
+L 08/29/2016 - 01:32:47:   [1]  Removes fog
+L 08/29/2016 - 01:32:47: files->source
+L 08/29/2016 - 01:32:47:   [0]  Path_SM/scripting/nofog.sp
+L 08/29/2016 - 01:32:47:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:47:   [2]  Path_SM/scripting/include/updater.inc
+L 08/29/2016 - 01:32:47: files->plugin
+L 08/29/2016 - 01:32:47:   [0]  Path_SM/plugins/nofog.smx
+L 08/29/2016 - 01:32:47: END SMC DEBUG
+L 08/29/2016 - 01:32:47:  
+L 08/29/2016 - 01:32:47: Download started:
+L 08/29/2016 - 01:32:47:   [0]  URL: http://ins.jballou.com/sourcemod/update-restrictedarea.txt
+L 08/29/2016 - 01:32:47:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:47:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:47:  
+L 08/29/2016 - 01:32:47: SMC DEBUG
+L 08/29/2016 - 01:32:47: information->baseurl
+L 08/29/2016 - 01:32:47:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:47: version->latest
+L 08/29/2016 - 01:32:47:   [0]  1.0.0
+L 08/29/2016 - 01:32:47: information->notes
+L 08/29/2016 - 01:32:47:   [0]  Restricted Area Removal
+L 08/29/2016 - 01:32:47:   [1]  Plugin for removing Restricted Areas
+L 08/29/2016 - 01:32:47: files->source
+L 08/29/2016 - 01:32:47:   [0]  Path_SM/scripting/restrictedarea.sp
+L 08/29/2016 - 01:32:47:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:47:   [2]  Path_SM/scripting/include/updater.inc
+L 08/29/2016 - 01:32:47: files->plugin
+L 08/29/2016 - 01:32:47:   [0]  Path_SM/plugins/restrictedarea.smx
+L 08/29/2016 - 01:32:47: END SMC DEBUG
+L 08/29/2016 - 01:32:47:  
+L 08/29/2016 - 01:32:47: Download started:
+L 08/29/2016 - 01:32:47:   [0]  URL: http://ins.jballou.com/sourcemod/update-cooplobby.txt
+L 08/29/2016 - 01:32:47:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:47:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:47:  
+L 08/29/2016 - 01:32:47: SMC DEBUG
+L 08/29/2016 - 01:32:47: information->baseurl
+L 08/29/2016 - 01:32:47:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:47: version->latest
+L 08/29/2016 - 01:32:47:   [0]  1.0.0
+L 08/29/2016 - 01:32:47: information->notes
+L 08/29/2016 - 01:32:47:   [0]  Coop Lobby Override
+L 08/29/2016 - 01:32:47:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 08/29/2016 - 01:32:47: files->source
+L 08/29/2016 - 01:32:47:   [0]  Path_SM/scripting/cooplobby.sp
+L 08/29/2016 - 01:32:47:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:47:   [2]  Path_SM/scripting/include/updater.inc
+L 08/29/2016 - 01:32:47: files->plugin
+L 08/29/2016 - 01:32:47:   [0]  Path_SM/plugins/cooplobby.smx
+L 08/29/2016 - 01:32:47: END SMC DEBUG
+L 08/29/2016 - 01:32:47:  
+L 08/29/2016 - 01:32:47: Download started:
+L 08/29/2016 - 01:32:47:   [0]  URL: http://ins.jballou.com/sourcemod/update-weapon_pickup.txt
+L 08/29/2016 - 01:32:47:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:48:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:48:  
+L 08/29/2016 - 01:32:48: SMC DEBUG
+L 08/29/2016 - 01:32:48: information->baseurl
+L 08/29/2016 - 01:32:48:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:48: version->latest
+L 08/29/2016 - 01:32:48:   [0]  1.0.0
+L 08/29/2016 - 01:32:48: information->notes
+L 08/29/2016 - 01:32:48:   [0]  Weapon Pickup
+L 08/29/2016 - 01:32:48:   [1]  Weapon Pickup logic for manipulating player inventory
+L 08/29/2016 - 01:32:48: files->source
+L 08/29/2016 - 01:32:48:   [0]  Path_SM/scripting/weapon_pickup.sp
+L 08/29/2016 - 01:32:48:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/29/2016 - 01:32:48:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:48:   [3]  Path_SM/scripting/include/updater.inc
+L 08/29/2016 - 01:32:48: files->plugin
+L 08/29/2016 - 01:32:48:   [0]  Path_SM/plugins/weapon_pickup.smx
+L 08/29/2016 - 01:32:48:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/29/2016 - 01:32:48:   [2]  Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt
+L 08/29/2016 - 01:32:48: END SMC DEBUG
+L 08/29/2016 - 01:32:48:  
+L 08/29/2016 - 01:32:48: Download started:
+L 08/29/2016 - 01:32:48:   [0]  URL: http://ins.jballou.com/sourcemod/update-respawn.txt
+L 08/29/2016 - 01:32:48:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:48:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:48:  
+L 08/29/2016 - 01:32:48: SMC DEBUG
+L 08/29/2016 - 01:32:48: information->baseurl
+L 08/29/2016 - 01:32:48:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:48: version->latest
+L 08/29/2016 - 01:32:48:   [0]  1.8.3
+L 08/29/2016 - 01:32:48: information->notes
+L 08/29/2016 - 01:32:48:   [0]  Player Respawn
+L 08/29/2016 - 01:32:48:   [1]  Respawn players
+L 08/29/2016 - 01:32:48: files->source
+L 08/29/2016 - 01:32:48:   [0]  Path_SM/scripting/respawn.sp
+L 08/29/2016 - 01:32:48:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:48: files->plugin
+L 08/29/2016 - 01:32:48:   [0]  Path_SM/plugins/respawn.smx
+L 08/29/2016 - 01:32:48:   [1]  Path_SM/translations/common.phrases.txt
+L 08/29/2016 - 01:32:48:   [2]  Path_SM/translations/respawn.phrases.txt
+L 08/29/2016 - 01:32:48:   [3]  Path_SM/gamedata/plugin.respawn.txt
+L 08/29/2016 - 01:32:48: END SMC DEBUG
+L 08/29/2016 - 01:32:48:  
+L 08/29/2016 - 01:32:48: Download started:
+L 08/29/2016 - 01:32:48:   [0]  URL: http://ins.jballou.com/sourcemod/update-insurgency.txt
+L 08/29/2016 - 01:32:48:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:48:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:48:  
+L 08/29/2016 - 01:32:48: SMC DEBUG
+L 08/29/2016 - 01:32:48: information->baseurl
+L 08/29/2016 - 01:32:48:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:48: version->latest
+L 08/29/2016 - 01:32:48:   [0]  1.4.0
+L 08/29/2016 - 01:32:48: information->notes
+L 08/29/2016 - 01:32:48:   [0]  Insurgency Support Library
+L 08/29/2016 - 01:32:48:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 08/29/2016 - 01:32:48: files->source
+L 08/29/2016 - 01:32:48:   [0]  Path_SM/scripting/insurgency.sp
+L 08/29/2016 - 01:32:48:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:48:   [2]  Path_SM/scripting/include/loghelper.inc
+L 08/29/2016 - 01:32:48:   [3]  Path_SM/scripting/include/updater.inc
+L 08/29/2016 - 01:32:48: files->plugin
+L 08/29/2016 - 01:32:48:   [0]  Path_SM/plugins/insurgency.smx
+L 08/29/2016 - 01:32:48:   [1]  Path_SM/translations/insurgency.phrases.txt
+L 08/29/2016 - 01:32:48:   [2]  Path_SM/gamedata/insurgency.games.txt
+L 08/29/2016 - 01:32:48: END SMC DEBUG
+L 08/29/2016 - 01:32:48:  
+L 08/29/2016 - 01:32:48: Download started:
+L 08/29/2016 - 01:32:48:   [0]  URL: http://ins.jballou.com/sourcemod/update-botspawns.txt
+L 08/29/2016 - 01:32:48:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:48:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:48:  
+L 08/29/2016 - 01:32:48: SMC DEBUG
+L 08/29/2016 - 01:32:48: information->baseurl
+L 08/29/2016 - 01:32:48:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:48: version->latest
+L 08/29/2016 - 01:32:48:   [0]  1.0.0
+L 08/29/2016 - 01:32:48: information->notes
+L 08/29/2016 - 01:32:48:   [0]  Bot Spawns
+L 08/29/2016 - 01:32:48:   [1]  Adds a number of options and ways to handle bot spawns
+L 08/29/2016 - 01:32:48: files->source
+L 08/29/2016 - 01:32:48:   [0]  Path_SM/scripting/botspawns.sp
+L 08/29/2016 - 01:32:48:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/29/2016 - 01:32:48:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:48:   [3]  Path_SM/scripting/include/updater.inc
+L 08/29/2016 - 01:32:48: files->plugin
+L 08/29/2016 - 01:32:48:   [0]  Path_SM/plugins/botspawns.smx
+L 08/29/2016 - 01:32:48:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/29/2016 - 01:32:48: END SMC DEBUG
+L 08/29/2016 - 01:32:48:  
+L 08/29/2016 - 01:32:48: Download started:
+L 08/29/2016 - 01:32:48:   [0]  URL: http://ins.jballou.com/sourcemod/update-rpgdrift.txt
+L 08/29/2016 - 01:32:48:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:48:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:48:  
+L 08/29/2016 - 01:32:48: SMC DEBUG
+L 08/29/2016 - 01:32:48: information->baseurl
+L 08/29/2016 - 01:32:48:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:48: version->latest
+L 08/29/2016 - 01:32:48:   [0]  1.0.0
+L 08/29/2016 - 01:32:48: information->notes
+L 08/29/2016 - 01:32:48:   [0]  RPG Adjustments
+L 08/29/2016 - 01:32:48:   [1]  Adjusts behavior of RPG rounds
+L 08/29/2016 - 01:32:48: files->source
+L 08/29/2016 - 01:32:48:   [0]  Path_SM/scripting/rpgdrift.sp
+L 08/29/2016 - 01:32:48:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:48:   [2]  Path_SM/scripting/include/updater.inc
+L 08/29/2016 - 01:32:48:   [3]  Path_SM/scripting/include/smlib/entities.inc
+L 08/29/2016 - 01:32:48: files->plugin
+L 08/29/2016 - 01:32:48:   [0]  Path_SM/plugins/rpgdrift.smx
+L 08/29/2016 - 01:32:48: END SMC DEBUG
+L 08/29/2016 - 01:32:48:  
+L 08/29/2016 - 01:32:48: Download started:
+L 08/29/2016 - 01:32:48:   [0]  URL: http://ins.jballou.com/sourcemod/update-botcount.txt
+L 08/29/2016 - 01:32:48:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:49:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:49:  
+L 08/29/2016 - 01:32:49: SMC DEBUG
+L 08/29/2016 - 01:32:49: information->baseurl
+L 08/29/2016 - 01:32:49:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:49: version->latest
+L 08/29/2016 - 01:32:49:   [0]  1.0.0
+L 08/29/2016 - 01:32:49: information->notes
+L 08/29/2016 - 01:32:49:   [0]  Bot Counter
+L 08/29/2016 - 01:32:49:   [1]  Shows Bots Left Alive
+L 08/29/2016 - 01:32:49: files->source
+L 08/29/2016 - 01:32:49:   [0]  Path_SM/scripting/botcount.sp
+L 08/29/2016 - 01:32:49:   [1]  Path_SM/scripting/include/updater.inc
+L 08/29/2016 - 01:32:49:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:49: files->plugin
+L 08/29/2016 - 01:32:49:   [0]  Path_SM/plugins/botcount.smx
+L 08/29/2016 - 01:32:49: END SMC DEBUG
+L 08/29/2016 - 01:32:49:  
+L 08/29/2016 - 01:32:49: Download started:
+L 08/29/2016 - 01:32:49:   [0]  URL: http://ins.jballou.com/sourcemod/update-botnames.txt
+L 08/29/2016 - 01:32:49:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/29/2016 - 01:32:49:   [2]  Successful: Yes
+L 08/29/2016 - 01:32:49:  
+L 08/29/2016 - 01:32:49: SMC DEBUG
+L 08/29/2016 - 01:32:49: information->baseurl
+L 08/29/2016 - 01:32:49:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/29/2016 - 01:32:49: version->latest
+L 08/29/2016 - 01:32:49:   [0]  1.0.5
+L 08/29/2016 - 01:32:49: information->notes
+L 08/29/2016 - 01:32:49:   [0]  Bot Names
+L 08/29/2016 - 01:32:49:   [1]  Gives automatic names to bots on creation.
+L 08/29/2016 - 01:32:49: files->source
+L 08/29/2016 - 01:32:49:   [0]  Path_SM/scripting/botnames.sp
+L 08/29/2016 - 01:32:49:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/29/2016 - 01:32:49: files->plugin
+L 08/29/2016 - 01:32:49:   [0]  Path_SM/plugins/botnames.smx
+L 08/29/2016 - 01:32:49: END SMC DEBUG
+L 08/29/2016 - 01:32:49:  
+L 08/30/2016 - 01:01:08: Download started:
+L 08/30/2016 - 01:01:08:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:01:08:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:05:27:   [2]  Successful: No
+L 08/30/2016 - 01:05:27:   [2]  cURL error: Timeout was reached
+L 08/30/2016 - 01:05:27: Download started:
+L 08/30/2016 - 01:05:27:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/30/2016 - 01:05:27:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:05:38: Download started:
+L 08/30/2016 - 01:05:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:05:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:05:47:   [2]  Successful: Yes
+L 08/30/2016 - 01:05:47:  
+L 08/30/2016 - 01:05:47: SMC DEBUG
+L 08/30/2016 - 01:05:47: information->baseurl
+L 08/30/2016 - 01:05:47:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 01:05:47: version->latest
+L 08/30/2016 - 01:05:47:   [0]  1.0.0
+L 08/30/2016 - 01:05:47: information->notes
+L 08/30/2016 - 01:05:47:   [0]  Damage Modifier
+L 08/30/2016 - 01:05:47:   [1]  Modifies damage before applying to players
+L 08/30/2016 - 01:05:47: files->source
+L 08/30/2016 - 01:05:47:   [0]  Path_SM/scripting/damagemod.sp
+L 08/30/2016 - 01:05:47:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 01:05:47:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 01:05:47: files->plugin
+L 08/30/2016 - 01:05:47:   [0]  Path_SM/plugins/damagemod.smx
+L 08/30/2016 - 01:05:47: END SMC DEBUG
+L 08/30/2016 - 01:05:47:  
+L 08/30/2016 - 01:05:47: Download started:
+L 08/30/2016 - 01:05:47:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/30/2016 - 01:05:47:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:05:58: Download started:
+L 08/30/2016 - 01:05:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:05:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:16:16: Download started:
+L 08/30/2016 - 01:16:16:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:16:16:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:23:51: Download started:
+L 08/30/2016 - 01:23:51:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:23:51:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:31:49: Download started:
+L 08/30/2016 - 01:31:49:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:31:49:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:33:13: Download started:
+L 08/30/2016 - 01:33:13:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:33:13:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:34:37: Download started:
+L 08/30/2016 - 01:34:37:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:34:37:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:36:01: Download started:
+L 08/30/2016 - 01:36:01:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:36:01:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:37:25: Download started:
+L 08/30/2016 - 01:37:25:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:37:25:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:38:50: Download started:
+L 08/30/2016 - 01:38:50:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:38:50:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:40:14: Download started:
+L 08/30/2016 - 01:40:14:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:40:14:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:41:38: Download started:
+L 08/30/2016 - 01:41:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:41:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:43:02: Download started:
+L 08/30/2016 - 01:43:02:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:43:02:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:44:26: Download started:
+L 08/30/2016 - 01:44:26:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:44:26:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:45:50: Download started:
+L 08/30/2016 - 01:45:50:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:45:50:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:47:14: Download started:
+L 08/30/2016 - 01:47:14:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:47:14:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:48:38: Download started:
+L 08/30/2016 - 01:48:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:48:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:50:02: Download started:
+L 08/30/2016 - 01:50:02:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:50:02:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:51:26: Download started:
+L 08/30/2016 - 01:51:26:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:51:26:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:52:50: Download started:
+L 08/30/2016 - 01:52:50:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:52:50:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:54:14: Download started:
+L 08/30/2016 - 01:54:14:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:54:14:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:55:39: Download started:
+L 08/30/2016 - 01:55:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:55:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:57:03: Download started:
+L 08/30/2016 - 01:57:03:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:57:03:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:58:27: Download started:
+L 08/30/2016 - 01:58:27:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:58:27:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 01:59:51: Download started:
+L 08/30/2016 - 01:59:51:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 01:59:51:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:01:16: Download started:
+L 08/30/2016 - 02:01:16:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:01:16:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:02:40: Download started:
+L 08/30/2016 - 02:02:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:02:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:04:04: Download started:
+L 08/30/2016 - 02:04:04:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:04:04:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:05:28: Download started:
+L 08/30/2016 - 02:05:28:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:05:28:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:06:52: Download started:
+L 08/30/2016 - 02:06:52:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:06:52:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:08:17: Download started:
+L 08/30/2016 - 02:08:17:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:08:17:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:09:41: Download started:
+L 08/30/2016 - 02:09:41:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:09:41:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:11:05: Download started:
+L 08/30/2016 - 02:11:05:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:11:05:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:12:29: Download started:
+L 08/30/2016 - 02:12:29:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:12:29:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:13:53: Download started:
+L 08/30/2016 - 02:13:53:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:13:53:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:15:17: Download started:
+L 08/30/2016 - 02:15:17:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:15:17:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:16:41: Download started:
+L 08/30/2016 - 02:16:41:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:16:41:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:18:05: Download started:
+L 08/30/2016 - 02:18:05:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:18:05:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:19:29: Download started:
+L 08/30/2016 - 02:19:29:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:19:29:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:20:53: Download started:
+L 08/30/2016 - 02:20:53:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:20:53:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:22:17: Download started:
+L 08/30/2016 - 02:22:17:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:22:17:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:23:41: Download started:
+L 08/30/2016 - 02:23:41:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:23:41:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:25:05: Download started:
+L 08/30/2016 - 02:25:05:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:25:05:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:26:30: Download started:
+L 08/30/2016 - 02:26:30:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:26:30:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:27:54: Download started:
+L 08/30/2016 - 02:27:54:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:27:54:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:29:18: Download started:
+L 08/30/2016 - 02:29:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:29:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:30:42: Download started:
+L 08/30/2016 - 02:30:42:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:30:42:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:32:06: Download started:
+L 08/30/2016 - 02:32:06:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:32:06:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:33:30: Download started:
+L 08/30/2016 - 02:33:30:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:33:30:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:34:54: Download started:
+L 08/30/2016 - 02:34:54:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:34:54:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 02:36:18: Download started:
+L 08/30/2016 - 02:36:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 02:36:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:12:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:12:  
+L 08/30/2016 - 07:19:12: SMC DEBUG
+L 08/30/2016 - 07:19:12: information->baseurl
+L 08/30/2016 - 07:19:12:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:12: version->latest
+L 08/30/2016 - 07:19:12:   [0]  1.0.0
+L 08/30/2016 - 07:19:12: information->notes
+L 08/30/2016 - 07:19:12:   [0]  Damage Modifier
+L 08/30/2016 - 07:19:12:   [1]  Modifies damage before applying to players
+L 08/30/2016 - 07:19:12: files->source
+L 08/30/2016 - 07:19:12:   [0]  Path_SM/scripting/damagemod.sp
+L 08/30/2016 - 07:19:12:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:12:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 07:19:12: files->plugin
+L 08/30/2016 - 07:19:12:   [0]  Path_SM/plugins/damagemod.smx
+L 08/30/2016 - 07:19:12: END SMC DEBUG
+L 08/30/2016 - 07:19:12:  
+L 08/30/2016 - 07:19:12: Download started:
+L 08/30/2016 - 07:19:12:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/30/2016 - 07:19:12:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:12:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:12: Download started:
+L 08/30/2016 - 07:19:12:   [0]  URL: http://ins.jballou.com/sourcemod/update-events.txt
+L 08/30/2016 - 07:19:12:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:12:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:12:  
+L 08/30/2016 - 07:19:12: SMC DEBUG
+L 08/30/2016 - 07:19:12: information->baseurl
+L 08/30/2016 - 07:19:12:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:12: version->latest
+L 08/30/2016 - 07:19:12:   [0]  1.0.0
+L 08/30/2016 - 07:19:12: information->notes
+L 08/30/2016 - 07:19:12:   [0]  Event Logger
+L 08/30/2016 - 07:19:12:   [1]  Log events to client or server
+L 08/30/2016 - 07:19:12: files->source
+L 08/30/2016 - 07:19:12:   [0]  Path_SM/scripting/events.sp
+L 08/30/2016 - 07:19:12:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:12:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 07:19:12: files->plugin
+L 08/30/2016 - 07:19:12:   [0]  Path_SM/plugins/events.smx
+L 08/30/2016 - 07:19:12: END SMC DEBUG
+L 08/30/2016 - 07:19:12:  
+L 08/30/2016 - 07:19:12: Download started:
+L 08/30/2016 - 07:19:12:   [0]  URL: http://ins.jballou.com/sourcemod/update-ammocheck.txt
+L 08/30/2016 - 07:19:12:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:12:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:12:  
+L 08/30/2016 - 07:19:12: SMC DEBUG
+L 08/30/2016 - 07:19:12: information->baseurl
+L 08/30/2016 - 07:19:12:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:12: version->latest
+L 08/30/2016 - 07:19:12:   [0]  1.0.4
+L 08/30/2016 - 07:19:12: information->notes
+L 08/30/2016 - 07:19:12:   [0]  Ammo Check
+L 08/30/2016 - 07:19:12:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 08/30/2016 - 07:19:12: files->source
+L 08/30/2016 - 07:19:12:   [0]  Path_SM/scripting/ammocheck.sp
+L 08/30/2016 - 07:19:12:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:12:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 07:19:12: files->plugin
+L 08/30/2016 - 07:19:12:   [0]  Path_SM/plugins/ammocheck.smx
+L 08/30/2016 - 07:19:12: END SMC DEBUG
+L 08/30/2016 - 07:19:12:  
+L 08/30/2016 - 07:19:12: Download started:
+L 08/30/2016 - 07:19:12:   [0]  URL: http://ins.jballou.com/sourcemod/update-nofog.txt
+L 08/30/2016 - 07:19:12:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:13:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: SMC DEBUG
+L 08/30/2016 - 07:19:13: information->baseurl
+L 08/30/2016 - 07:19:13:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:13: version->latest
+L 08/30/2016 - 07:19:13:   [0]  1.0.0
+L 08/30/2016 - 07:19:13: information->notes
+L 08/30/2016 - 07:19:13:   [0]  No Fog
+L 08/30/2016 - 07:19:13:   [1]  Removes fog
+L 08/30/2016 - 07:19:13: files->source
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/scripting/nofog.sp
+L 08/30/2016 - 07:19:13:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:13:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 07:19:13: files->plugin
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/plugins/nofog.smx
+L 08/30/2016 - 07:19:13: END SMC DEBUG
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: Download started:
+L 08/30/2016 - 07:19:13:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/30/2016 - 07:19:13:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:13:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:13: Download started:
+L 08/30/2016 - 07:19:13:   [0]  URL: http://ins.jballou.com/sourcemod/update-restrictedarea.txt
+L 08/30/2016 - 07:19:13:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:13:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: SMC DEBUG
+L 08/30/2016 - 07:19:13: information->baseurl
+L 08/30/2016 - 07:19:13:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:13: version->latest
+L 08/30/2016 - 07:19:13:   [0]  1.0.0
+L 08/30/2016 - 07:19:13: information->notes
+L 08/30/2016 - 07:19:13:   [0]  Restricted Area Removal
+L 08/30/2016 - 07:19:13:   [1]  Plugin for removing Restricted Areas
+L 08/30/2016 - 07:19:13: files->source
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/scripting/restrictedarea.sp
+L 08/30/2016 - 07:19:13:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:13:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 07:19:13: files->plugin
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/plugins/restrictedarea.smx
+L 08/30/2016 - 07:19:13: END SMC DEBUG
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: Download started:
+L 08/30/2016 - 07:19:13:   [0]  URL: http://ins.jballou.com/sourcemod/update-cooplobby.txt
+L 08/30/2016 - 07:19:13:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:13:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: SMC DEBUG
+L 08/30/2016 - 07:19:13: information->baseurl
+L 08/30/2016 - 07:19:13:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:13: version->latest
+L 08/30/2016 - 07:19:13:   [0]  1.0.0
+L 08/30/2016 - 07:19:13: information->notes
+L 08/30/2016 - 07:19:13:   [0]  Coop Lobby Override
+L 08/30/2016 - 07:19:13:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 08/30/2016 - 07:19:13: files->source
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/scripting/cooplobby.sp
+L 08/30/2016 - 07:19:13:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:13:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 07:19:13: files->plugin
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/plugins/cooplobby.smx
+L 08/30/2016 - 07:19:13: END SMC DEBUG
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: Download started:
+L 08/30/2016 - 07:19:13:   [0]  URL: http://ins.jballou.com/sourcemod/update-weapon_pickup.txt
+L 08/30/2016 - 07:19:13:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:13:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: SMC DEBUG
+L 08/30/2016 - 07:19:13: information->baseurl
+L 08/30/2016 - 07:19:13:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:13: version->latest
+L 08/30/2016 - 07:19:13:   [0]  1.0.0
+L 08/30/2016 - 07:19:13: information->notes
+L 08/30/2016 - 07:19:13:   [0]  Weapon Pickup
+L 08/30/2016 - 07:19:13:   [1]  Weapon Pickup logic for manipulating player inventory
+L 08/30/2016 - 07:19:13: files->source
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/scripting/weapon_pickup.sp
+L 08/30/2016 - 07:19:13:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/30/2016 - 07:19:13:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:13:   [3]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 07:19:13: files->plugin
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/plugins/weapon_pickup.smx
+L 08/30/2016 - 07:19:13:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/30/2016 - 07:19:13:   [2]  Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt
+L 08/30/2016 - 07:19:13: END SMC DEBUG
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: Download started:
+L 08/30/2016 - 07:19:13:   [0]  URL: http://ins.jballou.com/sourcemod/update-respawn.txt
+L 08/30/2016 - 07:19:13:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:13:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: SMC DEBUG
+L 08/30/2016 - 07:19:13: information->baseurl
+L 08/30/2016 - 07:19:13:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:13: version->latest
+L 08/30/2016 - 07:19:13:   [0]  1.8.3
+L 08/30/2016 - 07:19:13: information->notes
+L 08/30/2016 - 07:19:13:   [0]  Player Respawn
+L 08/30/2016 - 07:19:13:   [1]  Respawn players
+L 08/30/2016 - 07:19:13: files->source
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/scripting/respawn.sp
+L 08/30/2016 - 07:19:13:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:13: files->plugin
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/plugins/respawn.smx
+L 08/30/2016 - 07:19:13:   [1]  Path_SM/translations/common.phrases.txt
+L 08/30/2016 - 07:19:13:   [2]  Path_SM/translations/respawn.phrases.txt
+L 08/30/2016 - 07:19:13:   [3]  Path_SM/gamedata/plugin.respawn.txt
+L 08/30/2016 - 07:19:13: END SMC DEBUG
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: Download started:
+L 08/30/2016 - 07:19:13:   [0]  URL: http://ins.jballou.com/sourcemod/update-insurgency.txt
+L 08/30/2016 - 07:19:13:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:13:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: SMC DEBUG
+L 08/30/2016 - 07:19:13: information->baseurl
+L 08/30/2016 - 07:19:13:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:13: version->latest
+L 08/30/2016 - 07:19:13:   [0]  1.4.0
+L 08/30/2016 - 07:19:13: information->notes
+L 08/30/2016 - 07:19:13:   [0]  Insurgency Support Library
+L 08/30/2016 - 07:19:13:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 08/30/2016 - 07:19:13: files->source
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/scripting/insurgency.sp
+L 08/30/2016 - 07:19:13:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:13:   [2]  Path_SM/scripting/include/loghelper.inc
+L 08/30/2016 - 07:19:13:   [3]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 07:19:13: files->plugin
+L 08/30/2016 - 07:19:13:   [0]  Path_SM/plugins/insurgency.smx
+L 08/30/2016 - 07:19:13:   [1]  Path_SM/translations/insurgency.phrases.txt
+L 08/30/2016 - 07:19:13:   [2]  Path_SM/gamedata/insurgency.games.txt
+L 08/30/2016 - 07:19:13: END SMC DEBUG
+L 08/30/2016 - 07:19:13:  
+L 08/30/2016 - 07:19:13: Download started:
+L 08/30/2016 - 07:19:13:   [0]  URL: http://ins.jballou.com/sourcemod/update-botspawns.txt
+L 08/30/2016 - 07:19:13:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:14:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:14:  
+L 08/30/2016 - 07:19:14: SMC DEBUG
+L 08/30/2016 - 07:19:14: information->baseurl
+L 08/30/2016 - 07:19:14:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:14: version->latest
+L 08/30/2016 - 07:19:14:   [0]  1.0.0
+L 08/30/2016 - 07:19:14: information->notes
+L 08/30/2016 - 07:19:14:   [0]  Bot Spawns
+L 08/30/2016 - 07:19:14:   [1]  Adds a number of options and ways to handle bot spawns
+L 08/30/2016 - 07:19:14: files->source
+L 08/30/2016 - 07:19:14:   [0]  Path_SM/scripting/botspawns.sp
+L 08/30/2016 - 07:19:14:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/30/2016 - 07:19:14:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:14:   [3]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 07:19:14: files->plugin
+L 08/30/2016 - 07:19:14:   [0]  Path_SM/plugins/botspawns.smx
+L 08/30/2016 - 07:19:14:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/30/2016 - 07:19:14: END SMC DEBUG
+L 08/30/2016 - 07:19:14:  
+L 08/30/2016 - 07:19:14: Download started:
+L 08/30/2016 - 07:19:14:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/30/2016 - 07:19:14:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:14:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:14: Download started:
+L 08/30/2016 - 07:19:14:   [0]  URL: http://ins.jballou.com/sourcemod/update-rpgdrift.txt
+L 08/30/2016 - 07:19:14:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:14:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:14:  
+L 08/30/2016 - 07:19:14: SMC DEBUG
+L 08/30/2016 - 07:19:14: information->baseurl
+L 08/30/2016 - 07:19:14:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:14: version->latest
+L 08/30/2016 - 07:19:14:   [0]  1.0.0
+L 08/30/2016 - 07:19:14: information->notes
+L 08/30/2016 - 07:19:14:   [0]  RPG Adjustments
+L 08/30/2016 - 07:19:14:   [1]  Adjusts behavior of RPG rounds
+L 08/30/2016 - 07:19:14: files->source
+L 08/30/2016 - 07:19:14:   [0]  Path_SM/scripting/rpgdrift.sp
+L 08/30/2016 - 07:19:14:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:14:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 07:19:14:   [3]  Path_SM/scripting/include/smlib/entities.inc
+L 08/30/2016 - 07:19:14: files->plugin
+L 08/30/2016 - 07:19:14:   [0]  Path_SM/plugins/rpgdrift.smx
+L 08/30/2016 - 07:19:14: END SMC DEBUG
+L 08/30/2016 - 07:19:14:  
+L 08/30/2016 - 07:19:14: Download started:
+L 08/30/2016 - 07:19:14:   [0]  URL: http://ins.jballou.com/sourcemod/update-botcount.txt
+L 08/30/2016 - 07:19:14:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:14:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:14:  
+L 08/30/2016 - 07:19:14: SMC DEBUG
+L 08/30/2016 - 07:19:14: information->baseurl
+L 08/30/2016 - 07:19:14:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:14: version->latest
+L 08/30/2016 - 07:19:14:   [0]  1.0.0
+L 08/30/2016 - 07:19:14: information->notes
+L 08/30/2016 - 07:19:14:   [0]  Bot Counter
+L 08/30/2016 - 07:19:14:   [1]  Shows Bots Left Alive
+L 08/30/2016 - 07:19:14: files->source
+L 08/30/2016 - 07:19:14:   [0]  Path_SM/scripting/botcount.sp
+L 08/30/2016 - 07:19:14:   [1]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 07:19:14:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:14: files->plugin
+L 08/30/2016 - 07:19:14:   [0]  Path_SM/plugins/botcount.smx
+L 08/30/2016 - 07:19:14: END SMC DEBUG
+L 08/30/2016 - 07:19:14:  
+L 08/30/2016 - 07:19:14: Download started:
+L 08/30/2016 - 07:19:14:   [0]  URL: http://ins.jballou.com/sourcemod/update-botnames.txt
+L 08/30/2016 - 07:19:14:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 07:19:14:   [2]  Successful: Yes
+L 08/30/2016 - 07:19:14:  
+L 08/30/2016 - 07:19:14: SMC DEBUG
+L 08/30/2016 - 07:19:14: information->baseurl
+L 08/30/2016 - 07:19:14:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 07:19:14: version->latest
+L 08/30/2016 - 07:19:14:   [0]  1.0.5
+L 08/30/2016 - 07:19:14: information->notes
+L 08/30/2016 - 07:19:14:   [0]  Bot Names
+L 08/30/2016 - 07:19:14:   [1]  Gives automatic names to bots on creation.
+L 08/30/2016 - 07:19:14: files->source
+L 08/30/2016 - 07:19:14:   [0]  Path_SM/scripting/botnames.sp
+L 08/30/2016 - 07:19:14:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 07:19:14: files->plugin
+L 08/30/2016 - 07:19:14:   [0]  Path_SM/plugins/botnames.smx
+L 08/30/2016 - 07:19:14: END SMC DEBUG
+L 08/30/2016 - 07:19:14:  
+L 08/30/2016 - 10:39:09: Download started:
+L 08/30/2016 - 10:39:09:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 10:39:09:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 10:42:28: Download started:
+L 08/30/2016 - 10:42:28:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 10:42:28:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 10:42:59: Download started:
+L 08/30/2016 - 10:42:59:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 10:42:59:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 10:47:48: Download started:
+L 08/30/2016 - 10:47:48:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 10:47:48:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 11:36:41:   [2]  Successful: Yes
+L 08/30/2016 - 11:36:41:  
+L 08/30/2016 - 11:36:41: SMC DEBUG
+L 08/30/2016 - 11:36:41: information->baseurl
+L 08/30/2016 - 11:36:41:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 11:36:41: version->latest
+L 08/30/2016 - 11:36:41:   [0]  1.0.0
+L 08/30/2016 - 11:36:41: information->notes
+L 08/30/2016 - 11:36:41:   [0]  Damage Modifier
+L 08/30/2016 - 11:36:41:   [1]  Modifies damage before applying to players
+L 08/30/2016 - 11:36:41: files->source
+L 08/30/2016 - 11:36:41:   [0]  Path_SM/scripting/damagemod.sp
+L 08/30/2016 - 11:36:41:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 11:36:41:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 11:36:41: files->plugin
+L 08/30/2016 - 11:36:41:   [0]  Path_SM/plugins/damagemod.smx
+L 08/30/2016 - 11:36:41: END SMC DEBUG
+L 08/30/2016 - 11:36:41:  
+L 08/30/2016 - 11:36:41: Download started:
+L 08/30/2016 - 11:36:41:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/30/2016 - 11:36:41:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 11:36:58: Download started:
+L 08/30/2016 - 11:36:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/30/2016 - 11:36:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:16:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:16:  
+L 08/30/2016 - 12:13:16: SMC DEBUG
+L 08/30/2016 - 12:13:16: information->baseurl
+L 08/30/2016 - 12:13:16:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:16: version->latest
+L 08/30/2016 - 12:13:16:   [0]  1.0.0
+L 08/30/2016 - 12:13:16: information->notes
+L 08/30/2016 - 12:13:16:   [0]  Damage Modifier
+L 08/30/2016 - 12:13:16:   [1]  Modifies damage before applying to players
+L 08/30/2016 - 12:13:16: files->source
+L 08/30/2016 - 12:13:16:   [0]  Path_SM/scripting/damagemod.sp
+L 08/30/2016 - 12:13:16:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:16:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 12:13:16: files->plugin
+L 08/30/2016 - 12:13:16:   [0]  Path_SM/plugins/damagemod.smx
+L 08/30/2016 - 12:13:16: END SMC DEBUG
+L 08/30/2016 - 12:13:16:  
+L 08/30/2016 - 12:13:16: Download started:
+L 08/30/2016 - 12:13:16:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/30/2016 - 12:13:16:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:16:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:16: Download started:
+L 08/30/2016 - 12:13:16:   [0]  URL: http://ins.jballou.com/sourcemod/update-events.txt
+L 08/30/2016 - 12:13:16:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:17:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:17:  
+L 08/30/2016 - 12:13:17: SMC DEBUG
+L 08/30/2016 - 12:13:17: information->baseurl
+L 08/30/2016 - 12:13:17:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:17: version->latest
+L 08/30/2016 - 12:13:17:   [0]  1.0.0
+L 08/30/2016 - 12:13:17: information->notes
+L 08/30/2016 - 12:13:17:   [0]  Event Logger
+L 08/30/2016 - 12:13:17:   [1]  Log events to client or server
+L 08/30/2016 - 12:13:17: files->source
+L 08/30/2016 - 12:13:17:   [0]  Path_SM/scripting/events.sp
+L 08/30/2016 - 12:13:17:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:17:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 12:13:17: files->plugin
+L 08/30/2016 - 12:13:17:   [0]  Path_SM/plugins/events.smx
+L 08/30/2016 - 12:13:17: END SMC DEBUG
+L 08/30/2016 - 12:13:17:  
+L 08/30/2016 - 12:13:17: Download started:
+L 08/30/2016 - 12:13:17:   [0]  URL: http://ins.jballou.com/sourcemod/update-ammocheck.txt
+L 08/30/2016 - 12:13:17:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:17:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:17:  
+L 08/30/2016 - 12:13:17: SMC DEBUG
+L 08/30/2016 - 12:13:17: information->baseurl
+L 08/30/2016 - 12:13:17:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:17: version->latest
+L 08/30/2016 - 12:13:17:   [0]  1.0.4
+L 08/30/2016 - 12:13:17: information->notes
+L 08/30/2016 - 12:13:17:   [0]  Ammo Check
+L 08/30/2016 - 12:13:17:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 08/30/2016 - 12:13:17: files->source
+L 08/30/2016 - 12:13:17:   [0]  Path_SM/scripting/ammocheck.sp
+L 08/30/2016 - 12:13:17:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:17:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 12:13:17: files->plugin
+L 08/30/2016 - 12:13:17:   [0]  Path_SM/plugins/ammocheck.smx
+L 08/30/2016 - 12:13:17: END SMC DEBUG
+L 08/30/2016 - 12:13:17:  
+L 08/30/2016 - 12:13:17: Download started:
+L 08/30/2016 - 12:13:17:   [0]  URL: http://ins.jballou.com/sourcemod/update-nofog.txt
+L 08/30/2016 - 12:13:17:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:17:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:17:  
+L 08/30/2016 - 12:13:17: SMC DEBUG
+L 08/30/2016 - 12:13:17: information->baseurl
+L 08/30/2016 - 12:13:17:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:17: version->latest
+L 08/30/2016 - 12:13:17:   [0]  1.0.0
+L 08/30/2016 - 12:13:17: information->notes
+L 08/30/2016 - 12:13:17:   [0]  No Fog
+L 08/30/2016 - 12:13:17:   [1]  Removes fog
+L 08/30/2016 - 12:13:17: files->source
+L 08/30/2016 - 12:13:17:   [0]  Path_SM/scripting/nofog.sp
+L 08/30/2016 - 12:13:17:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:17:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 12:13:17: files->plugin
+L 08/30/2016 - 12:13:17:   [0]  Path_SM/plugins/nofog.smx
+L 08/30/2016 - 12:13:17: END SMC DEBUG
+L 08/30/2016 - 12:13:17:  
+L 08/30/2016 - 12:13:17: Download started:
+L 08/30/2016 - 12:13:17:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/30/2016 - 12:13:17:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:17:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:17: Download started:
+L 08/30/2016 - 12:13:17:   [0]  URL: http://ins.jballou.com/sourcemod/update-restrictedarea.txt
+L 08/30/2016 - 12:13:17:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:17:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:17:  
+L 08/30/2016 - 12:13:17: SMC DEBUG
+L 08/30/2016 - 12:13:17: information->baseurl
+L 08/30/2016 - 12:13:17:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:17: version->latest
+L 08/30/2016 - 12:13:17:   [0]  1.0.0
+L 08/30/2016 - 12:13:17: information->notes
+L 08/30/2016 - 12:13:17:   [0]  Restricted Area Removal
+L 08/30/2016 - 12:13:17:   [1]  Plugin for removing Restricted Areas
+L 08/30/2016 - 12:13:17: files->source
+L 08/30/2016 - 12:13:17:   [0]  Path_SM/scripting/restrictedarea.sp
+L 08/30/2016 - 12:13:17:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:17:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 12:13:17: files->plugin
+L 08/30/2016 - 12:13:17:   [0]  Path_SM/plugins/restrictedarea.smx
+L 08/30/2016 - 12:13:17: END SMC DEBUG
+L 08/30/2016 - 12:13:17:  
+L 08/30/2016 - 12:13:17: Download started:
+L 08/30/2016 - 12:13:17:   [0]  URL: http://ins.jballou.com/sourcemod/update-cooplobby.txt
+L 08/30/2016 - 12:13:17:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:17:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: SMC DEBUG
+L 08/30/2016 - 12:13:18: information->baseurl
+L 08/30/2016 - 12:13:18:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:18: version->latest
+L 08/30/2016 - 12:13:18:   [0]  1.0.0
+L 08/30/2016 - 12:13:18: information->notes
+L 08/30/2016 - 12:13:18:   [0]  Coop Lobby Override
+L 08/30/2016 - 12:13:18:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 08/30/2016 - 12:13:18: files->source
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/scripting/cooplobby.sp
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:18:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 12:13:18: files->plugin
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/plugins/cooplobby.smx
+L 08/30/2016 - 12:13:18: END SMC DEBUG
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: Download started:
+L 08/30/2016 - 12:13:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-weapon_pickup.txt
+L 08/30/2016 - 12:13:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:18:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: SMC DEBUG
+L 08/30/2016 - 12:13:18: information->baseurl
+L 08/30/2016 - 12:13:18:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:18: version->latest
+L 08/30/2016 - 12:13:18:   [0]  1.0.0
+L 08/30/2016 - 12:13:18: information->notes
+L 08/30/2016 - 12:13:18:   [0]  Weapon Pickup
+L 08/30/2016 - 12:13:18:   [1]  Weapon Pickup logic for manipulating player inventory
+L 08/30/2016 - 12:13:18: files->source
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/scripting/weapon_pickup.sp
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/30/2016 - 12:13:18:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:18:   [3]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 12:13:18: files->plugin
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/plugins/weapon_pickup.smx
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/30/2016 - 12:13:18:   [2]  Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt
+L 08/30/2016 - 12:13:18: END SMC DEBUG
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: Download started:
+L 08/30/2016 - 12:13:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-respawn.txt
+L 08/30/2016 - 12:13:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:18:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: SMC DEBUG
+L 08/30/2016 - 12:13:18: information->baseurl
+L 08/30/2016 - 12:13:18:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:18: version->latest
+L 08/30/2016 - 12:13:18:   [0]  1.8.3
+L 08/30/2016 - 12:13:18: information->notes
+L 08/30/2016 - 12:13:18:   [0]  Player Respawn
+L 08/30/2016 - 12:13:18:   [1]  Respawn players
+L 08/30/2016 - 12:13:18: files->source
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/scripting/respawn.sp
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:18: files->plugin
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/plugins/respawn.smx
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/translations/common.phrases.txt
+L 08/30/2016 - 12:13:18:   [2]  Path_SM/translations/respawn.phrases.txt
+L 08/30/2016 - 12:13:18:   [3]  Path_SM/gamedata/plugin.respawn.txt
+L 08/30/2016 - 12:13:18: END SMC DEBUG
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: Download started:
+L 08/30/2016 - 12:13:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-insurgency.txt
+L 08/30/2016 - 12:13:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:18:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: SMC DEBUG
+L 08/30/2016 - 12:13:18: information->baseurl
+L 08/30/2016 - 12:13:18:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:18: version->latest
+L 08/30/2016 - 12:13:18:   [0]  1.4.0
+L 08/30/2016 - 12:13:18: information->notes
+L 08/30/2016 - 12:13:18:   [0]  Insurgency Support Library
+L 08/30/2016 - 12:13:18:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 08/30/2016 - 12:13:18: files->source
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/scripting/insurgency.sp
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:18:   [2]  Path_SM/scripting/include/loghelper.inc
+L 08/30/2016 - 12:13:18:   [3]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 12:13:18: files->plugin
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/plugins/insurgency.smx
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/translations/insurgency.phrases.txt
+L 08/30/2016 - 12:13:18:   [2]  Path_SM/gamedata/insurgency.games.txt
+L 08/30/2016 - 12:13:18: END SMC DEBUG
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: Download started:
+L 08/30/2016 - 12:13:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-botspawns.txt
+L 08/30/2016 - 12:13:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:18:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: SMC DEBUG
+L 08/30/2016 - 12:13:18: information->baseurl
+L 08/30/2016 - 12:13:18:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:18: version->latest
+L 08/30/2016 - 12:13:18:   [0]  1.0.0
+L 08/30/2016 - 12:13:18: information->notes
+L 08/30/2016 - 12:13:18:   [0]  Bot Spawns
+L 08/30/2016 - 12:13:18:   [1]  Adds a number of options and ways to handle bot spawns
+L 08/30/2016 - 12:13:18: files->source
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/scripting/botspawns.sp
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/30/2016 - 12:13:18:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:18:   [3]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 12:13:18: files->plugin
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/plugins/botspawns.smx
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/30/2016 - 12:13:18: END SMC DEBUG
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: Download started:
+L 08/30/2016 - 12:13:18:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/30/2016 - 12:13:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:18:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:18: Download started:
+L 08/30/2016 - 12:13:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-rpgdrift.txt
+L 08/30/2016 - 12:13:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:18:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: SMC DEBUG
+L 08/30/2016 - 12:13:18: information->baseurl
+L 08/30/2016 - 12:13:18:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:18: version->latest
+L 08/30/2016 - 12:13:18:   [0]  1.0.0
+L 08/30/2016 - 12:13:18: information->notes
+L 08/30/2016 - 12:13:18:   [0]  RPG Adjustments
+L 08/30/2016 - 12:13:18:   [1]  Adjusts behavior of RPG rounds
+L 08/30/2016 - 12:13:18: files->source
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/scripting/rpgdrift.sp
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:18:   [2]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 12:13:18:   [3]  Path_SM/scripting/include/smlib/entities.inc
+L 08/30/2016 - 12:13:18: files->plugin
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/plugins/rpgdrift.smx
+L 08/30/2016 - 12:13:18: END SMC DEBUG
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: Download started:
+L 08/30/2016 - 12:13:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-botcount.txt
+L 08/30/2016 - 12:13:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:18:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: SMC DEBUG
+L 08/30/2016 - 12:13:18: information->baseurl
+L 08/30/2016 - 12:13:18:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:18: version->latest
+L 08/30/2016 - 12:13:18:   [0]  1.0.0
+L 08/30/2016 - 12:13:18: information->notes
+L 08/30/2016 - 12:13:18:   [0]  Bot Counter
+L 08/30/2016 - 12:13:18:   [1]  Shows Bots Left Alive
+L 08/30/2016 - 12:13:18: files->source
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/scripting/botcount.sp
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/scripting/include/updater.inc
+L 08/30/2016 - 12:13:18:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:18: files->plugin
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/plugins/botcount.smx
+L 08/30/2016 - 12:13:18: END SMC DEBUG
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: Download started:
+L 08/30/2016 - 12:13:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-botnames.txt
+L 08/30/2016 - 12:13:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/30/2016 - 12:13:18:   [2]  Successful: Yes
+L 08/30/2016 - 12:13:18:  
+L 08/30/2016 - 12:13:18: SMC DEBUG
+L 08/30/2016 - 12:13:18: information->baseurl
+L 08/30/2016 - 12:13:18:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/30/2016 - 12:13:18: version->latest
+L 08/30/2016 - 12:13:18:   [0]  1.0.5
+L 08/30/2016 - 12:13:18: information->notes
+L 08/30/2016 - 12:13:18:   [0]  Bot Names
+L 08/30/2016 - 12:13:18:   [1]  Gives automatic names to bots on creation.
+L 08/30/2016 - 12:13:18: files->source
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/scripting/botnames.sp
+L 08/30/2016 - 12:13:18:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/30/2016 - 12:13:18: files->plugin
+L 08/30/2016 - 12:13:18:   [0]  Path_SM/plugins/botnames.smx
+L 08/30/2016 - 12:13:18: END SMC DEBUG
+L 08/30/2016 - 12:13:18:  
+L 08/31/2016 - 12:38:38: Download started:
+L 08/31/2016 - 12:38:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 08/31/2016 - 12:38:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:39:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:39:  
+L 08/31/2016 - 12:38:39: SMC DEBUG
+L 08/31/2016 - 12:38:39: information->baseurl
+L 08/31/2016 - 12:38:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:39: version->latest
+L 08/31/2016 - 12:38:39:   [0]  1.0.0
+L 08/31/2016 - 12:38:39: information->notes
+L 08/31/2016 - 12:38:39:   [0]  Damage Modifier
+L 08/31/2016 - 12:38:39:   [1]  Modifies damage before applying to players
+L 08/31/2016 - 12:38:39: files->source
+L 08/31/2016 - 12:38:39:   [0]  Path_SM/scripting/damagemod.sp
+L 08/31/2016 - 12:38:39:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:39:   [2]  Path_SM/scripting/include/updater.inc
+L 08/31/2016 - 12:38:39: files->plugin
+L 08/31/2016 - 12:38:39:   [0]  Path_SM/plugins/damagemod.smx
+L 08/31/2016 - 12:38:39: END SMC DEBUG
+L 08/31/2016 - 12:38:39:  
+L 08/31/2016 - 12:38:39: Download started:
+L 08/31/2016 - 12:38:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 08/31/2016 - 12:38:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:39:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:39: Download started:
+L 08/31/2016 - 12:38:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-events.txt
+L 08/31/2016 - 12:38:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:39:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:39:  
+L 08/31/2016 - 12:38:39: SMC DEBUG
+L 08/31/2016 - 12:38:39: information->baseurl
+L 08/31/2016 - 12:38:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:39: version->latest
+L 08/31/2016 - 12:38:39:   [0]  1.0.0
+L 08/31/2016 - 12:38:39: information->notes
+L 08/31/2016 - 12:38:39:   [0]  Event Logger
+L 08/31/2016 - 12:38:39:   [1]  Log events to client or server
+L 08/31/2016 - 12:38:39: files->source
+L 08/31/2016 - 12:38:39:   [0]  Path_SM/scripting/events.sp
+L 08/31/2016 - 12:38:39:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:39:   [2]  Path_SM/scripting/include/updater.inc
+L 08/31/2016 - 12:38:39: files->plugin
+L 08/31/2016 - 12:38:39:   [0]  Path_SM/plugins/events.smx
+L 08/31/2016 - 12:38:39: END SMC DEBUG
+L 08/31/2016 - 12:38:39:  
+L 08/31/2016 - 12:38:39: Download started:
+L 08/31/2016 - 12:38:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-ammocheck.txt
+L 08/31/2016 - 12:38:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:39:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:39:  
+L 08/31/2016 - 12:38:39: SMC DEBUG
+L 08/31/2016 - 12:38:39: information->baseurl
+L 08/31/2016 - 12:38:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:39: version->latest
+L 08/31/2016 - 12:38:39:   [0]  1.0.4
+L 08/31/2016 - 12:38:39: information->notes
+L 08/31/2016 - 12:38:39:   [0]  Ammo Check
+L 08/31/2016 - 12:38:39:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 08/31/2016 - 12:38:39: files->source
+L 08/31/2016 - 12:38:39:   [0]  Path_SM/scripting/ammocheck.sp
+L 08/31/2016 - 12:38:39:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:39:   [2]  Path_SM/scripting/include/updater.inc
+L 08/31/2016 - 12:38:39: files->plugin
+L 08/31/2016 - 12:38:39:   [0]  Path_SM/plugins/ammocheck.smx
+L 08/31/2016 - 12:38:39: END SMC DEBUG
+L 08/31/2016 - 12:38:39:  
+L 08/31/2016 - 12:38:39: Download started:
+L 08/31/2016 - 12:38:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-nofog.txt
+L 08/31/2016 - 12:38:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:40:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:40:  
+L 08/31/2016 - 12:38:40: SMC DEBUG
+L 08/31/2016 - 12:38:40: information->baseurl
+L 08/31/2016 - 12:38:40:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:40: version->latest
+L 08/31/2016 - 12:38:40:   [0]  1.0.0
+L 08/31/2016 - 12:38:40: information->notes
+L 08/31/2016 - 12:38:40:   [0]  No Fog
+L 08/31/2016 - 12:38:40:   [1]  Removes fog
+L 08/31/2016 - 12:38:40: files->source
+L 08/31/2016 - 12:38:40:   [0]  Path_SM/scripting/nofog.sp
+L 08/31/2016 - 12:38:40:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:40:   [2]  Path_SM/scripting/include/updater.inc
+L 08/31/2016 - 12:38:40: files->plugin
+L 08/31/2016 - 12:38:40:   [0]  Path_SM/plugins/nofog.smx
+L 08/31/2016 - 12:38:40: END SMC DEBUG
+L 08/31/2016 - 12:38:40:  
+L 08/31/2016 - 12:38:40: Download started:
+L 08/31/2016 - 12:38:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 08/31/2016 - 12:38:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:40:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:40: Download started:
+L 08/31/2016 - 12:38:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-restrictedarea.txt
+L 08/31/2016 - 12:38:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:40:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:40:  
+L 08/31/2016 - 12:38:40: SMC DEBUG
+L 08/31/2016 - 12:38:40: information->baseurl
+L 08/31/2016 - 12:38:40:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:40: version->latest
+L 08/31/2016 - 12:38:40:   [0]  1.0.0
+L 08/31/2016 - 12:38:40: information->notes
+L 08/31/2016 - 12:38:40:   [0]  Restricted Area Removal
+L 08/31/2016 - 12:38:40:   [1]  Plugin for removing Restricted Areas
+L 08/31/2016 - 12:38:40: files->source
+L 08/31/2016 - 12:38:40:   [0]  Path_SM/scripting/restrictedarea.sp
+L 08/31/2016 - 12:38:40:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:40:   [2]  Path_SM/scripting/include/updater.inc
+L 08/31/2016 - 12:38:40: files->plugin
+L 08/31/2016 - 12:38:40:   [0]  Path_SM/plugins/restrictedarea.smx
+L 08/31/2016 - 12:38:40: END SMC DEBUG
+L 08/31/2016 - 12:38:40:  
+L 08/31/2016 - 12:38:40: Download started:
+L 08/31/2016 - 12:38:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-cooplobby.txt
+L 08/31/2016 - 12:38:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:40:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:40:  
+L 08/31/2016 - 12:38:40: SMC DEBUG
+L 08/31/2016 - 12:38:40: information->baseurl
+L 08/31/2016 - 12:38:40:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:40: version->latest
+L 08/31/2016 - 12:38:40:   [0]  1.0.0
+L 08/31/2016 - 12:38:40: information->notes
+L 08/31/2016 - 12:38:40:   [0]  Coop Lobby Override
+L 08/31/2016 - 12:38:40:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 08/31/2016 - 12:38:40: files->source
+L 08/31/2016 - 12:38:40:   [0]  Path_SM/scripting/cooplobby.sp
+L 08/31/2016 - 12:38:40:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:40:   [2]  Path_SM/scripting/include/updater.inc
+L 08/31/2016 - 12:38:40: files->plugin
+L 08/31/2016 - 12:38:40:   [0]  Path_SM/plugins/cooplobby.smx
+L 08/31/2016 - 12:38:40: END SMC DEBUG
+L 08/31/2016 - 12:38:40:  
+L 08/31/2016 - 12:38:40: Download started:
+L 08/31/2016 - 12:38:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-weapon_pickup.txt
+L 08/31/2016 - 12:38:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:40:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:40:  
+L 08/31/2016 - 12:38:40: SMC DEBUG
+L 08/31/2016 - 12:38:40: information->baseurl
+L 08/31/2016 - 12:38:40:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:40: version->latest
+L 08/31/2016 - 12:38:40:   [0]  1.0.0
+L 08/31/2016 - 12:38:40: information->notes
+L 08/31/2016 - 12:38:40:   [0]  Weapon Pickup
+L 08/31/2016 - 12:38:40:   [1]  Weapon Pickup logic for manipulating player inventory
+L 08/31/2016 - 12:38:40: files->source
+L 08/31/2016 - 12:38:40:   [0]  Path_SM/scripting/weapon_pickup.sp
+L 08/31/2016 - 12:38:40:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/31/2016 - 12:38:40:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:40:   [3]  Path_SM/scripting/include/updater.inc
+L 08/31/2016 - 12:38:40: files->plugin
+L 08/31/2016 - 12:38:40:   [0]  Path_SM/plugins/weapon_pickup.smx
+L 08/31/2016 - 12:38:40:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/31/2016 - 12:38:40:   [2]  Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt
+L 08/31/2016 - 12:38:40: END SMC DEBUG
+L 08/31/2016 - 12:38:40:  
+L 08/31/2016 - 12:38:40: Download started:
+L 08/31/2016 - 12:38:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-respawn.txt
+L 08/31/2016 - 12:38:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:41:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:41:  
+L 08/31/2016 - 12:38:41: SMC DEBUG
+L 08/31/2016 - 12:38:41: information->baseurl
+L 08/31/2016 - 12:38:41:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:41: version->latest
+L 08/31/2016 - 12:38:41:   [0]  1.8.3
+L 08/31/2016 - 12:38:41: information->notes
+L 08/31/2016 - 12:38:41:   [0]  Player Respawn
+L 08/31/2016 - 12:38:41:   [1]  Respawn players
+L 08/31/2016 - 12:38:41: files->source
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/scripting/respawn.sp
+L 08/31/2016 - 12:38:41:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:41: files->plugin
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/plugins/respawn.smx
+L 08/31/2016 - 12:38:41:   [1]  Path_SM/translations/common.phrases.txt
+L 08/31/2016 - 12:38:41:   [2]  Path_SM/translations/respawn.phrases.txt
+L 08/31/2016 - 12:38:41:   [3]  Path_SM/gamedata/plugin.respawn.txt
+L 08/31/2016 - 12:38:41: END SMC DEBUG
+L 08/31/2016 - 12:38:41:  
+L 08/31/2016 - 12:38:41: Download started:
+L 08/31/2016 - 12:38:41:   [0]  URL: http://ins.jballou.com/sourcemod/update-insurgency.txt
+L 08/31/2016 - 12:38:41:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:41:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:41:  
+L 08/31/2016 - 12:38:41: SMC DEBUG
+L 08/31/2016 - 12:38:41: information->baseurl
+L 08/31/2016 - 12:38:41:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:41: version->latest
+L 08/31/2016 - 12:38:41:   [0]  1.4.0
+L 08/31/2016 - 12:38:41: information->notes
+L 08/31/2016 - 12:38:41:   [0]  Insurgency Support Library
+L 08/31/2016 - 12:38:41:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 08/31/2016 - 12:38:41: files->source
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/scripting/insurgency.sp
+L 08/31/2016 - 12:38:41:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:41:   [2]  Path_SM/scripting/include/loghelper.inc
+L 08/31/2016 - 12:38:41:   [3]  Path_SM/scripting/include/updater.inc
+L 08/31/2016 - 12:38:41: files->plugin
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/plugins/insurgency.smx
+L 08/31/2016 - 12:38:41:   [1]  Path_SM/translations/insurgency.phrases.txt
+L 08/31/2016 - 12:38:41:   [2]  Path_SM/gamedata/insurgency.games.txt
+L 08/31/2016 - 12:38:41: END SMC DEBUG
+L 08/31/2016 - 12:38:41:  
+L 08/31/2016 - 12:38:41: Download started:
+L 08/31/2016 - 12:38:41:   [0]  URL: http://ins.jballou.com/sourcemod/update-botspawns.txt
+L 08/31/2016 - 12:38:41:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:41:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:41:  
+L 08/31/2016 - 12:38:41: SMC DEBUG
+L 08/31/2016 - 12:38:41: information->baseurl
+L 08/31/2016 - 12:38:41:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:41: version->latest
+L 08/31/2016 - 12:38:41:   [0]  1.0.0
+L 08/31/2016 - 12:38:41: information->notes
+L 08/31/2016 - 12:38:41:   [0]  Bot Spawns
+L 08/31/2016 - 12:38:41:   [1]  Adds a number of options and ways to handle bot spawns
+L 08/31/2016 - 12:38:41: files->source
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/scripting/botspawns.sp
+L 08/31/2016 - 12:38:41:   [1]  Path_SM/scripting/include/smlib.inc
+L 08/31/2016 - 12:38:41:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:41:   [3]  Path_SM/scripting/include/updater.inc
+L 08/31/2016 - 12:38:41: files->plugin
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/plugins/botspawns.smx
+L 08/31/2016 - 12:38:41:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 08/31/2016 - 12:38:41: END SMC DEBUG
+L 08/31/2016 - 12:38:41:  
+L 08/31/2016 - 12:38:41: Download started:
+L 08/31/2016 - 12:38:41:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 08/31/2016 - 12:38:41:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:41:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:41: Download started:
+L 08/31/2016 - 12:38:41:   [0]  URL: http://ins.jballou.com/sourcemod/update-rpgdrift.txt
+L 08/31/2016 - 12:38:41:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:41:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:41:  
+L 08/31/2016 - 12:38:41: SMC DEBUG
+L 08/31/2016 - 12:38:41: information->baseurl
+L 08/31/2016 - 12:38:41:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:41: version->latest
+L 08/31/2016 - 12:38:41:   [0]  1.0.0
+L 08/31/2016 - 12:38:41: information->notes
+L 08/31/2016 - 12:38:41:   [0]  RPG Adjustments
+L 08/31/2016 - 12:38:41:   [1]  Adjusts behavior of RPG rounds
+L 08/31/2016 - 12:38:41: files->source
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/scripting/rpgdrift.sp
+L 08/31/2016 - 12:38:41:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:41:   [2]  Path_SM/scripting/include/updater.inc
+L 08/31/2016 - 12:38:41:   [3]  Path_SM/scripting/include/smlib/entities.inc
+L 08/31/2016 - 12:38:41: files->plugin
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/plugins/rpgdrift.smx
+L 08/31/2016 - 12:38:41: END SMC DEBUG
+L 08/31/2016 - 12:38:41:  
+L 08/31/2016 - 12:38:41: Download started:
+L 08/31/2016 - 12:38:41:   [0]  URL: http://ins.jballou.com/sourcemod/update-botcount.txt
+L 08/31/2016 - 12:38:41:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:41:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:41:  
+L 08/31/2016 - 12:38:41: SMC DEBUG
+L 08/31/2016 - 12:38:41: information->baseurl
+L 08/31/2016 - 12:38:41:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:41: version->latest
+L 08/31/2016 - 12:38:41:   [0]  1.0.0
+L 08/31/2016 - 12:38:41: information->notes
+L 08/31/2016 - 12:38:41:   [0]  Bot Counter
+L 08/31/2016 - 12:38:41:   [1]  Shows Bots Left Alive
+L 08/31/2016 - 12:38:41: files->source
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/scripting/botcount.sp
+L 08/31/2016 - 12:38:41:   [1]  Path_SM/scripting/include/updater.inc
+L 08/31/2016 - 12:38:41:   [2]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:41: files->plugin
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/plugins/botcount.smx
+L 08/31/2016 - 12:38:41: END SMC DEBUG
+L 08/31/2016 - 12:38:41:  
+L 08/31/2016 - 12:38:41: Download started:
+L 08/31/2016 - 12:38:41:   [0]  URL: http://ins.jballou.com/sourcemod/update-botnames.txt
+L 08/31/2016 - 12:38:41:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 08/31/2016 - 12:38:41:   [2]  Successful: Yes
+L 08/31/2016 - 12:38:41:  
+L 08/31/2016 - 12:38:41: SMC DEBUG
+L 08/31/2016 - 12:38:41: information->baseurl
+L 08/31/2016 - 12:38:41:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 08/31/2016 - 12:38:41: version->latest
+L 08/31/2016 - 12:38:41:   [0]  1.0.5
+L 08/31/2016 - 12:38:41: information->notes
+L 08/31/2016 - 12:38:41:   [0]  Bot Names
+L 08/31/2016 - 12:38:41:   [1]  Gives automatic names to bots on creation.
+L 08/31/2016 - 12:38:41: files->source
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/scripting/botnames.sp
+L 08/31/2016 - 12:38:41:   [1]  Path_SM/scripting/include/insurgency.inc
+L 08/31/2016 - 12:38:41: files->plugin
+L 08/31/2016 - 12:38:41:   [0]  Path_SM/plugins/botnames.smx
+L 08/31/2016 - 12:38:41: END SMC DEBUG
+L 08/31/2016 - 12:38:41:  
+L 09/01/2016 - 14:20:55: Download started:
+L 09/01/2016 - 14:20:55:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 09/01/2016 - 14:20:55:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:56:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:56:  
+L 09/01/2016 - 14:20:56: SMC DEBUG
+L 09/01/2016 - 14:20:56: information->baseurl
+L 09/01/2016 - 14:20:56:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:56: version->latest
+L 09/01/2016 - 14:20:56:   [0]  1.0.0
+L 09/01/2016 - 14:20:56: information->notes
+L 09/01/2016 - 14:20:56:   [0]  Damage Modifier
+L 09/01/2016 - 14:20:56:   [1]  Modifies damage before applying to players
+L 09/01/2016 - 14:20:56: files->source
+L 09/01/2016 - 14:20:56:   [0]  Path_SM/scripting/damagemod.sp
+L 09/01/2016 - 14:20:56:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:56:   [2]  Path_SM/scripting/include/updater.inc
+L 09/01/2016 - 14:20:56: files->plugin
+L 09/01/2016 - 14:20:56:   [0]  Path_SM/plugins/damagemod.smx
+L 09/01/2016 - 14:20:56: END SMC DEBUG
+L 09/01/2016 - 14:20:56:  
+L 09/01/2016 - 14:20:56: Download started:
+L 09/01/2016 - 14:20:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 09/01/2016 - 14:20:56:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:56:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:56: Download started:
+L 09/01/2016 - 14:20:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-events.txt
+L 09/01/2016 - 14:20:56:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:56:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:56:  
+L 09/01/2016 - 14:20:56: SMC DEBUG
+L 09/01/2016 - 14:20:56: information->baseurl
+L 09/01/2016 - 14:20:56:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:56: version->latest
+L 09/01/2016 - 14:20:56:   [0]  1.0.0
+L 09/01/2016 - 14:20:56: information->notes
+L 09/01/2016 - 14:20:56:   [0]  Event Logger
+L 09/01/2016 - 14:20:56:   [1]  Log events to client or server
+L 09/01/2016 - 14:20:56: files->source
+L 09/01/2016 - 14:20:56:   [0]  Path_SM/scripting/events.sp
+L 09/01/2016 - 14:20:56:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:56:   [2]  Path_SM/scripting/include/updater.inc
+L 09/01/2016 - 14:20:56: files->plugin
+L 09/01/2016 - 14:20:56:   [0]  Path_SM/plugins/events.smx
+L 09/01/2016 - 14:20:56: END SMC DEBUG
+L 09/01/2016 - 14:20:56:  
+L 09/01/2016 - 14:20:56: Download started:
+L 09/01/2016 - 14:20:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-ammocheck.txt
+L 09/01/2016 - 14:20:56:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:56:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:56:  
+L 09/01/2016 - 14:20:56: SMC DEBUG
+L 09/01/2016 - 14:20:56: information->baseurl
+L 09/01/2016 - 14:20:56:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:56: version->latest
+L 09/01/2016 - 14:20:56:   [0]  1.0.4
+L 09/01/2016 - 14:20:56: information->notes
+L 09/01/2016 - 14:20:56:   [0]  Ammo Check
+L 09/01/2016 - 14:20:56:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 09/01/2016 - 14:20:56: files->source
+L 09/01/2016 - 14:20:56:   [0]  Path_SM/scripting/ammocheck.sp
+L 09/01/2016 - 14:20:56:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:56:   [2]  Path_SM/scripting/include/updater.inc
+L 09/01/2016 - 14:20:56: files->plugin
+L 09/01/2016 - 14:20:56:   [0]  Path_SM/plugins/ammocheck.smx
+L 09/01/2016 - 14:20:56: END SMC DEBUG
+L 09/01/2016 - 14:20:56:  
+L 09/01/2016 - 14:20:56: Download started:
+L 09/01/2016 - 14:20:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-nofog.txt
+L 09/01/2016 - 14:20:56:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:57:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:57:  
+L 09/01/2016 - 14:20:57: SMC DEBUG
+L 09/01/2016 - 14:20:57: information->baseurl
+L 09/01/2016 - 14:20:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:57: version->latest
+L 09/01/2016 - 14:20:57:   [0]  1.0.0
+L 09/01/2016 - 14:20:57: information->notes
+L 09/01/2016 - 14:20:57:   [0]  No Fog
+L 09/01/2016 - 14:20:57:   [1]  Removes fog
+L 09/01/2016 - 14:20:57: files->source
+L 09/01/2016 - 14:20:57:   [0]  Path_SM/scripting/nofog.sp
+L 09/01/2016 - 14:20:57:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:57:   [2]  Path_SM/scripting/include/updater.inc
+L 09/01/2016 - 14:20:57: files->plugin
+L 09/01/2016 - 14:20:57:   [0]  Path_SM/plugins/nofog.smx
+L 09/01/2016 - 14:20:57: END SMC DEBUG
+L 09/01/2016 - 14:20:57:  
+L 09/01/2016 - 14:20:57: Download started:
+L 09/01/2016 - 14:20:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 09/01/2016 - 14:20:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:57:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:57: Download started:
+L 09/01/2016 - 14:20:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-restrictedarea.txt
+L 09/01/2016 - 14:20:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:57:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:57:  
+L 09/01/2016 - 14:20:57: SMC DEBUG
+L 09/01/2016 - 14:20:57: information->baseurl
+L 09/01/2016 - 14:20:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:57: version->latest
+L 09/01/2016 - 14:20:57:   [0]  1.0.0
+L 09/01/2016 - 14:20:57: information->notes
+L 09/01/2016 - 14:20:57:   [0]  Restricted Area Removal
+L 09/01/2016 - 14:20:57:   [1]  Plugin for removing Restricted Areas
+L 09/01/2016 - 14:20:57: files->source
+L 09/01/2016 - 14:20:57:   [0]  Path_SM/scripting/restrictedarea.sp
+L 09/01/2016 - 14:20:57:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:57:   [2]  Path_SM/scripting/include/updater.inc
+L 09/01/2016 - 14:20:57: files->plugin
+L 09/01/2016 - 14:20:57:   [0]  Path_SM/plugins/restrictedarea.smx
+L 09/01/2016 - 14:20:57: END SMC DEBUG
+L 09/01/2016 - 14:20:57:  
+L 09/01/2016 - 14:20:57: Download started:
+L 09/01/2016 - 14:20:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-cooplobby.txt
+L 09/01/2016 - 14:20:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:57:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:57:  
+L 09/01/2016 - 14:20:57: SMC DEBUG
+L 09/01/2016 - 14:20:57: information->baseurl
+L 09/01/2016 - 14:20:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:57: version->latest
+L 09/01/2016 - 14:20:57:   [0]  1.0.0
+L 09/01/2016 - 14:20:57: information->notes
+L 09/01/2016 - 14:20:57:   [0]  Coop Lobby Override
+L 09/01/2016 - 14:20:57:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 09/01/2016 - 14:20:57: files->source
+L 09/01/2016 - 14:20:57:   [0]  Path_SM/scripting/cooplobby.sp
+L 09/01/2016 - 14:20:57:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:57:   [2]  Path_SM/scripting/include/updater.inc
+L 09/01/2016 - 14:20:57: files->plugin
+L 09/01/2016 - 14:20:57:   [0]  Path_SM/plugins/cooplobby.smx
+L 09/01/2016 - 14:20:57: END SMC DEBUG
+L 09/01/2016 - 14:20:57:  
+L 09/01/2016 - 14:20:57: Download started:
+L 09/01/2016 - 14:20:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-weapon_pickup.txt
+L 09/01/2016 - 14:20:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:57:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:57:  
+L 09/01/2016 - 14:20:57: SMC DEBUG
+L 09/01/2016 - 14:20:57: information->baseurl
+L 09/01/2016 - 14:20:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:57: version->latest
+L 09/01/2016 - 14:20:57:   [0]  1.0.0
+L 09/01/2016 - 14:20:57: information->notes
+L 09/01/2016 - 14:20:57:   [0]  Weapon Pickup
+L 09/01/2016 - 14:20:57:   [1]  Weapon Pickup logic for manipulating player inventory
+L 09/01/2016 - 14:20:57: files->source
+L 09/01/2016 - 14:20:57:   [0]  Path_SM/scripting/weapon_pickup.sp
+L 09/01/2016 - 14:20:57:   [1]  Path_SM/scripting/include/smlib.inc
+L 09/01/2016 - 14:20:57:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:57:   [3]  Path_SM/scripting/include/updater.inc
+L 09/01/2016 - 14:20:57: files->plugin
+L 09/01/2016 - 14:20:57:   [0]  Path_SM/plugins/weapon_pickup.smx
+L 09/01/2016 - 14:20:57:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 09/01/2016 - 14:20:57:   [2]  Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt
+L 09/01/2016 - 14:20:57: END SMC DEBUG
+L 09/01/2016 - 14:20:57:  
+L 09/01/2016 - 14:20:57: Download started:
+L 09/01/2016 - 14:20:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-respawn.txt
+L 09/01/2016 - 14:20:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:57:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:57:  
+L 09/01/2016 - 14:20:57: SMC DEBUG
+L 09/01/2016 - 14:20:57: information->baseurl
+L 09/01/2016 - 14:20:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:57: version->latest
+L 09/01/2016 - 14:20:57:   [0]  1.8.3
+L 09/01/2016 - 14:20:57: information->notes
+L 09/01/2016 - 14:20:57:   [0]  Player Respawn
+L 09/01/2016 - 14:20:57:   [1]  Respawn players
+L 09/01/2016 - 14:20:57: files->source
+L 09/01/2016 - 14:20:57:   [0]  Path_SM/scripting/respawn.sp
+L 09/01/2016 - 14:20:57:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:57: files->plugin
+L 09/01/2016 - 14:20:57:   [0]  Path_SM/plugins/respawn.smx
+L 09/01/2016 - 14:20:57:   [1]  Path_SM/translations/common.phrases.txt
+L 09/01/2016 - 14:20:57:   [2]  Path_SM/translations/respawn.phrases.txt
+L 09/01/2016 - 14:20:57:   [3]  Path_SM/gamedata/plugin.respawn.txt
+L 09/01/2016 - 14:20:57: END SMC DEBUG
+L 09/01/2016 - 14:20:57:  
+L 09/01/2016 - 14:20:57: Download started:
+L 09/01/2016 - 14:20:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-insurgency.txt
+L 09/01/2016 - 14:20:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:58:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:58:  
+L 09/01/2016 - 14:20:58: SMC DEBUG
+L 09/01/2016 - 14:20:58: information->baseurl
+L 09/01/2016 - 14:20:58:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:58: version->latest
+L 09/01/2016 - 14:20:58:   [0]  1.4.0
+L 09/01/2016 - 14:20:58: information->notes
+L 09/01/2016 - 14:20:58:   [0]  Insurgency Support Library
+L 09/01/2016 - 14:20:58:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 09/01/2016 - 14:20:58: files->source
+L 09/01/2016 - 14:20:58:   [0]  Path_SM/scripting/insurgency.sp
+L 09/01/2016 - 14:20:58:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:58:   [2]  Path_SM/scripting/include/loghelper.inc
+L 09/01/2016 - 14:20:58:   [3]  Path_SM/scripting/include/updater.inc
+L 09/01/2016 - 14:20:58: files->plugin
+L 09/01/2016 - 14:20:58:   [0]  Path_SM/plugins/insurgency.smx
+L 09/01/2016 - 14:20:58:   [1]  Path_SM/translations/insurgency.phrases.txt
+L 09/01/2016 - 14:20:58:   [2]  Path_SM/gamedata/insurgency.games.txt
+L 09/01/2016 - 14:20:58: END SMC DEBUG
+L 09/01/2016 - 14:20:58:  
+L 09/01/2016 - 14:20:58: Download started:
+L 09/01/2016 - 14:20:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-botspawns.txt
+L 09/01/2016 - 14:20:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:58:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:58:  
+L 09/01/2016 - 14:20:58: SMC DEBUG
+L 09/01/2016 - 14:20:58: information->baseurl
+L 09/01/2016 - 14:20:58:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:58: version->latest
+L 09/01/2016 - 14:20:58:   [0]  1.0.0
+L 09/01/2016 - 14:20:58: information->notes
+L 09/01/2016 - 14:20:58:   [0]  Bot Spawns
+L 09/01/2016 - 14:20:58:   [1]  Adds a number of options and ways to handle bot spawns
+L 09/01/2016 - 14:20:58: files->source
+L 09/01/2016 - 14:20:58:   [0]  Path_SM/scripting/botspawns.sp
+L 09/01/2016 - 14:20:58:   [1]  Path_SM/scripting/include/smlib.inc
+L 09/01/2016 - 14:20:58:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:58:   [3]  Path_SM/scripting/include/updater.inc
+L 09/01/2016 - 14:20:58: files->plugin
+L 09/01/2016 - 14:20:58:   [0]  Path_SM/plugins/botspawns.smx
+L 09/01/2016 - 14:20:58:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 09/01/2016 - 14:20:58: END SMC DEBUG
+L 09/01/2016 - 14:20:58:  
+L 09/01/2016 - 14:20:58: Download started:
+L 09/01/2016 - 14:20:58:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 09/01/2016 - 14:20:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:58:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:58: Download started:
+L 09/01/2016 - 14:20:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-rpgdrift.txt
+L 09/01/2016 - 14:20:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:58:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:58:  
+L 09/01/2016 - 14:20:58: SMC DEBUG
+L 09/01/2016 - 14:20:58: information->baseurl
+L 09/01/2016 - 14:20:58:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:58: version->latest
+L 09/01/2016 - 14:20:58:   [0]  1.0.0
+L 09/01/2016 - 14:20:58: information->notes
+L 09/01/2016 - 14:20:58:   [0]  RPG Adjustments
+L 09/01/2016 - 14:20:58:   [1]  Adjusts behavior of RPG rounds
+L 09/01/2016 - 14:20:58: files->source
+L 09/01/2016 - 14:20:58:   [0]  Path_SM/scripting/rpgdrift.sp
+L 09/01/2016 - 14:20:58:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:58:   [2]  Path_SM/scripting/include/updater.inc
+L 09/01/2016 - 14:20:58:   [3]  Path_SM/scripting/include/smlib/entities.inc
+L 09/01/2016 - 14:20:58: files->plugin
+L 09/01/2016 - 14:20:58:   [0]  Path_SM/plugins/rpgdrift.smx
+L 09/01/2016 - 14:20:58: END SMC DEBUG
+L 09/01/2016 - 14:20:58:  
+L 09/01/2016 - 14:20:58: Download started:
+L 09/01/2016 - 14:20:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-botcount.txt
+L 09/01/2016 - 14:20:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:58:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:58:  
+L 09/01/2016 - 14:20:58: SMC DEBUG
+L 09/01/2016 - 14:20:58: information->baseurl
+L 09/01/2016 - 14:20:58:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:58: version->latest
+L 09/01/2016 - 14:20:58:   [0]  1.0.0
+L 09/01/2016 - 14:20:58: information->notes
+L 09/01/2016 - 14:20:58:   [0]  Bot Counter
+L 09/01/2016 - 14:20:58:   [1]  Shows Bots Left Alive
+L 09/01/2016 - 14:20:58: files->source
+L 09/01/2016 - 14:20:58:   [0]  Path_SM/scripting/botcount.sp
+L 09/01/2016 - 14:20:58:   [1]  Path_SM/scripting/include/updater.inc
+L 09/01/2016 - 14:20:58:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:58: files->plugin
+L 09/01/2016 - 14:20:58:   [0]  Path_SM/plugins/botcount.smx
+L 09/01/2016 - 14:20:58: END SMC DEBUG
+L 09/01/2016 - 14:20:58:  
+L 09/01/2016 - 14:20:58: Download started:
+L 09/01/2016 - 14:20:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-botnames.txt
+L 09/01/2016 - 14:20:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/01/2016 - 14:20:58:   [2]  Successful: Yes
+L 09/01/2016 - 14:20:58:  
+L 09/01/2016 - 14:20:58: SMC DEBUG
+L 09/01/2016 - 14:20:58: information->baseurl
+L 09/01/2016 - 14:20:58:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/01/2016 - 14:20:58: version->latest
+L 09/01/2016 - 14:20:58:   [0]  1.0.5
+L 09/01/2016 - 14:20:58: information->notes
+L 09/01/2016 - 14:20:58:   [0]  Bot Names
+L 09/01/2016 - 14:20:58:   [1]  Gives automatic names to bots on creation.
+L 09/01/2016 - 14:20:58: files->source
+L 09/01/2016 - 14:20:58:   [0]  Path_SM/scripting/botnames.sp
+L 09/01/2016 - 14:20:58:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/01/2016 - 14:20:58: files->plugin
+L 09/01/2016 - 14:20:58:   [0]  Path_SM/plugins/botnames.smx
+L 09/01/2016 - 14:20:58: END SMC DEBUG
+L 09/01/2016 - 14:20:58:  
+L 09/02/2016 - 20:24:55: Download started:
+L 09/02/2016 - 20:24:55:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 09/02/2016 - 20:24:55:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:56:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:56:  
+L 09/02/2016 - 20:24:56: SMC DEBUG
+L 09/02/2016 - 20:24:56: information->baseurl
+L 09/02/2016 - 20:24:56:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:56: version->latest
+L 09/02/2016 - 20:24:56:   [0]  1.0.0
+L 09/02/2016 - 20:24:56: information->notes
+L 09/02/2016 - 20:24:56:   [0]  Damage Modifier
+L 09/02/2016 - 20:24:56:   [1]  Modifies damage before applying to players
+L 09/02/2016 - 20:24:56: files->source
+L 09/02/2016 - 20:24:56:   [0]  Path_SM/scripting/damagemod.sp
+L 09/02/2016 - 20:24:56:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:56:   [2]  Path_SM/scripting/include/updater.inc
+L 09/02/2016 - 20:24:56: files->plugin
+L 09/02/2016 - 20:24:56:   [0]  Path_SM/plugins/damagemod.smx
+L 09/02/2016 - 20:24:56: END SMC DEBUG
+L 09/02/2016 - 20:24:56:  
+L 09/02/2016 - 20:24:56: Download started:
+L 09/02/2016 - 20:24:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 09/02/2016 - 20:24:56:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:56:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:56: Download started:
+L 09/02/2016 - 20:24:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-events.txt
+L 09/02/2016 - 20:24:56:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:56:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:56:  
+L 09/02/2016 - 20:24:56: SMC DEBUG
+L 09/02/2016 - 20:24:56: information->baseurl
+L 09/02/2016 - 20:24:56:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:56: version->latest
+L 09/02/2016 - 20:24:56:   [0]  1.0.0
+L 09/02/2016 - 20:24:56: information->notes
+L 09/02/2016 - 20:24:56:   [0]  Event Logger
+L 09/02/2016 - 20:24:56:   [1]  Log events to client or server
+L 09/02/2016 - 20:24:56: files->source
+L 09/02/2016 - 20:24:56:   [0]  Path_SM/scripting/events.sp
+L 09/02/2016 - 20:24:56:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:56:   [2]  Path_SM/scripting/include/updater.inc
+L 09/02/2016 - 20:24:56: files->plugin
+L 09/02/2016 - 20:24:56:   [0]  Path_SM/plugins/events.smx
+L 09/02/2016 - 20:24:56: END SMC DEBUG
+L 09/02/2016 - 20:24:56:  
+L 09/02/2016 - 20:24:56: Download started:
+L 09/02/2016 - 20:24:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-ammocheck.txt
+L 09/02/2016 - 20:24:56:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:56:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:56:  
+L 09/02/2016 - 20:24:56: SMC DEBUG
+L 09/02/2016 - 20:24:56: information->baseurl
+L 09/02/2016 - 20:24:56:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:56: version->latest
+L 09/02/2016 - 20:24:56:   [0]  1.0.4
+L 09/02/2016 - 20:24:56: information->notes
+L 09/02/2016 - 20:24:56:   [0]  Ammo Check
+L 09/02/2016 - 20:24:56:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 09/02/2016 - 20:24:56: files->source
+L 09/02/2016 - 20:24:56:   [0]  Path_SM/scripting/ammocheck.sp
+L 09/02/2016 - 20:24:56:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:56:   [2]  Path_SM/scripting/include/updater.inc
+L 09/02/2016 - 20:24:56: files->plugin
+L 09/02/2016 - 20:24:56:   [0]  Path_SM/plugins/ammocheck.smx
+L 09/02/2016 - 20:24:56: END SMC DEBUG
+L 09/02/2016 - 20:24:56:  
+L 09/02/2016 - 20:24:56: Download started:
+L 09/02/2016 - 20:24:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-nofog.txt
+L 09/02/2016 - 20:24:56:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:56:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:56:  
+L 09/02/2016 - 20:24:56: SMC DEBUG
+L 09/02/2016 - 20:24:56: information->baseurl
+L 09/02/2016 - 20:24:56:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:56: version->latest
+L 09/02/2016 - 20:24:56:   [0]  1.0.0
+L 09/02/2016 - 20:24:56: information->notes
+L 09/02/2016 - 20:24:56:   [0]  No Fog
+L 09/02/2016 - 20:24:56:   [1]  Removes fog
+L 09/02/2016 - 20:24:56: files->source
+L 09/02/2016 - 20:24:56:   [0]  Path_SM/scripting/nofog.sp
+L 09/02/2016 - 20:24:56:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:56:   [2]  Path_SM/scripting/include/updater.inc
+L 09/02/2016 - 20:24:56: files->plugin
+L 09/02/2016 - 20:24:56:   [0]  Path_SM/plugins/nofog.smx
+L 09/02/2016 - 20:24:56: END SMC DEBUG
+L 09/02/2016 - 20:24:56:  
+L 09/02/2016 - 20:24:56: Download started:
+L 09/02/2016 - 20:24:56:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 09/02/2016 - 20:24:56:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:57:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:57: Download started:
+L 09/02/2016 - 20:24:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-restrictedarea.txt
+L 09/02/2016 - 20:24:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:57:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: SMC DEBUG
+L 09/02/2016 - 20:24:57: information->baseurl
+L 09/02/2016 - 20:24:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:57: version->latest
+L 09/02/2016 - 20:24:57:   [0]  1.0.0
+L 09/02/2016 - 20:24:57: information->notes
+L 09/02/2016 - 20:24:57:   [0]  Restricted Area Removal
+L 09/02/2016 - 20:24:57:   [1]  Plugin for removing Restricted Areas
+L 09/02/2016 - 20:24:57: files->source
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/scripting/restrictedarea.sp
+L 09/02/2016 - 20:24:57:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:57:   [2]  Path_SM/scripting/include/updater.inc
+L 09/02/2016 - 20:24:57: files->plugin
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/plugins/restrictedarea.smx
+L 09/02/2016 - 20:24:57: END SMC DEBUG
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: Download started:
+L 09/02/2016 - 20:24:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-cooplobby.txt
+L 09/02/2016 - 20:24:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:57:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: SMC DEBUG
+L 09/02/2016 - 20:24:57: information->baseurl
+L 09/02/2016 - 20:24:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:57: version->latest
+L 09/02/2016 - 20:24:57:   [0]  1.0.0
+L 09/02/2016 - 20:24:57: information->notes
+L 09/02/2016 - 20:24:57:   [0]  Coop Lobby Override
+L 09/02/2016 - 20:24:57:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 09/02/2016 - 20:24:57: files->source
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/scripting/cooplobby.sp
+L 09/02/2016 - 20:24:57:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:57:   [2]  Path_SM/scripting/include/updater.inc
+L 09/02/2016 - 20:24:57: files->plugin
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/plugins/cooplobby.smx
+L 09/02/2016 - 20:24:57: END SMC DEBUG
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: Download started:
+L 09/02/2016 - 20:24:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-weapon_pickup.txt
+L 09/02/2016 - 20:24:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:57:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: SMC DEBUG
+L 09/02/2016 - 20:24:57: information->baseurl
+L 09/02/2016 - 20:24:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:57: version->latest
+L 09/02/2016 - 20:24:57:   [0]  1.0.0
+L 09/02/2016 - 20:24:57: information->notes
+L 09/02/2016 - 20:24:57:   [0]  Weapon Pickup
+L 09/02/2016 - 20:24:57:   [1]  Weapon Pickup logic for manipulating player inventory
+L 09/02/2016 - 20:24:57: files->source
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/scripting/weapon_pickup.sp
+L 09/02/2016 - 20:24:57:   [1]  Path_SM/scripting/include/smlib.inc
+L 09/02/2016 - 20:24:57:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:57:   [3]  Path_SM/scripting/include/updater.inc
+L 09/02/2016 - 20:24:57: files->plugin
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/plugins/weapon_pickup.smx
+L 09/02/2016 - 20:24:57:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 09/02/2016 - 20:24:57:   [2]  Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt
+L 09/02/2016 - 20:24:57: END SMC DEBUG
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: Download started:
+L 09/02/2016 - 20:24:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-respawn.txt
+L 09/02/2016 - 20:24:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:57:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: SMC DEBUG
+L 09/02/2016 - 20:24:57: information->baseurl
+L 09/02/2016 - 20:24:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:57: version->latest
+L 09/02/2016 - 20:24:57:   [0]  1.8.3
+L 09/02/2016 - 20:24:57: information->notes
+L 09/02/2016 - 20:24:57:   [0]  Player Respawn
+L 09/02/2016 - 20:24:57:   [1]  Respawn players
+L 09/02/2016 - 20:24:57: files->source
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/scripting/respawn.sp
+L 09/02/2016 - 20:24:57:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:57: files->plugin
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/plugins/respawn.smx
+L 09/02/2016 - 20:24:57:   [1]  Path_SM/translations/common.phrases.txt
+L 09/02/2016 - 20:24:57:   [2]  Path_SM/translations/respawn.phrases.txt
+L 09/02/2016 - 20:24:57:   [3]  Path_SM/gamedata/plugin.respawn.txt
+L 09/02/2016 - 20:24:57: END SMC DEBUG
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: Download started:
+L 09/02/2016 - 20:24:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-insurgency.txt
+L 09/02/2016 - 20:24:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:57:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: SMC DEBUG
+L 09/02/2016 - 20:24:57: information->baseurl
+L 09/02/2016 - 20:24:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:57: version->latest
+L 09/02/2016 - 20:24:57:   [0]  1.4.0
+L 09/02/2016 - 20:24:57: information->notes
+L 09/02/2016 - 20:24:57:   [0]  Insurgency Support Library
+L 09/02/2016 - 20:24:57:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 09/02/2016 - 20:24:57: files->source
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/scripting/insurgency.sp
+L 09/02/2016 - 20:24:57:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:57:   [2]  Path_SM/scripting/include/loghelper.inc
+L 09/02/2016 - 20:24:57:   [3]  Path_SM/scripting/include/updater.inc
+L 09/02/2016 - 20:24:57: files->plugin
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/plugins/insurgency.smx
+L 09/02/2016 - 20:24:57:   [1]  Path_SM/translations/insurgency.phrases.txt
+L 09/02/2016 - 20:24:57:   [2]  Path_SM/gamedata/insurgency.games.txt
+L 09/02/2016 - 20:24:57: END SMC DEBUG
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: Download started:
+L 09/02/2016 - 20:24:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-botspawns.txt
+L 09/02/2016 - 20:24:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:57:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: SMC DEBUG
+L 09/02/2016 - 20:24:57: information->baseurl
+L 09/02/2016 - 20:24:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:57: version->latest
+L 09/02/2016 - 20:24:57:   [0]  1.0.0
+L 09/02/2016 - 20:24:57: information->notes
+L 09/02/2016 - 20:24:57:   [0]  Bot Spawns
+L 09/02/2016 - 20:24:57:   [1]  Adds a number of options and ways to handle bot spawns
+L 09/02/2016 - 20:24:57: files->source
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/scripting/botspawns.sp
+L 09/02/2016 - 20:24:57:   [1]  Path_SM/scripting/include/smlib.inc
+L 09/02/2016 - 20:24:57:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:57:   [3]  Path_SM/scripting/include/updater.inc
+L 09/02/2016 - 20:24:57: files->plugin
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/plugins/botspawns.smx
+L 09/02/2016 - 20:24:57:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 09/02/2016 - 20:24:57: END SMC DEBUG
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: Download started:
+L 09/02/2016 - 20:24:57:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 09/02/2016 - 20:24:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:57:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:57: Download started:
+L 09/02/2016 - 20:24:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-rpgdrift.txt
+L 09/02/2016 - 20:24:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:57:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: SMC DEBUG
+L 09/02/2016 - 20:24:57: information->baseurl
+L 09/02/2016 - 20:24:57:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:57: version->latest
+L 09/02/2016 - 20:24:57:   [0]  1.0.0
+L 09/02/2016 - 20:24:57: information->notes
+L 09/02/2016 - 20:24:57:   [0]  RPG Adjustments
+L 09/02/2016 - 20:24:57:   [1]  Adjusts behavior of RPG rounds
+L 09/02/2016 - 20:24:57: files->source
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/scripting/rpgdrift.sp
+L 09/02/2016 - 20:24:57:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:57:   [2]  Path_SM/scripting/include/updater.inc
+L 09/02/2016 - 20:24:57:   [3]  Path_SM/scripting/include/smlib/entities.inc
+L 09/02/2016 - 20:24:57: files->plugin
+L 09/02/2016 - 20:24:57:   [0]  Path_SM/plugins/rpgdrift.smx
+L 09/02/2016 - 20:24:57: END SMC DEBUG
+L 09/02/2016 - 20:24:57:  
+L 09/02/2016 - 20:24:57: Download started:
+L 09/02/2016 - 20:24:57:   [0]  URL: http://ins.jballou.com/sourcemod/update-botcount.txt
+L 09/02/2016 - 20:24:57:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:58:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:58:  
+L 09/02/2016 - 20:24:58: SMC DEBUG
+L 09/02/2016 - 20:24:58: information->baseurl
+L 09/02/2016 - 20:24:58:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:58: version->latest
+L 09/02/2016 - 20:24:58:   [0]  1.0.0
+L 09/02/2016 - 20:24:58: information->notes
+L 09/02/2016 - 20:24:58:   [0]  Bot Counter
+L 09/02/2016 - 20:24:58:   [1]  Shows Bots Left Alive
+L 09/02/2016 - 20:24:58: files->source
+L 09/02/2016 - 20:24:58:   [0]  Path_SM/scripting/botcount.sp
+L 09/02/2016 - 20:24:58:   [1]  Path_SM/scripting/include/updater.inc
+L 09/02/2016 - 20:24:58:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:58: files->plugin
+L 09/02/2016 - 20:24:58:   [0]  Path_SM/plugins/botcount.smx
+L 09/02/2016 - 20:24:58: END SMC DEBUG
+L 09/02/2016 - 20:24:58:  
+L 09/02/2016 - 20:24:58: Download started:
+L 09/02/2016 - 20:24:58:   [0]  URL: http://ins.jballou.com/sourcemod/update-botnames.txt
+L 09/02/2016 - 20:24:58:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/02/2016 - 20:24:58:   [2]  Successful: Yes
+L 09/02/2016 - 20:24:58:  
+L 09/02/2016 - 20:24:58: SMC DEBUG
+L 09/02/2016 - 20:24:58: information->baseurl
+L 09/02/2016 - 20:24:58:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/02/2016 - 20:24:58: version->latest
+L 09/02/2016 - 20:24:58:   [0]  1.0.5
+L 09/02/2016 - 20:24:58: information->notes
+L 09/02/2016 - 20:24:58:   [0]  Bot Names
+L 09/02/2016 - 20:24:58:   [1]  Gives automatic names to bots on creation.
+L 09/02/2016 - 20:24:58: files->source
+L 09/02/2016 - 20:24:58:   [0]  Path_SM/scripting/botnames.sp
+L 09/02/2016 - 20:24:58:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/02/2016 - 20:24:58: files->plugin
+L 09/02/2016 - 20:24:58:   [0]  Path_SM/plugins/botnames.smx
+L 09/02/2016 - 20:24:58: END SMC DEBUG
+L 09/02/2016 - 20:24:58:  
+L 09/03/2016 - 14:25:01: Download started:
+L 09/03/2016 - 14:25:01:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 09/03/2016 - 14:25:01:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:37:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:37:  
+L 09/03/2016 - 14:25:37: SMC DEBUG
+L 09/03/2016 - 14:25:37: information->baseurl
+L 09/03/2016 - 14:25:37:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:37: version->latest
+L 09/03/2016 - 14:25:37:   [0]  1.0.0
+L 09/03/2016 - 14:25:37: information->notes
+L 09/03/2016 - 14:25:37:   [0]  Damage Modifier
+L 09/03/2016 - 14:25:37:   [1]  Modifies damage before applying to players
+L 09/03/2016 - 14:25:37: files->source
+L 09/03/2016 - 14:25:37:   [0]  Path_SM/scripting/damagemod.sp
+L 09/03/2016 - 14:25:37:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:37:   [2]  Path_SM/scripting/include/updater.inc
+L 09/03/2016 - 14:25:37: files->plugin
+L 09/03/2016 - 14:25:37:   [0]  Path_SM/plugins/damagemod.smx
+L 09/03/2016 - 14:25:37: END SMC DEBUG
+L 09/03/2016 - 14:25:37:  
+L 09/03/2016 - 14:25:37: Download started:
+L 09/03/2016 - 14:25:37:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 09/03/2016 - 14:25:37:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:38:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:38: Download started:
+L 09/03/2016 - 14:25:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-events.txt
+L 09/03/2016 - 14:25:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:38:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:38:  
+L 09/03/2016 - 14:25:38: SMC DEBUG
+L 09/03/2016 - 14:25:38: information->baseurl
+L 09/03/2016 - 14:25:38:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:38: version->latest
+L 09/03/2016 - 14:25:38:   [0]  1.0.0
+L 09/03/2016 - 14:25:38: information->notes
+L 09/03/2016 - 14:25:38:   [0]  Event Logger
+L 09/03/2016 - 14:25:38:   [1]  Log events to client or server
+L 09/03/2016 - 14:25:38: files->source
+L 09/03/2016 - 14:25:38:   [0]  Path_SM/scripting/events.sp
+L 09/03/2016 - 14:25:38:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:38:   [2]  Path_SM/scripting/include/updater.inc
+L 09/03/2016 - 14:25:38: files->plugin
+L 09/03/2016 - 14:25:38:   [0]  Path_SM/plugins/events.smx
+L 09/03/2016 - 14:25:38: END SMC DEBUG
+L 09/03/2016 - 14:25:38:  
+L 09/03/2016 - 14:25:38: Download started:
+L 09/03/2016 - 14:25:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-ammocheck.txt
+L 09/03/2016 - 14:25:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:38:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:38:  
+L 09/03/2016 - 14:25:38: SMC DEBUG
+L 09/03/2016 - 14:25:38: information->baseurl
+L 09/03/2016 - 14:25:38:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:38: version->latest
+L 09/03/2016 - 14:25:38:   [0]  1.0.4
+L 09/03/2016 - 14:25:38: information->notes
+L 09/03/2016 - 14:25:38:   [0]  Ammo Check
+L 09/03/2016 - 14:25:38:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 09/03/2016 - 14:25:38: files->source
+L 09/03/2016 - 14:25:38:   [0]  Path_SM/scripting/ammocheck.sp
+L 09/03/2016 - 14:25:38:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:38:   [2]  Path_SM/scripting/include/updater.inc
+L 09/03/2016 - 14:25:38: files->plugin
+L 09/03/2016 - 14:25:38:   [0]  Path_SM/plugins/ammocheck.smx
+L 09/03/2016 - 14:25:38: END SMC DEBUG
+L 09/03/2016 - 14:25:38:  
+L 09/03/2016 - 14:25:38: Download started:
+L 09/03/2016 - 14:25:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-nofog.txt
+L 09/03/2016 - 14:25:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:38:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:38:  
+L 09/03/2016 - 14:25:38: SMC DEBUG
+L 09/03/2016 - 14:25:38: information->baseurl
+L 09/03/2016 - 14:25:38:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:38: version->latest
+L 09/03/2016 - 14:25:38:   [0]  1.0.0
+L 09/03/2016 - 14:25:38: information->notes
+L 09/03/2016 - 14:25:38:   [0]  No Fog
+L 09/03/2016 - 14:25:38:   [1]  Removes fog
+L 09/03/2016 - 14:25:38: files->source
+L 09/03/2016 - 14:25:38:   [0]  Path_SM/scripting/nofog.sp
+L 09/03/2016 - 14:25:38:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:38:   [2]  Path_SM/scripting/include/updater.inc
+L 09/03/2016 - 14:25:38: files->plugin
+L 09/03/2016 - 14:25:38:   [0]  Path_SM/plugins/nofog.smx
+L 09/03/2016 - 14:25:38: END SMC DEBUG
+L 09/03/2016 - 14:25:38:  
+L 09/03/2016 - 14:25:38: Download started:
+L 09/03/2016 - 14:25:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 09/03/2016 - 14:25:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:38:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:38: Download started:
+L 09/03/2016 - 14:25:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-restrictedarea.txt
+L 09/03/2016 - 14:25:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:38:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:38:  
+L 09/03/2016 - 14:25:38: SMC DEBUG
+L 09/03/2016 - 14:25:38: information->baseurl
+L 09/03/2016 - 14:25:38:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:38: version->latest
+L 09/03/2016 - 14:25:38:   [0]  1.0.0
+L 09/03/2016 - 14:25:38: information->notes
+L 09/03/2016 - 14:25:38:   [0]  Restricted Area Removal
+L 09/03/2016 - 14:25:38:   [1]  Plugin for removing Restricted Areas
+L 09/03/2016 - 14:25:38: files->source
+L 09/03/2016 - 14:25:38:   [0]  Path_SM/scripting/restrictedarea.sp
+L 09/03/2016 - 14:25:38:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:38:   [2]  Path_SM/scripting/include/updater.inc
+L 09/03/2016 - 14:25:38: files->plugin
+L 09/03/2016 - 14:25:38:   [0]  Path_SM/plugins/restrictedarea.smx
+L 09/03/2016 - 14:25:38: END SMC DEBUG
+L 09/03/2016 - 14:25:38:  
+L 09/03/2016 - 14:25:38: Download started:
+L 09/03/2016 - 14:25:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-cooplobby.txt
+L 09/03/2016 - 14:25:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:38:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:38:  
+L 09/03/2016 - 14:25:38: SMC DEBUG
+L 09/03/2016 - 14:25:38: information->baseurl
+L 09/03/2016 - 14:25:38:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:38: version->latest
+L 09/03/2016 - 14:25:38:   [0]  1.0.0
+L 09/03/2016 - 14:25:38: information->notes
+L 09/03/2016 - 14:25:38:   [0]  Coop Lobby Override
+L 09/03/2016 - 14:25:38:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 09/03/2016 - 14:25:38: files->source
+L 09/03/2016 - 14:25:38:   [0]  Path_SM/scripting/cooplobby.sp
+L 09/03/2016 - 14:25:38:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:38:   [2]  Path_SM/scripting/include/updater.inc
+L 09/03/2016 - 14:25:38: files->plugin
+L 09/03/2016 - 14:25:38:   [0]  Path_SM/plugins/cooplobby.smx
+L 09/03/2016 - 14:25:38: END SMC DEBUG
+L 09/03/2016 - 14:25:38:  
+L 09/03/2016 - 14:25:38: Download started:
+L 09/03/2016 - 14:25:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-weapon_pickup.txt
+L 09/03/2016 - 14:25:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:39:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: SMC DEBUG
+L 09/03/2016 - 14:25:39: information->baseurl
+L 09/03/2016 - 14:25:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:39: version->latest
+L 09/03/2016 - 14:25:39:   [0]  1.0.0
+L 09/03/2016 - 14:25:39: information->notes
+L 09/03/2016 - 14:25:39:   [0]  Weapon Pickup
+L 09/03/2016 - 14:25:39:   [1]  Weapon Pickup logic for manipulating player inventory
+L 09/03/2016 - 14:25:39: files->source
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/scripting/weapon_pickup.sp
+L 09/03/2016 - 14:25:39:   [1]  Path_SM/scripting/include/smlib.inc
+L 09/03/2016 - 14:25:39:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:39:   [3]  Path_SM/scripting/include/updater.inc
+L 09/03/2016 - 14:25:39: files->plugin
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/plugins/weapon_pickup.smx
+L 09/03/2016 - 14:25:39:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 09/03/2016 - 14:25:39:   [2]  Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt
+L 09/03/2016 - 14:25:39: END SMC DEBUG
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: Download started:
+L 09/03/2016 - 14:25:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-respawn.txt
+L 09/03/2016 - 14:25:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:39:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: SMC DEBUG
+L 09/03/2016 - 14:25:39: information->baseurl
+L 09/03/2016 - 14:25:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:39: version->latest
+L 09/03/2016 - 14:25:39:   [0]  1.8.3
+L 09/03/2016 - 14:25:39: information->notes
+L 09/03/2016 - 14:25:39:   [0]  Player Respawn
+L 09/03/2016 - 14:25:39:   [1]  Respawn players
+L 09/03/2016 - 14:25:39: files->source
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/scripting/respawn.sp
+L 09/03/2016 - 14:25:39:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:39: files->plugin
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/plugins/respawn.smx
+L 09/03/2016 - 14:25:39:   [1]  Path_SM/translations/common.phrases.txt
+L 09/03/2016 - 14:25:39:   [2]  Path_SM/translations/respawn.phrases.txt
+L 09/03/2016 - 14:25:39:   [3]  Path_SM/gamedata/plugin.respawn.txt
+L 09/03/2016 - 14:25:39: END SMC DEBUG
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: Download started:
+L 09/03/2016 - 14:25:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-insurgency.txt
+L 09/03/2016 - 14:25:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:39:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: SMC DEBUG
+L 09/03/2016 - 14:25:39: information->baseurl
+L 09/03/2016 - 14:25:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:39: version->latest
+L 09/03/2016 - 14:25:39:   [0]  1.4.0
+L 09/03/2016 - 14:25:39: information->notes
+L 09/03/2016 - 14:25:39:   [0]  Insurgency Support Library
+L 09/03/2016 - 14:25:39:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 09/03/2016 - 14:25:39: files->source
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/scripting/insurgency.sp
+L 09/03/2016 - 14:25:39:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:39:   [2]  Path_SM/scripting/include/loghelper.inc
+L 09/03/2016 - 14:25:39:   [3]  Path_SM/scripting/include/updater.inc
+L 09/03/2016 - 14:25:39: files->plugin
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/plugins/insurgency.smx
+L 09/03/2016 - 14:25:39:   [1]  Path_SM/translations/insurgency.phrases.txt
+L 09/03/2016 - 14:25:39:   [2]  Path_SM/gamedata/insurgency.games.txt
+L 09/03/2016 - 14:25:39: END SMC DEBUG
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: Download started:
+L 09/03/2016 - 14:25:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-botspawns.txt
+L 09/03/2016 - 14:25:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:39:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: SMC DEBUG
+L 09/03/2016 - 14:25:39: information->baseurl
+L 09/03/2016 - 14:25:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:39: version->latest
+L 09/03/2016 - 14:25:39:   [0]  1.0.0
+L 09/03/2016 - 14:25:39: information->notes
+L 09/03/2016 - 14:25:39:   [0]  Bot Spawns
+L 09/03/2016 - 14:25:39:   [1]  Adds a number of options and ways to handle bot spawns
+L 09/03/2016 - 14:25:39: files->source
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/scripting/botspawns.sp
+L 09/03/2016 - 14:25:39:   [1]  Path_SM/scripting/include/smlib.inc
+L 09/03/2016 - 14:25:39:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:39:   [3]  Path_SM/scripting/include/updater.inc
+L 09/03/2016 - 14:25:39: files->plugin
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/plugins/botspawns.smx
+L 09/03/2016 - 14:25:39:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 09/03/2016 - 14:25:39: END SMC DEBUG
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: Download started:
+L 09/03/2016 - 14:25:39:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 09/03/2016 - 14:25:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:39:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:39: Download started:
+L 09/03/2016 - 14:25:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-rpgdrift.txt
+L 09/03/2016 - 14:25:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:39:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: SMC DEBUG
+L 09/03/2016 - 14:25:39: information->baseurl
+L 09/03/2016 - 14:25:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:39: version->latest
+L 09/03/2016 - 14:25:39:   [0]  1.0.0
+L 09/03/2016 - 14:25:39: information->notes
+L 09/03/2016 - 14:25:39:   [0]  RPG Adjustments
+L 09/03/2016 - 14:25:39:   [1]  Adjusts behavior of RPG rounds
+L 09/03/2016 - 14:25:39: files->source
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/scripting/rpgdrift.sp
+L 09/03/2016 - 14:25:39:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:39:   [2]  Path_SM/scripting/include/updater.inc
+L 09/03/2016 - 14:25:39:   [3]  Path_SM/scripting/include/smlib/entities.inc
+L 09/03/2016 - 14:25:39: files->plugin
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/plugins/rpgdrift.smx
+L 09/03/2016 - 14:25:39: END SMC DEBUG
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: Download started:
+L 09/03/2016 - 14:25:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-botcount.txt
+L 09/03/2016 - 14:25:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:39:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: SMC DEBUG
+L 09/03/2016 - 14:25:39: information->baseurl
+L 09/03/2016 - 14:25:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:39: version->latest
+L 09/03/2016 - 14:25:39:   [0]  1.0.0
+L 09/03/2016 - 14:25:39: information->notes
+L 09/03/2016 - 14:25:39:   [0]  Bot Counter
+L 09/03/2016 - 14:25:39:   [1]  Shows Bots Left Alive
+L 09/03/2016 - 14:25:39: files->source
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/scripting/botcount.sp
+L 09/03/2016 - 14:25:39:   [1]  Path_SM/scripting/include/updater.inc
+L 09/03/2016 - 14:25:39:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:39: files->plugin
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/plugins/botcount.smx
+L 09/03/2016 - 14:25:39: END SMC DEBUG
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: Download started:
+L 09/03/2016 - 14:25:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-botnames.txt
+L 09/03/2016 - 14:25:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/03/2016 - 14:25:39:   [2]  Successful: Yes
+L 09/03/2016 - 14:25:39:  
+L 09/03/2016 - 14:25:39: SMC DEBUG
+L 09/03/2016 - 14:25:39: information->baseurl
+L 09/03/2016 - 14:25:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/03/2016 - 14:25:39: version->latest
+L 09/03/2016 - 14:25:39:   [0]  1.0.5
+L 09/03/2016 - 14:25:39: information->notes
+L 09/03/2016 - 14:25:39:   [0]  Bot Names
+L 09/03/2016 - 14:25:39:   [1]  Gives automatic names to bots on creation.
+L 09/03/2016 - 14:25:39: files->source
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/scripting/botnames.sp
+L 09/03/2016 - 14:25:39:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/03/2016 - 14:25:39: files->plugin
+L 09/03/2016 - 14:25:39:   [0]  Path_SM/plugins/botnames.smx
+L 09/03/2016 - 14:25:39: END SMC DEBUG
+L 09/03/2016 - 14:25:39:  
+L 09/04/2016 - 14:49:38: Download started:
+L 09/04/2016 - 14:49:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 09/04/2016 - 14:49:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:38:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:38:  
+L 09/04/2016 - 14:49:38: SMC DEBUG
+L 09/04/2016 - 14:49:38: information->baseurl
+L 09/04/2016 - 14:49:38:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:38: version->latest
+L 09/04/2016 - 14:49:38:   [0]  1.0.0
+L 09/04/2016 - 14:49:38: information->notes
+L 09/04/2016 - 14:49:38:   [0]  Damage Modifier
+L 09/04/2016 - 14:49:38:   [1]  Modifies damage before applying to players
+L 09/04/2016 - 14:49:38: files->source
+L 09/04/2016 - 14:49:38:   [0]  Path_SM/scripting/damagemod.sp
+L 09/04/2016 - 14:49:38:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:38:   [2]  Path_SM/scripting/include/updater.inc
+L 09/04/2016 - 14:49:38: files->plugin
+L 09/04/2016 - 14:49:38:   [0]  Path_SM/plugins/damagemod.smx
+L 09/04/2016 - 14:49:38: END SMC DEBUG
+L 09/04/2016 - 14:49:38:  
+L 09/04/2016 - 14:49:38: Download started:
+L 09/04/2016 - 14:49:38:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 09/04/2016 - 14:49:38:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:39:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:39: Download started:
+L 09/04/2016 - 14:49:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-events.txt
+L 09/04/2016 - 14:49:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:39:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:39:  
+L 09/04/2016 - 14:49:39: SMC DEBUG
+L 09/04/2016 - 14:49:39: information->baseurl
+L 09/04/2016 - 14:49:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:39: version->latest
+L 09/04/2016 - 14:49:39:   [0]  1.0.0
+L 09/04/2016 - 14:49:39: information->notes
+L 09/04/2016 - 14:49:39:   [0]  Event Logger
+L 09/04/2016 - 14:49:39:   [1]  Log events to client or server
+L 09/04/2016 - 14:49:39: files->source
+L 09/04/2016 - 14:49:39:   [0]  Path_SM/scripting/events.sp
+L 09/04/2016 - 14:49:39:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:39:   [2]  Path_SM/scripting/include/updater.inc
+L 09/04/2016 - 14:49:39: files->plugin
+L 09/04/2016 - 14:49:39:   [0]  Path_SM/plugins/events.smx
+L 09/04/2016 - 14:49:39: END SMC DEBUG
+L 09/04/2016 - 14:49:39:  
+L 09/04/2016 - 14:49:39: Download started:
+L 09/04/2016 - 14:49:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-ammocheck.txt
+L 09/04/2016 - 14:49:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:39:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:39:  
+L 09/04/2016 - 14:49:39: SMC DEBUG
+L 09/04/2016 - 14:49:39: information->baseurl
+L 09/04/2016 - 14:49:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:39: version->latest
+L 09/04/2016 - 14:49:39:   [0]  1.0.4
+L 09/04/2016 - 14:49:39: information->notes
+L 09/04/2016 - 14:49:39:   [0]  Ammo Check
+L 09/04/2016 - 14:49:39:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 09/04/2016 - 14:49:39: files->source
+L 09/04/2016 - 14:49:39:   [0]  Path_SM/scripting/ammocheck.sp
+L 09/04/2016 - 14:49:39:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:39:   [2]  Path_SM/scripting/include/updater.inc
+L 09/04/2016 - 14:49:39: files->plugin
+L 09/04/2016 - 14:49:39:   [0]  Path_SM/plugins/ammocheck.smx
+L 09/04/2016 - 14:49:39: END SMC DEBUG
+L 09/04/2016 - 14:49:39:  
+L 09/04/2016 - 14:49:39: Download started:
+L 09/04/2016 - 14:49:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-nofog.txt
+L 09/04/2016 - 14:49:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:39:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:39:  
+L 09/04/2016 - 14:49:39: SMC DEBUG
+L 09/04/2016 - 14:49:39: information->baseurl
+L 09/04/2016 - 14:49:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:39: version->latest
+L 09/04/2016 - 14:49:39:   [0]  1.0.0
+L 09/04/2016 - 14:49:39: information->notes
+L 09/04/2016 - 14:49:39:   [0]  No Fog
+L 09/04/2016 - 14:49:39:   [1]  Removes fog
+L 09/04/2016 - 14:49:39: files->source
+L 09/04/2016 - 14:49:39:   [0]  Path_SM/scripting/nofog.sp
+L 09/04/2016 - 14:49:39:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:39:   [2]  Path_SM/scripting/include/updater.inc
+L 09/04/2016 - 14:49:39: files->plugin
+L 09/04/2016 - 14:49:39:   [0]  Path_SM/plugins/nofog.smx
+L 09/04/2016 - 14:49:39: END SMC DEBUG
+L 09/04/2016 - 14:49:39:  
+L 09/04/2016 - 14:49:39: Download started:
+L 09/04/2016 - 14:49:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 09/04/2016 - 14:49:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:39:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:39: Download started:
+L 09/04/2016 - 14:49:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-restrictedarea.txt
+L 09/04/2016 - 14:49:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:39:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:39:  
+L 09/04/2016 - 14:49:39: SMC DEBUG
+L 09/04/2016 - 14:49:39: information->baseurl
+L 09/04/2016 - 14:49:39:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:39: version->latest
+L 09/04/2016 - 14:49:39:   [0]  1.0.0
+L 09/04/2016 - 14:49:39: information->notes
+L 09/04/2016 - 14:49:39:   [0]  Restricted Area Removal
+L 09/04/2016 - 14:49:39:   [1]  Plugin for removing Restricted Areas
+L 09/04/2016 - 14:49:39: files->source
+L 09/04/2016 - 14:49:39:   [0]  Path_SM/scripting/restrictedarea.sp
+L 09/04/2016 - 14:49:39:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:39:   [2]  Path_SM/scripting/include/updater.inc
+L 09/04/2016 - 14:49:39: files->plugin
+L 09/04/2016 - 14:49:39:   [0]  Path_SM/plugins/restrictedarea.smx
+L 09/04/2016 - 14:49:39: END SMC DEBUG
+L 09/04/2016 - 14:49:39:  
+L 09/04/2016 - 14:49:39: Download started:
+L 09/04/2016 - 14:49:39:   [0]  URL: http://ins.jballou.com/sourcemod/update-cooplobby.txt
+L 09/04/2016 - 14:49:39:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:40:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: SMC DEBUG
+L 09/04/2016 - 14:49:40: information->baseurl
+L 09/04/2016 - 14:49:40:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:40: version->latest
+L 09/04/2016 - 14:49:40:   [0]  1.0.0
+L 09/04/2016 - 14:49:40: information->notes
+L 09/04/2016 - 14:49:40:   [0]  Coop Lobby Override
+L 09/04/2016 - 14:49:40:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 09/04/2016 - 14:49:40: files->source
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/scripting/cooplobby.sp
+L 09/04/2016 - 14:49:40:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:40:   [2]  Path_SM/scripting/include/updater.inc
+L 09/04/2016 - 14:49:40: files->plugin
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/plugins/cooplobby.smx
+L 09/04/2016 - 14:49:40: END SMC DEBUG
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: Download started:
+L 09/04/2016 - 14:49:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-weapon_pickup.txt
+L 09/04/2016 - 14:49:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:40:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: SMC DEBUG
+L 09/04/2016 - 14:49:40: information->baseurl
+L 09/04/2016 - 14:49:40:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:40: version->latest
+L 09/04/2016 - 14:49:40:   [0]  1.0.0
+L 09/04/2016 - 14:49:40: information->notes
+L 09/04/2016 - 14:49:40:   [0]  Weapon Pickup
+L 09/04/2016 - 14:49:40:   [1]  Weapon Pickup logic for manipulating player inventory
+L 09/04/2016 - 14:49:40: files->source
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/scripting/weapon_pickup.sp
+L 09/04/2016 - 14:49:40:   [1]  Path_SM/scripting/include/smlib.inc
+L 09/04/2016 - 14:49:40:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:40:   [3]  Path_SM/scripting/include/updater.inc
+L 09/04/2016 - 14:49:40: files->plugin
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/plugins/weapon_pickup.smx
+L 09/04/2016 - 14:49:40:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 09/04/2016 - 14:49:40:   [2]  Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt
+L 09/04/2016 - 14:49:40: END SMC DEBUG
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: Download started:
+L 09/04/2016 - 14:49:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-respawn.txt
+L 09/04/2016 - 14:49:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:40:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: SMC DEBUG
+L 09/04/2016 - 14:49:40: information->baseurl
+L 09/04/2016 - 14:49:40:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:40: version->latest
+L 09/04/2016 - 14:49:40:   [0]  1.8.3
+L 09/04/2016 - 14:49:40: information->notes
+L 09/04/2016 - 14:49:40:   [0]  Player Respawn
+L 09/04/2016 - 14:49:40:   [1]  Respawn players
+L 09/04/2016 - 14:49:40: files->source
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/scripting/respawn.sp
+L 09/04/2016 - 14:49:40:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:40: files->plugin
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/plugins/respawn.smx
+L 09/04/2016 - 14:49:40:   [1]  Path_SM/translations/common.phrases.txt
+L 09/04/2016 - 14:49:40:   [2]  Path_SM/translations/respawn.phrases.txt
+L 09/04/2016 - 14:49:40:   [3]  Path_SM/gamedata/plugin.respawn.txt
+L 09/04/2016 - 14:49:40: END SMC DEBUG
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: Download started:
+L 09/04/2016 - 14:49:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-insurgency.txt
+L 09/04/2016 - 14:49:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:40:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: SMC DEBUG
+L 09/04/2016 - 14:49:40: information->baseurl
+L 09/04/2016 - 14:49:40:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:40: version->latest
+L 09/04/2016 - 14:49:40:   [0]  1.4.0
+L 09/04/2016 - 14:49:40: information->notes
+L 09/04/2016 - 14:49:40:   [0]  Insurgency Support Library
+L 09/04/2016 - 14:49:40:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 09/04/2016 - 14:49:40: files->source
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/scripting/insurgency.sp
+L 09/04/2016 - 14:49:40:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:40:   [2]  Path_SM/scripting/include/loghelper.inc
+L 09/04/2016 - 14:49:40:   [3]  Path_SM/scripting/include/updater.inc
+L 09/04/2016 - 14:49:40: files->plugin
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/plugins/insurgency.smx
+L 09/04/2016 - 14:49:40:   [1]  Path_SM/translations/insurgency.phrases.txt
+L 09/04/2016 - 14:49:40:   [2]  Path_SM/gamedata/insurgency.games.txt
+L 09/04/2016 - 14:49:40: END SMC DEBUG
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: Download started:
+L 09/04/2016 - 14:49:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-botspawns.txt
+L 09/04/2016 - 14:49:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:40:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: SMC DEBUG
+L 09/04/2016 - 14:49:40: information->baseurl
+L 09/04/2016 - 14:49:40:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:40: version->latest
+L 09/04/2016 - 14:49:40:   [0]  1.0.0
+L 09/04/2016 - 14:49:40: information->notes
+L 09/04/2016 - 14:49:40:   [0]  Bot Spawns
+L 09/04/2016 - 14:49:40:   [1]  Adds a number of options and ways to handle bot spawns
+L 09/04/2016 - 14:49:40: files->source
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/scripting/botspawns.sp
+L 09/04/2016 - 14:49:40:   [1]  Path_SM/scripting/include/smlib.inc
+L 09/04/2016 - 14:49:40:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:40:   [3]  Path_SM/scripting/include/updater.inc
+L 09/04/2016 - 14:49:40: files->plugin
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/plugins/botspawns.smx
+L 09/04/2016 - 14:49:40:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 09/04/2016 - 14:49:40: END SMC DEBUG
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: Download started:
+L 09/04/2016 - 14:49:40:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 09/04/2016 - 14:49:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:40:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:40: Download started:
+L 09/04/2016 - 14:49:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-rpgdrift.txt
+L 09/04/2016 - 14:49:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:40:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: SMC DEBUG
+L 09/04/2016 - 14:49:40: information->baseurl
+L 09/04/2016 - 14:49:40:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:40: version->latest
+L 09/04/2016 - 14:49:40:   [0]  1.0.0
+L 09/04/2016 - 14:49:40: information->notes
+L 09/04/2016 - 14:49:40:   [0]  RPG Adjustments
+L 09/04/2016 - 14:49:40:   [1]  Adjusts behavior of RPG rounds
+L 09/04/2016 - 14:49:40: files->source
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/scripting/rpgdrift.sp
+L 09/04/2016 - 14:49:40:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:40:   [2]  Path_SM/scripting/include/updater.inc
+L 09/04/2016 - 14:49:40:   [3]  Path_SM/scripting/include/smlib/entities.inc
+L 09/04/2016 - 14:49:40: files->plugin
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/plugins/rpgdrift.smx
+L 09/04/2016 - 14:49:40: END SMC DEBUG
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: Download started:
+L 09/04/2016 - 14:49:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-botcount.txt
+L 09/04/2016 - 14:49:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:40:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: SMC DEBUG
+L 09/04/2016 - 14:49:40: information->baseurl
+L 09/04/2016 - 14:49:40:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:40: version->latest
+L 09/04/2016 - 14:49:40:   [0]  1.0.0
+L 09/04/2016 - 14:49:40: information->notes
+L 09/04/2016 - 14:49:40:   [0]  Bot Counter
+L 09/04/2016 - 14:49:40:   [1]  Shows Bots Left Alive
+L 09/04/2016 - 14:49:40: files->source
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/scripting/botcount.sp
+L 09/04/2016 - 14:49:40:   [1]  Path_SM/scripting/include/updater.inc
+L 09/04/2016 - 14:49:40:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:40: files->plugin
+L 09/04/2016 - 14:49:40:   [0]  Path_SM/plugins/botcount.smx
+L 09/04/2016 - 14:49:40: END SMC DEBUG
+L 09/04/2016 - 14:49:40:  
+L 09/04/2016 - 14:49:40: Download started:
+L 09/04/2016 - 14:49:40:   [0]  URL: http://ins.jballou.com/sourcemod/update-botnames.txt
+L 09/04/2016 - 14:49:40:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/04/2016 - 14:49:41:   [2]  Successful: Yes
+L 09/04/2016 - 14:49:41:  
+L 09/04/2016 - 14:49:41: SMC DEBUG
+L 09/04/2016 - 14:49:41: information->baseurl
+L 09/04/2016 - 14:49:41:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/04/2016 - 14:49:41: version->latest
+L 09/04/2016 - 14:49:41:   [0]  1.0.5
+L 09/04/2016 - 14:49:41: information->notes
+L 09/04/2016 - 14:49:41:   [0]  Bot Names
+L 09/04/2016 - 14:49:41:   [1]  Gives automatic names to bots on creation.
+L 09/04/2016 - 14:49:41: files->source
+L 09/04/2016 - 14:49:41:   [0]  Path_SM/scripting/botnames.sp
+L 09/04/2016 - 14:49:41:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/04/2016 - 14:49:41: files->plugin
+L 09/04/2016 - 14:49:41:   [0]  Path_SM/plugins/botnames.smx
+L 09/04/2016 - 14:49:41: END SMC DEBUG
+L 09/04/2016 - 14:49:41:  
+L 09/05/2016 - 17:19:18: Download started:
+L 09/05/2016 - 17:19:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-damagemod.txt
+L 09/05/2016 - 17:19:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:18:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:18:  
+L 09/05/2016 - 17:19:18: SMC DEBUG
+L 09/05/2016 - 17:19:18: information->baseurl
+L 09/05/2016 - 17:19:18:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:18: version->latest
+L 09/05/2016 - 17:19:18:   [0]  1.0.0
+L 09/05/2016 - 17:19:18: information->notes
+L 09/05/2016 - 17:19:18:   [0]  Damage Modifier
+L 09/05/2016 - 17:19:18:   [1]  Modifies damage before applying to players
+L 09/05/2016 - 17:19:18: files->source
+L 09/05/2016 - 17:19:18:   [0]  Path_SM/scripting/damagemod.sp
+L 09/05/2016 - 17:19:18:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:18:   [2]  Path_SM/scripting/include/updater.inc
+L 09/05/2016 - 17:19:18: files->plugin
+L 09/05/2016 - 17:19:18:   [0]  Path_SM/plugins/damagemod.smx
+L 09/05/2016 - 17:19:18: END SMC DEBUG
+L 09/05/2016 - 17:19:18:  
+L 09/05/2016 - 17:19:18: Download started:
+L 09/05/2016 - 17:19:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-capture_count.txt
+L 09/05/2016 - 17:19:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:18:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:18: Download started:
+L 09/05/2016 - 17:19:18:   [0]  URL: http://ins.jballou.com/sourcemod/update-events.txt
+L 09/05/2016 - 17:19:18:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:19:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:19:  
+L 09/05/2016 - 17:19:19: SMC DEBUG
+L 09/05/2016 - 17:19:19: information->baseurl
+L 09/05/2016 - 17:19:19:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:19: version->latest
+L 09/05/2016 - 17:19:19:   [0]  1.0.0
+L 09/05/2016 - 17:19:19: information->notes
+L 09/05/2016 - 17:19:19:   [0]  Event Logger
+L 09/05/2016 - 17:19:19:   [1]  Log events to client or server
+L 09/05/2016 - 17:19:19: files->source
+L 09/05/2016 - 17:19:19:   [0]  Path_SM/scripting/events.sp
+L 09/05/2016 - 17:19:19:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:19:   [2]  Path_SM/scripting/include/updater.inc
+L 09/05/2016 - 17:19:19: files->plugin
+L 09/05/2016 - 17:19:19:   [0]  Path_SM/plugins/events.smx
+L 09/05/2016 - 17:19:19: END SMC DEBUG
+L 09/05/2016 - 17:19:19:  
+L 09/05/2016 - 17:19:19: Download started:
+L 09/05/2016 - 17:19:19:   [0]  URL: http://ins.jballou.com/sourcemod/update-ammocheck.txt
+L 09/05/2016 - 17:19:19:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:19:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:19:  
+L 09/05/2016 - 17:19:19: SMC DEBUG
+L 09/05/2016 - 17:19:19: information->baseurl
+L 09/05/2016 - 17:19:19:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:19: version->latest
+L 09/05/2016 - 17:19:19:   [0]  1.0.4
+L 09/05/2016 - 17:19:19: information->notes
+L 09/05/2016 - 17:19:19:   [0]  Ammo Check
+L 09/05/2016 - 17:19:19:   [1]  Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine
+L 09/05/2016 - 17:19:19: files->source
+L 09/05/2016 - 17:19:19:   [0]  Path_SM/scripting/ammocheck.sp
+L 09/05/2016 - 17:19:19:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:19:   [2]  Path_SM/scripting/include/updater.inc
+L 09/05/2016 - 17:19:19: files->plugin
+L 09/05/2016 - 17:19:19:   [0]  Path_SM/plugins/ammocheck.smx
+L 09/05/2016 - 17:19:19: END SMC DEBUG
+L 09/05/2016 - 17:19:19:  
+L 09/05/2016 - 17:19:19: Download started:
+L 09/05/2016 - 17:19:19:   [0]  URL: http://ins.jballou.com/sourcemod/update-nofog.txt
+L 09/05/2016 - 17:19:19:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:19:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:19:  
+L 09/05/2016 - 17:19:19: SMC DEBUG
+L 09/05/2016 - 17:19:19: information->baseurl
+L 09/05/2016 - 17:19:19:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:19: version->latest
+L 09/05/2016 - 17:19:19:   [0]  1.0.0
+L 09/05/2016 - 17:19:19: information->notes
+L 09/05/2016 - 17:19:19:   [0]  No Fog
+L 09/05/2016 - 17:19:19:   [1]  Removes fog
+L 09/05/2016 - 17:19:19: files->source
+L 09/05/2016 - 17:19:19:   [0]  Path_SM/scripting/nofog.sp
+L 09/05/2016 - 17:19:19:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:19:   [2]  Path_SM/scripting/include/updater.inc
+L 09/05/2016 - 17:19:19: files->plugin
+L 09/05/2016 - 17:19:19:   [0]  Path_SM/plugins/nofog.smx
+L 09/05/2016 - 17:19:19: END SMC DEBUG
+L 09/05/2016 - 17:19:19:  
+L 09/05/2016 - 17:19:19: Download started:
+L 09/05/2016 - 17:19:19:   [0]  URL: http://ins.jballou.com/sourcemod/update-prop_dynamic.txt
+L 09/05/2016 - 17:19:19:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:19:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:19: Download started:
+L 09/05/2016 - 17:19:19:   [0]  URL: http://ins.jballou.com/sourcemod/update-restrictedarea.txt
+L 09/05/2016 - 17:19:19:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:19:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:19:  
+L 09/05/2016 - 17:19:19: SMC DEBUG
+L 09/05/2016 - 17:19:19: information->baseurl
+L 09/05/2016 - 17:19:19:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:19: version->latest
+L 09/05/2016 - 17:19:19:   [0]  1.0.0
+L 09/05/2016 - 17:19:19: information->notes
+L 09/05/2016 - 17:19:19:   [0]  Restricted Area Removal
+L 09/05/2016 - 17:19:19:   [1]  Plugin for removing Restricted Areas
+L 09/05/2016 - 17:19:19: files->source
+L 09/05/2016 - 17:19:19:   [0]  Path_SM/scripting/restrictedarea.sp
+L 09/05/2016 - 17:19:19:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:19:   [2]  Path_SM/scripting/include/updater.inc
+L 09/05/2016 - 17:19:19: files->plugin
+L 09/05/2016 - 17:19:19:   [0]  Path_SM/plugins/restrictedarea.smx
+L 09/05/2016 - 17:19:19: END SMC DEBUG
+L 09/05/2016 - 17:19:19:  
+L 09/05/2016 - 17:19:19: Download started:
+L 09/05/2016 - 17:19:19:   [0]  URL: http://ins.jballou.com/sourcemod/update-cooplobby.txt
+L 09/05/2016 - 17:19:19:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:19:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:19:  
+L 09/05/2016 - 17:19:19: SMC DEBUG
+L 09/05/2016 - 17:19:19: information->baseurl
+L 09/05/2016 - 17:19:19:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:19: version->latest
+L 09/05/2016 - 17:19:19:   [0]  1.0.0
+L 09/05/2016 - 17:19:19: information->notes
+L 09/05/2016 - 17:19:19:   [0]  Coop Lobby Override
+L 09/05/2016 - 17:19:19:   [1]  Plugin for overriding Insurgency Coop to 32 players
+L 09/05/2016 - 17:19:19: files->source
+L 09/05/2016 - 17:19:19:   [0]  Path_SM/scripting/cooplobby.sp
+L 09/05/2016 - 17:19:19:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:19:   [2]  Path_SM/scripting/include/updater.inc
+L 09/05/2016 - 17:19:19: files->plugin
+L 09/05/2016 - 17:19:19:   [0]  Path_SM/plugins/cooplobby.smx
+L 09/05/2016 - 17:19:19: END SMC DEBUG
+L 09/05/2016 - 17:19:19:  
+L 09/05/2016 - 17:19:19: Download started:
+L 09/05/2016 - 17:19:19:   [0]  URL: http://ins.jballou.com/sourcemod/update-weapon_pickup.txt
+L 09/05/2016 - 17:19:19:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:20:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: SMC DEBUG
+L 09/05/2016 - 17:19:20: information->baseurl
+L 09/05/2016 - 17:19:20:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:20: version->latest
+L 09/05/2016 - 17:19:20:   [0]  1.0.0
+L 09/05/2016 - 17:19:20: information->notes
+L 09/05/2016 - 17:19:20:   [0]  Weapon Pickup
+L 09/05/2016 - 17:19:20:   [1]  Weapon Pickup logic for manipulating player inventory
+L 09/05/2016 - 17:19:20: files->source
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/scripting/weapon_pickup.sp
+L 09/05/2016 - 17:19:20:   [1]  Path_SM/scripting/include/smlib.inc
+L 09/05/2016 - 17:19:20:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:20:   [3]  Path_SM/scripting/include/updater.inc
+L 09/05/2016 - 17:19:20: files->plugin
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/plugins/weapon_pickup.smx
+L 09/05/2016 - 17:19:20:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 09/05/2016 - 17:19:20:   [2]  Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt
+L 09/05/2016 - 17:19:20: END SMC DEBUG
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: Download started:
+L 09/05/2016 - 17:19:20:   [0]  URL: http://ins.jballou.com/sourcemod/update-respawn.txt
+L 09/05/2016 - 17:19:20:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:20:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: SMC DEBUG
+L 09/05/2016 - 17:19:20: information->baseurl
+L 09/05/2016 - 17:19:20:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:20: version->latest
+L 09/05/2016 - 17:19:20:   [0]  1.8.3
+L 09/05/2016 - 17:19:20: information->notes
+L 09/05/2016 - 17:19:20:   [0]  Player Respawn
+L 09/05/2016 - 17:19:20:   [1]  Respawn players
+L 09/05/2016 - 17:19:20: files->source
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/scripting/respawn.sp
+L 09/05/2016 - 17:19:20:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:20: files->plugin
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/plugins/respawn.smx
+L 09/05/2016 - 17:19:20:   [1]  Path_SM/translations/common.phrases.txt
+L 09/05/2016 - 17:19:20:   [2]  Path_SM/translations/respawn.phrases.txt
+L 09/05/2016 - 17:19:20:   [3]  Path_SM/gamedata/plugin.respawn.txt
+L 09/05/2016 - 17:19:20: END SMC DEBUG
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: Download started:
+L 09/05/2016 - 17:19:20:   [0]  URL: http://ins.jballou.com/sourcemod/update-insurgency.txt
+L 09/05/2016 - 17:19:20:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:20:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: SMC DEBUG
+L 09/05/2016 - 17:19:20: information->baseurl
+L 09/05/2016 - 17:19:20:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:20: version->latest
+L 09/05/2016 - 17:19:20:   [0]  1.4.0
+L 09/05/2016 - 17:19:20: information->notes
+L 09/05/2016 - 17:19:20:   [0]  Insurgency Support Library
+L 09/05/2016 - 17:19:20:   [1]  Provides functions to support Insurgency. Includes logging, round statistics, weapon names, player class names, and more.
+L 09/05/2016 - 17:19:20: files->source
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/scripting/insurgency.sp
+L 09/05/2016 - 17:19:20:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:20:   [2]  Path_SM/scripting/include/loghelper.inc
+L 09/05/2016 - 17:19:20:   [3]  Path_SM/scripting/include/updater.inc
+L 09/05/2016 - 17:19:20: files->plugin
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/plugins/insurgency.smx
+L 09/05/2016 - 17:19:20:   [1]  Path_SM/translations/insurgency.phrases.txt
+L 09/05/2016 - 17:19:20:   [2]  Path_SM/gamedata/insurgency.games.txt
+L 09/05/2016 - 17:19:20: END SMC DEBUG
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: Download started:
+L 09/05/2016 - 17:19:20:   [0]  URL: http://ins.jballou.com/sourcemod/update-botspawns.txt
+L 09/05/2016 - 17:19:20:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:20:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: SMC DEBUG
+L 09/05/2016 - 17:19:20: information->baseurl
+L 09/05/2016 - 17:19:20:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:20: version->latest
+L 09/05/2016 - 17:19:20:   [0]  1.0.0
+L 09/05/2016 - 17:19:20: information->notes
+L 09/05/2016 - 17:19:20:   [0]  Bot Spawns
+L 09/05/2016 - 17:19:20:   [1]  Adds a number of options and ways to handle bot spawns
+L 09/05/2016 - 17:19:20: files->source
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/scripting/botspawns.sp
+L 09/05/2016 - 17:19:20:   [1]  Path_SM/scripting/include/smlib.inc
+L 09/05/2016 - 17:19:20:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:20:   [3]  Path_SM/scripting/include/updater.inc
+L 09/05/2016 - 17:19:20: files->plugin
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/plugins/botspawns.smx
+L 09/05/2016 - 17:19:20:   [1]  Path_SM/gamedata/insurgency.games.txt
+L 09/05/2016 - 17:19:20: END SMC DEBUG
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: Download started:
+L 09/05/2016 - 17:19:20:   [0]  URL: https://sarabveer.github.io/SourceBans-Fork/updater/updatefile.txt
+L 09/05/2016 - 17:19:20:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:20:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:20: Download started:
+L 09/05/2016 - 17:19:20:   [0]  URL: http://ins.jballou.com/sourcemod/update-rpgdrift.txt
+L 09/05/2016 - 17:19:20:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:20:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: SMC DEBUG
+L 09/05/2016 - 17:19:20: information->baseurl
+L 09/05/2016 - 17:19:20:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:20: version->latest
+L 09/05/2016 - 17:19:20:   [0]  1.0.0
+L 09/05/2016 - 17:19:20: information->notes
+L 09/05/2016 - 17:19:20:   [0]  RPG Adjustments
+L 09/05/2016 - 17:19:20:   [1]  Adjusts behavior of RPG rounds
+L 09/05/2016 - 17:19:20: files->source
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/scripting/rpgdrift.sp
+L 09/05/2016 - 17:19:20:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:20:   [2]  Path_SM/scripting/include/updater.inc
+L 09/05/2016 - 17:19:20:   [3]  Path_SM/scripting/include/smlib/entities.inc
+L 09/05/2016 - 17:19:20: files->plugin
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/plugins/rpgdrift.smx
+L 09/05/2016 - 17:19:20: END SMC DEBUG
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: Download started:
+L 09/05/2016 - 17:19:20:   [0]  URL: http://ins.jballou.com/sourcemod/update-botcount.txt
+L 09/05/2016 - 17:19:20:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:20:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: SMC DEBUG
+L 09/05/2016 - 17:19:20: information->baseurl
+L 09/05/2016 - 17:19:20:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:20: version->latest
+L 09/05/2016 - 17:19:20:   [0]  1.0.0
+L 09/05/2016 - 17:19:20: information->notes
+L 09/05/2016 - 17:19:20:   [0]  Bot Counter
+L 09/05/2016 - 17:19:20:   [1]  Shows Bots Left Alive
+L 09/05/2016 - 17:19:20: files->source
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/scripting/botcount.sp
+L 09/05/2016 - 17:19:20:   [1]  Path_SM/scripting/include/updater.inc
+L 09/05/2016 - 17:19:20:   [2]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:20: files->plugin
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/plugins/botcount.smx
+L 09/05/2016 - 17:19:20: END SMC DEBUG
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: Download started:
+L 09/05/2016 - 17:19:20:   [0]  URL: http://ins.jballou.com/sourcemod/update-botnames.txt
+L 09/05/2016 - 17:19:20:   [1]  Destination: addons/sourcemod/data/updater.txt
+L 09/05/2016 - 17:19:20:   [2]  Successful: Yes
+L 09/05/2016 - 17:19:20:  
+L 09/05/2016 - 17:19:20: SMC DEBUG
+L 09/05/2016 - 17:19:20: information->baseurl
+L 09/05/2016 - 17:19:20:   [0]  https://raw.github.com/jaredballou/insurgency-sourcemod/master
+L 09/05/2016 - 17:19:20: version->latest
+L 09/05/2016 - 17:19:20:   [0]  1.0.5
+L 09/05/2016 - 17:19:20: information->notes
+L 09/05/2016 - 17:19:20:   [0]  Bot Names
+L 09/05/2016 - 17:19:20:   [1]  Gives automatic names to bots on creation.
+L 09/05/2016 - 17:19:20: files->source
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/scripting/botnames.sp
+L 09/05/2016 - 17:19:20:   [1]  Path_SM/scripting/include/insurgency.inc
+L 09/05/2016 - 17:19:20: files->plugin
+L 09/05/2016 - 17:19:20:   [0]  Path_SM/plugins/botnames.smx
+L 09/05/2016 - 17:19:20: END SMC DEBUG
+L 09/05/2016 - 17:19:20:  

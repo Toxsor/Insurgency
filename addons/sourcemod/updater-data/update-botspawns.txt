@@ -1,0 +1,22 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.4.2"
+		}
+		"Notes"		"Adds a number of options and ways to handle bot spawns"
+		"Name"		"Bot Spawns"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/botspawns.sp"
+		"Plugin"	"Path_SM/plugins/botspawns.smx"
+		"Source"	"Path_SM/scripting/include/smlib.inc"
+		"Source"	"Path_SM/scripting/include/insurgency.inc"
+		"Source"	"Path_SM/scripting/include/navmesh.inc"
+		"Plugin"	"Path_SM/gamedata/insurgency.games.txt"
+
+	}
+}

@@ -1,0 +1,310 @@
+L 08/16/2016 - 00:13:22: SourceMod log file session started (file "L20160816.log") (Version "1.8.0.5919")
+L 08/16/2016 - 00:13:22: -------- Mapchange to ministry_coop --------
+L 08/16/2016 - 00:24:41: -------- Mapchange to launch_control_coopv1_9 --------
+L 08/16/2016 - 00:42:30: -------- Mapchange to the_burbs_coop --------
+L 08/16/2016 - 00:52:32: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/16/2016 - 01:03:42: -------- Mapchange to game_day_coopv1_3 --------
+L 08/16/2016 - 01:45:41: -------- Mapchange to drycanal_coop --------
+L 08/16/2016 - 02:57:44: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/16/2016 - 03:08:44: -------- Mapchange to crossbowv1_1 --------
+L 08/16/2016 - 03:22:11: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/16/2016 - 03:58:42: -------- Mapchange to payback_b3 --------
+L 08/16/2016 - 04:55:11: -------- Mapchange to pow_raid --------
+L 08/16/2016 - 05:22:47: -------- Mapchange to healthcenter_coop --------
+L 08/16/2016 - 05:24:49: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/16/2016 - 06:31:20: -------- Mapchange to healthcenter_coop --------
+L 08/16/2016 - 06:57:20: -------- Mapchange to ministry_coop --------
+L 08/16/2016 - 07:11:58: -------- Mapchange to jack_hammer_coopv1_2 --------
+L 08/16/2016 - 07:39:09: -------- Mapchange to tell_coop --------
+L 08/16/2016 - 07:58:52: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/16/2016 - 08:10:01: -------- Mapchange to hurtlocker_coopv2hc --------
+L 08/16/2016 - 08:43:54: -------- Mapchange to the_burbs_coop --------
+L 08/16/2016 - 09:00:03: -------- Mapchange to badlands_coop_b1 --------
+L 08/16/2016 - 10:18:44: -------- Mapchange to takbar_b5 --------
+L 08/16/2016 - 10:32:53: -------- Mapchange to osama_b3_checkpoint --------
+L 08/16/2016 - 10:36:38: -------- Mapchange to the_burbs_coop --------
+L 08/16/2016 - 11:07:44: -------- Mapchange to hurtlocker_coopv2hc --------
+L 08/16/2016 - 11:18:43: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 11:19:55: -------- Mapchange to badlands_coop_b1 --------
+L 08/16/2016 - 11:22:55: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 11:22:55: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "=7Cav=CPL.Windeck.S<5630><STEAM_1:1:44734260><>"
+L 08/16/2016 - 11:22:55: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Coach<5561><STEAM_1:0:5455237><>"
+L 08/16/2016 - 11:31:07: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 11:31:07: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "=7Cav=CPL.Windeck.S<5630><STEAM_1:1:44734260><>"
+L 08/16/2016 - 11:31:07: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Coach<5561><STEAM_1:0:5455237><>"
+L 08/16/2016 - 11:31:07: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "SpiffyBilly<5601><STEAM_1:0:146733194><>"
+L 08/16/2016 - 11:39:59: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Coach<5561><STEAM_1:0:5455237><>"
+L 08/16/2016 - 11:43:29: -------- Mapchange to zagros_convoy_b5 --------
+L 08/16/2016 - 11:46:23: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mossin<5648><STEAM_1:0:122260626><>"
+L 08/16/2016 - 11:46:23: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Coach<5561><STEAM_1:0:5455237><>"
+L 08/16/2016 - 11:46:23: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Slonken<5608><STEAM_1:1:11382734><>"
+L 08/16/2016 - 11:51:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 11:53:53: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Coach<5561><STEAM_1:0:5455237><>"
+L 08/16/2016 - 11:53:53: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Slonken<5608><STEAM_1:1:11382734><>"
+L 08/16/2016 - 11:55:37: -------- Mapchange to badel_coop_v1 --------
+L 08/16/2016 - 12:03:47: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Coach<5561><STEAM_1:0:5455237><>"
+L 08/16/2016 - 12:03:47: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Action Jackson<5675><STEAM_1:0:29223727><>"
+L 08/16/2016 - 12:06:07: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 12:07:29: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 12:12:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Action Jackson<5675><STEAM_1:0:29223727><>"
+L 08/16/2016 - 12:13:26: -------- Mapchange to drycanal_coop --------
+L 08/16/2016 - 12:17:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 12:28:24: -------- Mapchange to pow_raid --------
+L 08/16/2016 - 12:29:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 12:32:44: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 12:32:44: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Coach<5561><STEAM_1:0:5455237><>"
+L 08/16/2016 - 12:33:26: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 12:33:26: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Action Jackson<5675><STEAM_1:0:29223727><>"
+L 08/16/2016 - 12:39:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 12:42:19: -------- Mapchange to inferno_checkpoint_b2 --------
+L 08/16/2016 - 12:46:31: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 12:48:05: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 12:49:12: -------- Mapchange to cs_militia_coop_v1_1 --------
+L 08/16/2016 - 12:51:18: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Amin<5755><BOT><>"
+L 08/16/2016 - 12:51:18: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Majd al Din<5756><BOT><>"
+L 08/16/2016 - 12:51:18: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Fayyad<5757><BOT><>"
+L 08/16/2016 - 12:51:18: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Raghid<5758><BOT><>"
+L 08/16/2016 - 12:51:18: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Fawzi<5759><BOT><>"
+L 08/16/2016 - 12:51:18: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Walif<5760><BOT><>"
+L 08/16/2016 - 12:51:18: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Ilias<5762><BOT><>"
+L 08/16/2016 - 12:51:18: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Tammam<5763><BOT><>"
+L 08/16/2016 - 12:51:18: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Sofian<5764><BOT><>"
+L 08/16/2016 - 12:51:18: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Ayman<5767><BOT><>"
+L 08/16/2016 - 12:51:23: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Coach<5561><STEAM_1:0:5455237><>"
+L 08/16/2016 - 12:52:32: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Tammam<5763><BOT><>"
+L 08/16/2016 - 12:52:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Thabit<5769><BOT><>"
+L 08/16/2016 - 12:52:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Fakhri<5770><BOT><>"
+L 08/16/2016 - 12:52:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Khairi<5771><BOT><>"
+L 08/16/2016 - 12:52:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Madani<5772><BOT><>"
+L 08/16/2016 - 12:52:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Ghawth<5773><BOT><>"
+L 08/16/2016 - 12:52:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Fawzi<5759><BOT><>"
+L 08/16/2016 - 12:52:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Akram<5765><BOT><>"
+L 08/16/2016 - 12:52:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rasmi<5775><BOT><>"
+L 08/16/2016 - 12:53:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Khairi<5771><BOT><>"
+L 08/16/2016 - 12:53:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Fayyad<5757><BOT><>"
+L 08/16/2016 - 12:53:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Majdy<5761><BOT><>"
+L 08/16/2016 - 12:53:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Sofian<5764><BOT><>"
+L 08/16/2016 - 12:53:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Akram<5765><BOT><>"
+L 08/16/2016 - 12:53:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Ayman<5767><BOT><>"
+L 08/16/2016 - 12:53:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Adnan<5774><BOT><>"
+L 08/16/2016 - 12:53:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rasmi<5775><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Thabit<5769><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Fakhri<5770><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Khairi<5771><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Madani<5772><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Ghawth<5773><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Majd al Din<5756><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Raghid<5758><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Walif<5760><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Majdy<5761><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Ilias<5762><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Sofian<5764><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Almahdi<5766><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Ayman<5767><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Adnan<5774><BOT><>"
+L 08/16/2016 - 12:53:49: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rasmi<5775><BOT><>"
+L 08/16/2016 - 12:54:39: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 12:54:40: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "koffeinexperte<5723><STEAM_1:0:59235213><>"
+L 08/16/2016 - 12:54:40: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Noob Hatred<5748><STEAM_1:0:85825421><>"
+L 08/16/2016 - 12:54:40: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Coach<5561><STEAM_1:0:5455237><>"
+L 08/16/2016 - 12:54:40: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Action Jackson<5675><STEAM_1:0:29223727><>"
+L 08/16/2016 - 12:54:41: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Thabit<5769><BOT><>"
+L 08/16/2016 - 12:54:41: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Madani<5772><BOT><>"
+L 08/16/2016 - 12:54:41: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Ghawth<5773><BOT><>"
+L 08/16/2016 - 12:54:41: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Fayyad<5757><BOT><>"
+L 08/16/2016 - 12:54:41: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Majdy<5761><BOT><>"
+L 08/16/2016 - 12:54:41: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Adnan<5774><BOT><>"
+L 08/16/2016 - 12:54:41: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rasmi<5775><BOT><>"
+L 08/16/2016 - 12:59:17: -------- Mapchange to caves_coop --------
+L 08/16/2016 - 13:07:42: -------- Mapchange to trenches6_coop_v1_2 --------
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mazin<5861><BOT><>"
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Lubaid<5863><BOT><>"
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasim<5868><BOT><>"
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Al Safi<5842><BOT><>"
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Thawban<5844><BOT><>"
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Taj<5845><BOT><>"
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Saib<5848><BOT><>"
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mahrus<5852><BOT><>"
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Anis<5853><BOT><>"
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Lablab<5854><BOT><>"
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Abbudin<5858><BOT><>"
+L 08/16/2016 - 13:10:09: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Alim<5860><BOT><>"
+L 08/16/2016 - 13:10:21: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "『 Xenai 』<5866><STEAM_1:0:94342391><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mazin<5861><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Lubaid<5863><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Suraqah<5864><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasim<5868><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rakin<5840><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Nasim<5841><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Al Safi<5842><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Murtada<5843><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Taj<5845><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Asad<5847><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Saib<5848><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mushtaq<5849><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Arif<5850><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mufid<5851><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mahrus<5852><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Anis<5853><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Lablab<5854><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Tamir<5855><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Naji<5856><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Musaid<5857><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Abbudin<5858><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rajab<5859><BOT><>"
+L 08/16/2016 - 13:10:36: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Alim<5860><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Lubaid<5863><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Suraqah<5864><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasim<5868><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rakin<5840><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Nasim<5841><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Murtada<5843><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Thawban<5844><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Taj<5845><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Saib<5848><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mushtaq<5849><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Arif<5850><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mahrus<5852><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Anis<5853><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Lablab<5854><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Tamir<5855><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Naji<5856><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Musaid<5857><BOT><>"
+L 08/16/2016 - 13:12:00: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rajab<5859><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Kamil<5871><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Lubaid<5863><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Suraqah<5864><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasim<5868><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rakin<5840><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Nasim<5841><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Al Safi<5842><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Murtada<5843><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Thawban<5844><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Taj<5845><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Suhaib<5846><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Asad<5847><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Saib<5848><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mushtaq<5849><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Arif<5850><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mufid<5851><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mahrus<5852><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Anis<5853><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Lablab<5854><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Tamir<5855><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Naji<5856><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Musaid<5857><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Abbudin<5858><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rajab<5859><BOT><>"
+L 08/16/2016 - 13:16:14: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Alim<5860><BOT><>"
+L 08/16/2016 - 13:16:43: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 13:16:43: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Red scouser<5823><STEAM_1:1:45353333><>"
+L 08/16/2016 - 13:16:43: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "shyrrilka<5824><STEAM_1:0:35199631><>"
+L 08/16/2016 - 13:16:43: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "サガ|SAGA<5822><STEAM_1:0:79785586><>"
+L 08/16/2016 - 13:16:43: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Noob Hatred<5748><STEAM_1:0:85825421><>"
+L 08/16/2016 - 13:16:43: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mastershake<5826><STEAM_1:1:42430889><>"
+L 08/16/2016 - 13:16:43: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Action Jackson<5675><STEAM_1:0:29223727><>"
+L 08/16/2016 - 13:16:43: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "mcflie72<5776><STEAM_1:0:113218869><>"
+L 08/16/2016 - 13:16:43: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Cerebus<5777><STEAM_1:1:30579835><>"
+L 08/16/2016 - 13:17:37: -------- Mapchange to fortress_coop_beta5 --------
+L 08/16/2016 - 13:23:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Blaze<5632><STEAM_1:1:868254><>"
+L 08/16/2016 - 13:23:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "サガ|SAGA<5909><STEAM_1:0:79785586><>"
+L 08/16/2016 - 13:23:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wolfboy111<5908><STEAM_1:1:71829408><>"
+L 08/16/2016 - 13:23:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "SpiffyBilly<5825><STEAM_1:0:146733194><>"
+L 08/16/2016 - 13:23:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mastershake<5826><STEAM_1:1:42430889><>"
+L 08/16/2016 - 13:23:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Action Jackson<5675><STEAM_1:0:29223727><>"
+L 08/16/2016 - 13:23:16: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rocknrolla<5862><STEAM_1:1:53695419><>"
+L 08/16/2016 - 13:24:06: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasim<5907><BOT><>"
+L 08/16/2016 - 13:24:06: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasil<5887><BOT><>"
+L 08/16/2016 - 13:24:06: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Muawiyah<5897><BOT><>"
+L 08/16/2016 - 13:24:06: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Adham<5901><BOT><>"
+L 08/16/2016 - 13:24:29: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasil<5887><BOT><>"
+L 08/16/2016 - 13:24:29: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Shahin<5898><BOT><>"
+L 08/16/2016 - 13:24:29: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Shahir<5904><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Falah<5910><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mahbub<5885><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasil<5887><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mamun<5888><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Ayman<5889><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Hanif<5890><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Munsif<5895><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Muawiyah<5897><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Shahin<5898><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Sultan<5899><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Sahib<5900><BOT><>"
+L 08/16/2016 - 13:24:51: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Nazih<5903><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Falah<5910><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasim<5907><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mahbub<5885><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasil<5887><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mamun<5888><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Ayman<5889><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Hanif<5890><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Yusuf<5891><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rabi<5892><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Husam al Din<5893><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Munsif<5895><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Nizar<5896><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Muawiyah<5897><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Shahin<5898><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Sultan<5899><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Adham<5901><BOT><>"
+L 08/16/2016 - 13:25:12: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Shahir<5904><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Falah<5910><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasil<5887><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mamun<5888><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Ayman<5889><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Hanif<5890><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rabi<5892><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Husam al Din<5893><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Munsif<5895><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Nizar<5896><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Muawiyah<5897><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Shahin<5898><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Sultan<5899><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Adham<5901><BOT><>"
+L 08/16/2016 - 13:25:35: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Shahir<5904><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Falah<5910><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasim<5907><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Wasil<5887><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Mamun<5888><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Hanif<5890><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Yusuf<5891><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Rabi<5892><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Husam al Din<5893><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Munsif<5895><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Nizar<5896><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Muawiyah<5897><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Sultan<5899><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Nazih<5903><BOT><>"
+L 08/16/2016 - 13:26:08: [respawn.smx] "Blaze<5632><STEAM_1:1:868254><>" respawned "Shahir<5904><BOT><>"
+L 08/16/2016 - 13:39:12: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/16/2016 - 13:49:59: -------- Mapchange to tunnel_rats_coopv1_4 --------
+L 08/16/2016 - 14:35:58: -------- Mapchange to healthcenter_coop --------
+L 08/16/2016 - 14:59:30: -------- Mapchange to tell_coop --------
+L 08/16/2016 - 15:20:07: -------- Mapchange to tet --------
+L 08/16/2016 - 15:45:52: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/16/2016 - 16:12:25: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/16/2016 - 16:30:11: -------- Mapchange to ministry_coop --------
+L 08/16/2016 - 16:40:22: -------- Mapchange to tet --------
+L 08/16/2016 - 16:51:51: -------- Mapchange to nightfall_coopv1_2 --------
+L 08/16/2016 - 17:02:25: -------- Mapchange to osama_b3_checkpoint --------
+L 08/16/2016 - 17:49:49: -------- Mapchange to panama_canal_a3 --------
+L 08/16/2016 - 18:12:00: -------- Mapchange to payback_b3 --------
+L 08/16/2016 - 19:21:57: -------- Mapchange to the_burbs_coop --------
+L 08/16/2016 - 19:32:34: -------- Mapchange to tell_coop --------
+L 08/16/2016 - 19:46:36: -------- Mapchange to siege_coop --------
+L 08/16/2016 - 19:58:11: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/16/2016 - 20:06:58: -------- Mapchange to prophet_coop --------
+L 08/16/2016 - 20:19:13: -------- Mapchange to gizab_b1_coop --------
+L 08/16/2016 - 20:32:25: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/16/2016 - 21:13:13: -------- Mapchange to hurtlocker_coopv2hc --------
+L 08/16/2016 - 21:24:46: -------- Mapchange to ministry_coop --------
+L 08/16/2016 - 22:03:14: -------- Mapchange to ministry_coop --------
+L 08/16/2016 - 22:17:40: [basecommands.smx] "Blaze<6527><STEAM_1:1:868254><>" changed map to "tell_coop checkpoint"
+L 08/16/2016 - 22:17:43: [SM] Changed map to "tell_coop checkpoint"
+L 08/16/2016 - 22:17:44: -------- Mapchange to tell_coop --------
+L 08/16/2016 - 22:22:25: [respawn.smx] "Blaze<6527><STEAM_1:1:868254><>" respawned "Simple.exe<6542><STEAM_1:0:5113728><>"
+L 08/16/2016 - 22:24:17: [respawn.smx] "Blaze<6527><STEAM_1:1:868254><>" respawned "Blaze<6527><STEAM_1:1:868254><>"
+L 08/16/2016 - 22:31:32: [respawn.smx] "Blaze<6527><STEAM_1:1:868254><>" respawned "Blaze<6527><STEAM_1:1:868254><>"
+L 08/16/2016 - 23:34:42: -------- Mapchange to ministry_coop --------
+L 08/16/2016 - 23:51:00: -------- Mapchange to panama_canal_a3 --------

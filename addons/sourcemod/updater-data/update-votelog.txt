@@ -1,0 +1,20 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.0.3"
+		}
+		"Notes"		"Logs voting events"
+		"Name"		"Vote Logging"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/votelog.sp"
+		"Plugin"	"Path_SM/plugins/votelog.smx"
+		"Source"	"Path_SM/scripting/include/insurgency.inc"
+		"Source"	"Path_SM/scripting/include/loghelper.inc"
+
+	}
+}

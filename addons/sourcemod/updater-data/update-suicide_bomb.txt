@@ -1,0 +1,19 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.0.7"
+		}
+		"Notes"		"Adds suicide bomb for bots"
+		"Name"		"[INS] Suicide Bombers"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/suicide_bomb.sp"
+		"Plugin"	"Path_SM/plugins/suicide_bomb.smx"
+		"Source"	"Path_SM/scripting/include/insurgency.inc"
+
+	}
+}

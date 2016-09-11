@@ -1,0 +1,106 @@
+L 08/14/2016 - 00:01:35: SourceMod log file session started (file "L20160814.log") (Version "1.8.0.5919")
+L 08/14/2016 - 00:01:35: -------- Mapchange to heights_coop --------
+L 08/14/2016 - 00:14:38: -------- Mapchange to healthcenter_coop --------
+L 08/14/2016 - 00:22:27: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/14/2016 - 00:30:47: -------- Mapchange to payback_b3 --------
+L 08/14/2016 - 00:47:20: -------- Mapchange to badlands_coop_b1 --------
+L 08/14/2016 - 01:02:46: -------- Mapchange to badlands_coop_b1 --------
+L 08/14/2016 - 02:37:32: -------- Mapchange to badlands_night_b1 --------
+L 08/14/2016 - 03:24:23: -------- Mapchange to district_coop --------
+L 08/14/2016 - 04:12:59: -------- Mapchange to district_coop --------
+L 08/14/2016 - 05:10:24: -------- Mapchange to cs_militia_coop_v1_1 --------
+L 08/14/2016 - 05:21:34: -------- Mapchange to buhriz_coop --------
+L 08/14/2016 - 05:42:14: -------- Mapchange to pow_raid --------
+L 08/14/2016 - 05:44:18: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Blaze<1902><STEAM_1:1:868254><>"
+L 08/14/2016 - 05:57:28: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Wildcard Willard<1900><STEAM_1:0:19492561><>"
+L 08/14/2016 - 05:57:28: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "nematoad<1917><STEAM_1:1:17972199><>"
+L 08/14/2016 - 05:57:28: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Thunderhorse<1888><STEAM_1:0:144516207><>"
+L 08/14/2016 - 05:57:28: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Blaze<1902><STEAM_1:1:868254><>"
+L 08/14/2016 - 05:57:28: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "koffeinexperte<1921><STEAM_1:0:59235213><>"
+L 08/14/2016 - 05:59:13: -------- Mapchange to badlands_coop_b1 --------
+L 08/14/2016 - 06:04:46: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Blaze<1902><STEAM_1:1:868254><>"
+L 08/14/2016 - 06:09:35: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Blaze<1902><STEAM_1:1:868254><>"
+L 08/14/2016 - 06:15:55: -------- Mapchange to bridge_coop_optimized_v1 --------
+L 08/14/2016 - 06:17:39: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Cartwright<1873><STEAM_1:1:22495170><>"
+L 08/14/2016 - 06:19:50: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Cartwright<1873><STEAM_1:1:22495170><>"
+L 08/14/2016 - 06:19:50: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Wildcard Willard<1900><STEAM_1:0:19492561><>"
+L 08/14/2016 - 06:19:50: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Thunderhorse<1888><STEAM_1:0:144516207><>"
+L 08/14/2016 - 06:19:50: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Blaze<1902><STEAM_1:1:868254><>"
+L 08/14/2016 - 06:20:17: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "slvastr<1920><STEAM_1:0:167888193><>"
+L 08/14/2016 - 06:23:39: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Blaze<1902><STEAM_1:1:868254><>"
+L 08/14/2016 - 06:27:00: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Blaze<1902><STEAM_1:1:868254><>"
+L 08/14/2016 - 06:29:05: [respawn.smx] "Blaze<1902><STEAM_1:1:868254><>" respawned "Blaze<1902><STEAM_1:1:868254><>"
+L 08/14/2016 - 06:31:10: -------- Mapchange to shellshock_2 --------
+L 08/14/2016 - 06:46:29: -------- Mapchange to drycanal_coop --------
+L 08/14/2016 - 07:19:36: -------- Mapchange to buhriz_coop --------
+L 08/14/2016 - 07:30:18: -------- Mapchange to zagros_convoy_b5 --------
+L 08/14/2016 - 07:52:27: -------- Mapchange to healthcenter_coop --------
+L 08/14/2016 - 08:57:15: -------- Mapchange to payback_b3 --------
+L 08/14/2016 - 09:21:19: -------- Mapchange to baghdad_b5 --------
+L 08/14/2016 - 09:32:33: -------- Mapchange to zagros_convoy_b5 --------
+L 08/14/2016 - 09:50:45: -------- Mapchange to de_lake_coop_nd_v1_2 --------
+L 08/14/2016 - 10:00:33: -------- Mapchange to cu_chi_tunnels --------
+L 08/14/2016 - 10:10:13: -------- Mapchange to almaden_coop_v1_1 --------
+L 08/14/2016 - 10:23:22: -------- Mapchange to inferno_checkpoint_b2 --------
+L 08/14/2016 - 10:32:22: -------- Mapchange to panama_canal_a3 --------
+L 08/14/2016 - 10:46:07: [respawn.smx] "Blaze<2303><STEAM_1:1:868254><>" respawned "Blaze<2303><STEAM_1:1:868254><>"
+L 08/14/2016 - 10:46:07: [respawn.smx] "Blaze<2303><STEAM_1:1:868254><>" respawned "Lt. Leo<2232><STEAM_1:1:25660580><>"
+L 08/14/2016 - 10:46:07: [respawn.smx] "Blaze<2303><STEAM_1:1:868254><>" respawned "Tactical Goodness<2337><STEAM_1:1:11826076><>"
+L 08/14/2016 - 10:50:48: -------- Mapchange to tunnel_rats_coopv1_4 --------
+L 08/14/2016 - 11:17:40: -------- Mapchange to drycanal_coop --------
+L 08/14/2016 - 12:05:46: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/14/2016 - 12:38:32: -------- Mapchange to de_lake_coop_nd_v1_2 --------
+L 08/14/2016 - 12:48:09: -------- Mapchange to hurtlocker_coopv2hc --------
+L 08/14/2016 - 13:16:07: -------- Mapchange to ps7n --------
+L 08/14/2016 - 13:27:09: -------- Mapchange to osama_b3_checkpoint --------
+L 08/14/2016 - 13:37:00: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/14/2016 - 13:47:09: -------- Mapchange to cs_militia_coop_v1_1 --------
+L 08/14/2016 - 13:53:34: -------- Mapchange to badlands_coop_b1 --------
+L 08/14/2016 - 14:10:27: -------- Mapchange to trenches6_coop_v1_2 --------
+L 08/14/2016 - 14:30:54: -------- Mapchange to ministry_coop --------
+L 08/14/2016 - 14:39:44: -------- Mapchange to fortress_coop_beta5 --------
+L 08/14/2016 - 14:53:50: -------- Mapchange to tell_coop --------
+L 08/14/2016 - 15:08:21: -------- Mapchange to estates_b4 --------
+L 08/14/2016 - 15:19:44: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/14/2016 - 15:36:53: -------- Mapchange to bb_gauntlet_b4 --------
+L 08/14/2016 - 15:48:58: -------- Mapchange to ministry_coop --------
+L 08/14/2016 - 15:59:22: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/14/2016 - 16:29:02: -------- Mapchange to estates_b4 --------
+L 08/14/2016 - 16:40:00: -------- Mapchange to hurtlocker_coopv2hc --------
+L 08/14/2016 - 16:52:26: -------- Mapchange to pow_raid --------
+L 08/14/2016 - 17:05:10: -------- Mapchange to invasion_coop_beta3 --------
+L 08/14/2016 - 17:15:54: -------- Mapchange to buhriz_coop --------
+L 08/14/2016 - 17:27:50: -------- Mapchange to buhriz_coop --------
+L 08/14/2016 - 17:38:38: -------- Mapchange to takbar_b5 --------
+L 08/14/2016 - 17:54:11: -------- Mapchange to cu_chi_tunnels --------
+L 08/14/2016 - 18:06:11: -------- Mapchange to ministry_coop --------
+L 08/14/2016 - 18:18:17: -------- Mapchange to panama_canal_a3 --------
+L 08/14/2016 - 18:37:45: -------- Mapchange to tet --------
+L 08/14/2016 - 18:52:38: -------- Mapchange to bunker_busting_coopv1_5 --------
+L 08/14/2016 - 19:08:01: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/14/2016 - 19:34:41: -------- Mapchange to osama_b3_checkpoint --------
+L 08/14/2016 - 19:49:36: -------- Mapchange to market_coop --------
+L 08/14/2016 - 20:03:08: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/14/2016 - 20:11:33: -------- Mapchange to healthcenter_coop --------
+L 08/14/2016 - 20:24:23: -------- Mapchange to launch_control_coopv1_9 --------
+L 08/14/2016 - 20:42:44: -------- Mapchange to tunnel_rats_coopv1_4 --------
+L 08/14/2016 - 21:07:56: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/14/2016 - 21:58:45: -------- Mapchange to depot_coop --------
+L 08/14/2016 - 22:13:41: -------- Mapchange to karkand_redux_p2_v1 --------
+L 08/14/2016 - 22:58:39: [basecommands.smx] "Blaze<3674><STEAM_1:1:868254><>" changed map to "tell_coop checkpoint"
+L 08/14/2016 - 22:58:42: [SM] Changed map to "tell_coop checkpoint"
+L 08/14/2016 - 22:58:43: -------- Mapchange to tell_coop --------
+L 08/14/2016 - 23:02:39: [respawn.smx] "Blaze<3674><STEAM_1:1:868254><>" respawned "| Kyle<3696><STEAM_1:0:78364111><>"
+L 08/14/2016 - 23:04:10: [respawn.smx] "Blaze<3674><STEAM_1:1:868254><>" respawned "Blaze<3674><STEAM_1:1:868254><>"
+L 08/14/2016 - 23:04:10: [respawn.smx] "Blaze<3674><STEAM_1:1:868254><>" respawned "| Kyle<3696><STEAM_1:0:78364111><>"
+L 08/14/2016 - 23:04:32: [respawn.smx] "Blaze<3674><STEAM_1:1:868254><>" respawned "Blaze<3674><STEAM_1:1:868254><>"
+L 08/14/2016 - 23:05:49: [playercommands.smx] "Blaze<3674><STEAM_1:1:868254><>" slapped "| Kyle<3696><STEAM_1:0:78364111><>" (damage "0")
+L 08/14/2016 - 23:05:51: [playercommands.smx] "Blaze<3674><STEAM_1:1:868254><>" slapped "| Kyle<3696><STEAM_1:0:78364111><>" (damage "0")
+L 08/14/2016 - 23:07:27: [respawn.smx] "Blaze<3674><STEAM_1:1:868254><>" respawned "Blaze<3674><STEAM_1:1:868254><>"
+L 08/14/2016 - 23:22:31: -------- Mapchange to ministry_coop --------
+L 08/14/2016 - 23:32:10: [basecommands.smx] "Blaze<3674><STEAM_1:1:868254><>" kicked "Satan's Clit<3699><STEAM_1:1:25281824><>" (reason "")
+L 08/14/2016 - 23:33:48: -------- Mapchange to jail_break_coop_ws --------
+L 08/14/2016 - 23:35:23: [respawn.smx] "Blaze<3674><STEAM_1:1:868254><>" respawned "Blaze<3674><STEAM_1:1:868254><>"
+L 08/14/2016 - 23:47:23: [playercommands.smx] "Blaze<3674><STEAM_1:1:868254><>" slapped "Thor<3702><STEAM_1:1:153019><>" (damage "0")
+L 08/14/2016 - 23:47:32: [playercommands.smx] "Blaze<3674><STEAM_1:1:868254><>" slapped "Thor<3702><STEAM_1:1:153019><>" (damage "0")
+L 08/14/2016 - 23:50:26: -------- Mapchange to hijacked_redux_v1_1 --------

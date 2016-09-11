@@ -1,0 +1,19 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.0.3"
+		}
+		"Notes"		"Shows Bots Left Alive"
+		"Name"		"Bot Counter"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/botcount.sp"
+		"Plugin"	"Path_SM/plugins/botcount.smx"
+		"Source"	"Path_SM/scripting/include/insurgency.inc"
+
+	}
+}

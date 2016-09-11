@@ -1,0 +1,22 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.8.1"
+		}
+		"Notes"		"Respawn players"
+		"Name"		"[INS] Player Respawn"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/respawn.sp"
+		"Plugin"	"Path_SM/plugins/respawn.smx"
+		"Source"	"Path_SM/scripting/include/insurgency.inc"
+		"Plugin"	"Path_SM/translations/common.phrases.txt"
+		"Plugin"	"Path_SM/translations/respawn.phrases.txt"
+		"Plugin"	"Path_SM/gamedata/plugin.respawn.txt"
+
+	}
+}

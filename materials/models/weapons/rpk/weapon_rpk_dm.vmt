@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$color"				"[0.8 0.8 0.78]"
+	"$basetexture"			"models\weapons\rpk\weapon_rpk_dm"
+	"$bumpmap" 			"models\weapons\rpk\weapon_rpk_nm"
+
+	
+	$normalmapalphaenvmapmask 	"1"
+
+	$phongtint						"[0.30 0.40 0.60]"
+
+	//$envmap 			env_cubemap
+	$envmaptint 			"[.007 .007 .007  ]"
+
+	$phong 				"1"
+	//$PhongAlbedoTint 		"0"	
+	//$BasemapLuminancePhongMask	"1"
+	
+	$phongexponent 			"80"
+	$phongboost 			"0.8"
+	$phongfresnelranges		"[1.5 2 4]"
+	
+	$rimlight               1
+	$rimlightexponent       200
+	$rimlightboost          .01	
+	$rimmask 1
+}

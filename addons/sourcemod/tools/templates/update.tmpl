@@ -1,0 +1,24 @@
+#def ListFiles(data)
+#for $section in $data
+#for $file in $data[$section]
+		"${section}"	"Path_SM/${file}"
+#end for
+#end for
+#end def
+"Updater"
+{
+	"Information"
+	{
+		"BaseURL"	"${config['settings']['baseurl']}"
+		"Version"
+		{
+			"Latest"	"${plugin.myinfo["version"]}"
+		}
+		"Notes"		"${plugin.myinfo["name"]}"
+		"Notes"		"${plugin.myinfo["description"]}"
+	}
+	"Files"
+	{
+$ListFiles($plugin.files)$ListFiles($plugin.dependencies)
+	}
+}

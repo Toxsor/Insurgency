@@ -1,0 +1,87 @@
+L 08/26/2016 - 00:01:09: SourceMod log file session started (file "L20160826.log") (Version "1.8.0.5919")
+L 08/26/2016 - 00:01:09: -------- Mapchange to shellshock_2 --------
+L 08/26/2016 - 00:21:19: -------- Mapchange to ministry_coop --------
+L 08/26/2016 - 00:33:58: -------- Mapchange to the_burbs_coop --------
+L 08/26/2016 - 00:47:57: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/26/2016 - 01:32:33: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/26/2016 - 01:42:07: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/26/2016 - 01:56:53: -------- Mapchange to ministry_coop --------
+L 08/26/2016 - 02:08:19: -------- Mapchange to buhriz_coop --------
+L 08/26/2016 - 02:24:20: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/26/2016 - 03:24:22: -------- Mapchange to jail_break_coop_ws --------
+L 08/26/2016 - 03:35:15: -------- Mapchange to tell_coop --------
+L 08/26/2016 - 03:56:12: -------- Mapchange to tell_coop --------
+L 08/26/2016 - 05:16:08: -------- Mapchange to tell_coop --------
+L 08/26/2016 - 05:17:41: Log file closed.
+L 08/26/2016 - 05:17:54: SourceMod log file session started (file "L20160826.log") (Version "1.8.0.5919")
+L 08/26/2016 - 05:17:54: -------- Mapchange to tell_coop --------
+L 08/26/2016 - 05:17:54: [simple-chatprocessor.smx] [SCP] Recognized mod [Insurgency].
+L 08/26/2016 - 05:17:54: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.insurgency.phrases].
+L 08/26/2016 - 05:17:54: [antitk.smx] [Anti-TK Manager] Data File: addons/sourcemod/data/AntiTK.txt
+L 08/26/2016 - 05:17:54: [antitk.smx] [Anti-TK] Detected Mod Insurgency
+L 08/26/2016 - 05:18:43: SourceMod log file session started (file "L20160826.log") (Version "1.8.0.5919")
+L 08/26/2016 - 05:18:43: -------- Mapchange to tell_coop --------
+L 08/26/2016 - 05:18:43: [simple-chatprocessor.smx] [SCP] Recognized mod [Insurgency].
+L 08/26/2016 - 05:18:43: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.insurgency.phrases].
+L 08/26/2016 - 05:18:43: [antitk.smx] [Anti-TK Manager] Data File: addons/sourcemod/data/AntiTK.txt
+L 08/26/2016 - 05:18:43: [antitk.smx] [Anti-TK] Detected Mod Insurgency
+L 08/26/2016 - 06:42:21: -------- Mapchange to bunker_busting_coopv1_5 --------
+L 08/26/2016 - 07:01:43: -------- Mapchange to fortress_coop_beta5 --------
+L 08/26/2016 - 07:24:42: -------- Mapchange to prophet_coop --------
+L 08/26/2016 - 07:37:54: -------- Mapchange to healthcenter_coop --------
+L 08/26/2016 - 07:49:34: -------- Mapchange to jail_break_coop_ws --------
+L 08/26/2016 - 08:08:37: -------- Mapchange to panama_canal_a3 --------
+L 08/26/2016 - 09:18:43: -------- Mapchange to payback_b3 --------
+L 08/26/2016 - 10:17:04: -------- Mapchange to osama_b3_checkpoint --------
+L 08/26/2016 - 10:47:19: -------- Mapchange to launch_control_coopv1_9 --------
+L 08/26/2016 - 11:07:28: -------- Mapchange to winter_rescue_v1 --------
+L 08/26/2016 - 12:43:36: -------- Mapchange to zagros_convoy_b5 --------
+L 08/26/2016 - 13:19:43: -------- Mapchange to healthcenter_coop --------
+L 08/26/2016 - 13:50:56: -------- Mapchange to heights_coop --------
+L 08/26/2016 - 14:47:10: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/26/2016 - 15:47:32: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/26/2016 - 15:58:54: -------- Mapchange to healthcenter_coop --------
+L 08/26/2016 - 16:08:01: -------- Mapchange to drycanal_coop --------
+L 08/26/2016 - 16:23:57: -------- Mapchange to bridge_coop_optimized_v1 --------
+L 08/26/2016 - 16:33:25: -------- Mapchange to crossbowv1_1 --------
+L 08/26/2016 - 16:47:23: -------- Mapchange to tet --------
+L 08/26/2016 - 17:06:52: -------- Mapchange to tet --------
+L 08/26/2016 - 17:57:33: Log file closed.
+L 08/26/2016 - 17:57:45: SourceMod log file session started (file "L20160826.log") (Version "1.8.0.5919")
+L 08/26/2016 - 17:57:45: -------- Mapchange to tell_coop --------
+L 08/26/2016 - 17:57:45: [simple-chatprocessor.smx] [SCP] Recognized mod [Insurgency].
+L 08/26/2016 - 17:57:45: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.insurgency.phrases].
+L 08/26/2016 - 17:57:45: [antitk.smx] [Anti-TK Manager] Data File: addons/sourcemod/data/AntiTK.txt
+L 08/26/2016 - 17:57:45: [antitk.smx] [Anti-TK] Detected Mod Insurgency
+L 08/26/2016 - 17:58:16: SourceMod log file session started (file "L20160826.log") (Version "1.8.0.5919")
+L 08/26/2016 - 17:58:16: -------- Mapchange to tell_coop --------
+L 08/26/2016 - 17:58:16: [simple-chatprocessor.smx] [SCP] Recognized mod [Insurgency].
+L 08/26/2016 - 17:58:16: [simple-chatprocessor.smx] [SCP] Loading translation file [scp.insurgency.phrases].
+L 08/26/2016 - 17:58:16: [antitk.smx] [Anti-TK Manager] Data File: addons/sourcemod/data/AntiTK.txt
+L 08/26/2016 - 17:58:16: [antitk.smx] [Anti-TK] Detected Mod Insurgency
+L 08/26/2016 - 18:26:12: -------- Mapchange to panama_canal_a3 --------
+L 08/26/2016 - 18:55:23: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/26/2016 - 19:19:48: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/26/2016 - 19:34:27: -------- Mapchange to the_burbs_coop --------
+L 08/26/2016 - 19:43:13: -------- Mapchange to siege_coop --------
+L 08/26/2016 - 19:56:35: -------- Mapchange to drycanal_coop --------
+L 08/26/2016 - 20:09:22: -------- Mapchange to buhriz_coop --------
+L 08/26/2016 - 20:22:30: -------- Mapchange to siege_coop --------
+L 08/26/2016 - 20:29:16: [funcommands.smx] ".:RG:.Toxic<389><STEAM_1:1:21303447><>" toggled noclip on ".:RG:.Toxic<389><STEAM_1:1:21303447><>"
+L 08/26/2016 - 20:29:27: [funcommands.smx] ".:RG:.Toxic<389><STEAM_1:1:21303447><>" toggled noclip on ".:RG:.Toxic<389><STEAM_1:1:21303447><>"
+L 08/26/2016 - 20:32:27: -------- Mapchange to fortress_coop_beta5 --------
+L 08/26/2016 - 20:44:17: [playercommands.smx] "Jujube<346><STEAM_1:0:27934489><>" renamed "Bitch says what!<438><STEAM_1:0:30738798><>" to "siaB! s ! hsh !t")
+L 08/26/2016 - 20:47:02: -------- Mapchange to winter_rescue_v1 --------
+L 08/26/2016 - 21:01:08: -------- Mapchange to bridge_coop_optimized_v1 --------
+L 08/26/2016 - 21:14:13: -------- Mapchange to drycanal_coop --------
+L 08/26/2016 - 21:28:06: -------- Mapchange to osama_b3_checkpoint --------
+L 08/26/2016 - 21:39:17: -------- Mapchange to buhriz_coop --------
+L 08/26/2016 - 22:01:07: -------- Mapchange to district_coop --------
+L 08/26/2016 - 22:13:51: -------- Mapchange to embassy_coop --------
+L 08/26/2016 - 22:27:45: -------- Mapchange to launch_control_coopv1_9 --------
+L 08/26/2016 - 22:46:34: -------- Mapchange to heights_coop --------
+L 08/26/2016 - 23:07:59: -------- Mapchange to cs_militia_coop_v1_1 --------
+L 08/26/2016 - 23:15:16: -------- Mapchange to ministry_coop --------
+L 08/26/2016 - 23:25:12: -------- Mapchange to dust2_checkpoint_b7 --------
+L 08/26/2016 - 23:34:12: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/26/2016 - 23:43:35: -------- Mapchange to launch_control_coopv1_9 --------

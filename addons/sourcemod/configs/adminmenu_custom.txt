@@ -1,0 +1,55 @@
+// Custom admin menu commands.
+// For more information:
+//
+// http://wiki.alliedmods.net/Custom_Admin_Menu_%28SourceMod%29
+//
+// Note: This file must be in Valve KeyValues format (no multiline comments)
+//
+
+"Commands"
+{
+    "Bot CVARs"
+    {
+        "Force Bot Count"
+        {
+            "cmd"            "ins_bot_count_checkpoint #1"
+            "admin"            "sm_kick"
+            "execute"        "server"
+            "1"
+            {
+                "type"         "list"
+                "title"        "Bot Count:"
+				"1"		"0"
+				"1."		"Default"
+				"2"		"15"
+				"2."		"15 Bots"
+				"3"		"20"				
+				"3."		"20 Bots"
+				"4"		"25"
+				"4."		"25 Bots"
+				"5"		"30"
+				"5."		"30 Bots"
+				"6"		"32"
+				"6."		"Max Bot Count"
+            }
+        }
+	}
+    "Respawn CVARs"
+	{
+	        "Respawn All Bots"
+        {
+            "cmd"            "sm_respawn #1"
+            "admin"            "sm_kick"
+            "execute"        "server"
+            "1"
+			{
+                "type"         "list"
+                "title"        "Choose:"
+				"1"		"@bots"
+				"1."		"Bots"
+				"2"		"@humans"
+				"2."		"Humans"
+			}
+        }
+	}
+}

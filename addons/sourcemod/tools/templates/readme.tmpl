@@ -1,0 +1,11 @@
+#include "templates/header.tmpl"
+
+#for $name in $sortedKeys
+ * <a href='#$name'>${plugins[$name].myinfo["name"]} ${plugins[$name].myinfo["version"]}</a>
+#end for
+
+#for $name in $sortedKeys
+${plugins[$name].readme}
+#end for
+
+#include "templates/footer.tmpl"

@@ -1,0 +1,19 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.0.2"
+		}
+		"Notes"		"Adds a check_ammo command for clients to get approximate ammo left in magazine, and display the same message when loading a new magazine"
+		"Name"		"Ammo Check"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/ammocheck.sp"
+		"Plugin"	"Path_SM/plugins/ammocheck.smx"
+		"Source"	"Path_SM/scripting/include/insurgency.inc"
+
+	}
+}

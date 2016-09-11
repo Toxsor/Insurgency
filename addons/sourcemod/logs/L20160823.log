@@ -1,0 +1,107 @@
+L 08/23/2016 - 00:58:15: SourceMod log file session started (file "L20160823.log") (Version "1.8.0.5919")
+L 08/23/2016 - 00:58:15: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/23/2016 - 01:53:22: -------- Mapchange to hurtlocker_coopv2hc --------
+L 08/23/2016 - 02:48:27: -------- Mapchange to inferno_checkpoint_b2 --------
+L 08/23/2016 - 03:42:44: -------- Mapchange to central_coop_final --------
+L 08/23/2016 - 03:56:19: -------- Mapchange to bunker_busting_coopv1_5 --------
+L 08/23/2016 - 04:57:57: -------- Mapchange to caves_coop --------
+L 08/23/2016 - 05:52:55: -------- Mapchange to central_coop_final --------
+L 08/23/2016 - 06:46:02: -------- Mapchange to jail_break_coop_ws --------
+L 08/23/2016 - 08:15:47: -------- Mapchange to kandagal_coop_b5 --------
+L 08/23/2016 - 09:36:29: -------- Mapchange to karkand_redux_p2_v1 --------
+L 08/23/2016 - 10:11:53: -------- Mapchange to healthcenter_coop --------
+L 08/23/2016 - 10:53:07: -------- Mapchange to healthcenter_coop --------
+L 08/23/2016 - 11:19:34: -------- Mapchange to hurtlocker_coopv2hc --------
+L 08/23/2016 - 11:33:16: -------- Mapchange to panama_canal_a3 --------
+L 08/23/2016 - 13:03:45: -------- Mapchange to osama_b3_checkpoint --------
+L 08/23/2016 - 13:26:58: -------- Mapchange to depot_coop --------
+L 08/23/2016 - 13:42:43: -------- Mapchange to revolt_coop --------
+L 08/23/2016 - 13:55:04: -------- Mapchange to ministry_coop --------
+L 08/23/2016 - 14:05:01: -------- Mapchange to healthcenter_coop --------
+L 08/23/2016 - 14:15:00: -------- Mapchange to heights_coop --------
+L 08/23/2016 - 14:29:16: -------- Mapchange to fortress_coop_beta5 --------
+L 08/23/2016 - 14:45:27: -------- Mapchange to ministry_coop --------
+L 08/23/2016 - 14:53:42: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/23/2016 - 15:10:35: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/23/2016 - 15:35:26: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/23/2016 - 16:06:39: -------- Mapchange to healthcenter_coop --------
+L 08/23/2016 - 16:22:25: -------- Mapchange to depot_coop --------
+L 08/23/2016 - 16:36:22: -------- Mapchange to osama_b3_checkpoint --------
+L 08/23/2016 - 17:07:47: -------- Mapchange to osama_b3_checkpoint --------
+L 08/23/2016 - 17:20:05: -------- Mapchange to angle_iron_coop_beta5 --------
+L 08/23/2016 - 17:34:14: -------- Mapchange to takbar_b5 --------
+L 08/23/2016 - 17:55:24: -------- Mapchange to inferno_checkpoint_b2 --------
+L 08/23/2016 - 18:03:46: -------- Mapchange to de_lake_coop_nd_v1_2 --------
+L 08/23/2016 - 18:12:42: -------- Mapchange to caves_coop --------
+L 08/23/2016 - 18:33:25: -------- Mapchange to buhriz_coop --------
+L 08/23/2016 - 18:46:16: -------- Mapchange to sinjar_coop --------
+L 08/23/2016 - 18:58:36: -------- Mapchange to haditha_dam_coop_finale --------
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Qutaybah<2729><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Nasr<2733><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Umarah<2709><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Shihad<2710><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Badr al Din<2712><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Muin<2715><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Mihyar<2716><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Yasar<2718><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Fariq<2719><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Jihad<2720><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Umayyah<2721><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Samir<2722><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Makin<2723><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Sayyid<2725><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Musaid<2727><BOT><>"
+L 08/23/2016 - 19:07:55: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Basil<2728><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Ramiz<2744><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Wajid<2732><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Umarah<2709><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Shihad<2710><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Isa<2711><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Saleh<2713><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Jalal<2714><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Muin<2715><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Mihyar<2716><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Fariq<2719><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Umayyah<2721><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Samir<2722><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Musaid<2727><BOT><>"
+L 08/23/2016 - 19:08:27: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Basil<2728><BOT><>"
+L 08/23/2016 - 19:09:10: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Ramiz<2744><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Qutaybah<2729><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Wajid<2732><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Nasr<2733><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Umarah<2709><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Shihad<2710><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Isa<2711><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Saleh<2713><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Jalal<2714><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Muin<2715><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Mihyar<2716><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Yasar<2718><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Fariq<2719><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Umayyah<2721><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Samir<2722><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Fakhir<2724><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Sayyid<2725><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Musaid<2727><BOT><>"
+L 08/23/2016 - 19:09:11: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Basil<2728><BOT><>"
+L 08/23/2016 - 19:09:51: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Qutaybah<2729><BOT><>"
+L 08/23/2016 - 19:09:51: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Wajid<2732><BOT><>"
+L 08/23/2016 - 19:09:51: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Nasr<2733><BOT><>"
+L 08/23/2016 - 19:09:51: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Saleh<2713><BOT><>"
+L 08/23/2016 - 19:09:51: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Yasar<2718><BOT><>"
+L 08/23/2016 - 19:09:51: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Fakhir<2724><BOT><>"
+L 08/23/2016 - 19:09:51: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Sayyid<2725><BOT><>"
+L 08/23/2016 - 19:09:51: [respawn.smx] "Blaze<2734><STEAM_1:1:868254><>" respawned "Basil<2728><BOT><>"
+L 08/23/2016 - 19:20:39: -------- Mapchange to crossbowv1_1 --------
+L 08/23/2016 - 19:36:32: -------- Mapchange to drycanal_coop --------
+L 08/23/2016 - 19:50:32: -------- Mapchange to block_partyv1_1_coop --------
+L 08/23/2016 - 20:08:17: -------- Mapchange to winter_rescue_v1 --------
+L 08/23/2016 - 20:28:28: -------- Mapchange to pow_raid --------
+L 08/23/2016 - 20:44:12: -------- Mapchange to launch_control_coopv1_9 --------
+L 08/23/2016 - 21:03:09: -------- Mapchange to siege_coop --------
+L 08/23/2016 - 21:17:42: -------- Mapchange to hijacked_redux_v1_1 --------
+L 08/23/2016 - 21:37:20: -------- Mapchange to shrine_coop_v1 --------
+L 08/23/2016 - 21:50:56: -------- Mapchange to cs_officeb3_coop_v1_5 --------
+L 08/23/2016 - 22:35:56: -------- Mapchange to cu_chi_tunnels --------
+L 08/23/2016 - 23:41:00: -------- Mapchange to haditha_dam_coop_finale --------

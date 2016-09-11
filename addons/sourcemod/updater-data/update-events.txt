@@ -1,0 +1,18 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.0.3"
+		}
+		"Notes"		"Log events to client or server"
+		"Name"		"Event Logger"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/events.sp"
+		"Plugin"	"Path_SM/plugins/events.smx"
+
+	}
+}

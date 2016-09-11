@@ -1,0 +1,22 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.1.0"
+		}
+		"Notes"		"Weapon Pickup logic for manipulating player inventory"
+		"Name"		"[INS] Weapon Pickup"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/weapon_pickup.sp"
+		"Plugin"	"Path_SM/plugins/weapon_pickup.smx"
+		"Source"	"Path_SM/scripting/include/smlib.inc"
+		"Source"	"Path_SM/scripting/include/insurgency.inc"
+		"Plugin"	"Path_SM/gamedata/insurgency.games.txt"
+		"Plugin"	"Path_SM/gamedata/sdkhooks.games/engine.insurgency.txt"
+
+	}
+}

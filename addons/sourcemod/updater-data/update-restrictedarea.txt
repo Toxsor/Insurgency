@@ -1,0 +1,18 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.0.1"
+		}
+		"Notes"		"Plugin for removing Restricted Areas"
+		"Name"		"[INS] Restricted Area Removal"
+	}
+	"Files"
+	{
+		"Source"	"Path_SM/scripting/restrictedarea.sp"
+		"Plugin"	"Path_SM/plugins/restrictedarea.smx"
+
+	}
+}

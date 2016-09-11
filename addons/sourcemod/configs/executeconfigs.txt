@@ -1,0 +1,11 @@
+"Configs"
+{
+	"*"
+	{
+		"clients:0"			"15:betterbots.cfg"
+		"clients:18"		"10:respawn.cfg"
+		"clients:8"			"15:respawn_off.cfg"
+		"clients:0"			"15:respawn_off.cfg"
+	}
+	
+}

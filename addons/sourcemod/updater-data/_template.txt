@@ -1,0 +1,16 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"0.0.1"
+		}
+		"Notes"		"MyPlugin"
+	}
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/myplugin.smx"
+		"Source"	"Path_SM/scripting/myplugin.sp"
+	}
+}
