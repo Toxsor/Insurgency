@@ -46,8 +46,9 @@ market_coop checkpoint
 ministry_coop checkpoint
 nightfall_coopv1_2 checkpoint
 osama_b3_checkpoint checkpoint
-panama_canal_a3 checkpoint
+panama_canal_b2 checkpoint
 payback_b3 checkpoint
+point_blank checkpoint
 pow_raid checkpoint
 prophet_coop checkpoint
 ps7n checkpoint
