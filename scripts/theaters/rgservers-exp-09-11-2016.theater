@@ -2083,7 +2083,7 @@
 			"ballistics"
 			{
 				"spread"				"0.40 0.40 0.40"
-				"FireModes"				full, burst, semi
+				"FireModes"				"full, burst, semi"
 				"bulletcount"				"1"
 				"maxrange"				"8000"
 			}
