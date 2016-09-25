@@ -9,13 +9,13 @@
 			"sounds"			"scripts/ins_sounds_weapons.txt"
 			"sounds"			"scripts/ins_sounds_cues.txt"
 			"sounds"			"scripts/ins_sounds_voice.txt"
-			"sounds"			"scripts/ins_sounds_radial_security.txt"				
-			"sounds"			"scripts/ins_sounds_radial_insurgent.txt"				
+			"sounds"			"scripts/ins_sounds_radial_security.txt"
+			"sounds"			"scripts/ins_sounds_radial_insurgent.txt"
 			"sounds"			"scripts/ins_sounds_responses_security.txt"
 			"sounds"			"scripts/ins_sounds_responses_insurgent.txt"
 			"sounds"			"scripts/ins_sounds_hq.txt"
 			"sounds"			"scripts/ins_sounds_voice_coop.txt"
-			"sounds"			"scripts/ins_sounds_voice_survival.txt"	
+			"sounds"			"scripts/ins_sounds_voice_survival.txt"
 			"sounds"			"scripts/rg_sounds_v1.txt"
 		}
 	}
@@ -3030,7 +3030,7 @@
 			"recoil"
 			{
 				"recoil_lateral_range"			"-0.3 0.5"
-				"recoil_vertical_range"			"3.6 4.4"
+				"recoil_vertical_range"			"2.6 3.4"
 				"recoil_aim_punch"			"0.6 0.8"
 				"recoil_rest_rate"			"5"
 				"recoil_rest_delay"			"0.1"
@@ -3124,7 +3124,7 @@
 			"recoil"
 			{
 				"recoil_lateral_range"			"-0.3 0.5"
-				"recoil_vertical_range"			"3.6 4.4"
+				"recoil_vertical_range"			"2.6 3.4"
 				"recoil_aim_punch"			"0.6 0.8"
 				"recoil_rest_rate"			"5"
 				"recoil_rest_delay"			"0.1"
@@ -3547,7 +3547,7 @@
 			"recoil"
 			{
 				"recoil_lateral_range"			"-0.3 0.5"
-				"recoil_vertical_range"			"3.6 4.4"
+				"recoil_vertical_range"			"2.6 3.4" //3.6 4.4
 				"recoil_aim_punch"			"0.6 0.8"
 				"recoil_rest_rate"			"5"
 				"recoil_rest_delay"			"0.1"
