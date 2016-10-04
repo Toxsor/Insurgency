@@ -1747,9 +1747,9 @@
 				"GrenadeThrowSpeed"			"400"
 				"GrenadeThrowSpeedProne"	"350"
 				"RemoteDetonation"			"1"
-				"DetonateDamage"			"666"
-				"DetonateDamageRadius"		"2600"
-				"DetonatePenetrationRadius"	"460"
+				"DetonateDamage"			"250"
+				"DetonateDamageRadius"		"850"
+				"DetonatePenetrationRadius"	"230"
 				"FuseTime"					"0.5"
 			}
 			"ammo_clip"
