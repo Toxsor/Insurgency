@@ -640,13 +640,13 @@
 			"models"
 			{
 				"player"				"models/characters/insurgent_standard.mdl"
-				"viewmodel_hands"			"models/weapons/v_hands_ins_m.mdl"
+				//"viewmodel_hands"			"models/weapons/v_hands_ins_m.mdl"
 			}
 			
 			"buy_order"
 			{
 				"gear"					"ins_light_armor"
-				"gear"					"ins_chest_carrier"
+				"gear"					"ins_chest_rig"
 				"weapon"				"weapon_gurkha"
 				"weapon"				"weapon_makarov"
 				"weapon"				"weapon_aks74u"
@@ -669,13 +669,13 @@
 			"models"
 			{
 				"player"				"models/characters/insurgent_fighter.mdl"
-				"viewmodel_hands"			"models/weapons/v_hands_ins_m.mdl"
+				//"viewmodel_hands"			"models/weapons/v_hands_ins_m.mdl"
 			}
 			
 			"buy_order"
 			{
 				"gear"					"ins_light_armor"
-				// "gear"			"sec_chest_carrier"
+				"gear"					"ins_chest_rig"
 				"weapon"				"weapon_gurkha"
 				"weapon"				"weapon_akm"
 				"weapon_upgrade"			"ammo_ap_akm"
@@ -700,7 +700,7 @@
 			"models"
 			{
 				"player"				"models/characters/insurgent_machinegunner.mdl"
-				"viewmodel_hands"			"models/weapons/v_hands_ins_m.mdl"
+				//"viewmodel_hands"			"models/weapons/v_hands_ins_m.mdl"
 			}
 			
 			"buy_order"
@@ -726,13 +726,13 @@
 			"models"
 			{
 				"player"				"models/characters/insurgent_sapper.mdl"
-				"viewmodel_hands"			"models/weapons/v_hands_ins_l.mdl"
+				//"viewmodel_hands"			"models/weapons/v_hands_ins_l.mdl"
 			}
 			
 			"buy_order" 
 			{
 			    "gear"				"ins_light_armor"
-				"gear"			"sec_chest_carrier"
+				"gear"				"ins_chest_rig"
 				"weapon"			"weapon_c4_ied"
 				"weapon"			"weapon_gurkha"
 				"weapon"			"weapon_rpg7"
@@ -751,7 +751,7 @@
 			"models"
 			{
 				"player"				"models/characters/insurgent_light.mdl"
-				"viewmodel_hands"			"models/weapons/v_hands_ins_l.mdl"
+				//"viewmodel_hands"			"models/weapons/v_hands_ins_l.mdl"
 			}
 			
 			"buy_order"
