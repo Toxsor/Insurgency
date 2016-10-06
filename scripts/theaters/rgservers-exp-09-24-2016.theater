@@ -163,7 +163,7 @@
 				{
 					"cap"
 					{
-						"model"			"models/characters/us_cap_light.mdl"
+						"model"			"models/characters/us_cap_specialist.mdl"
 					}
 				}
 			}
@@ -256,9 +256,9 @@
 				
 				"attachments"
 				{
-					"cap"
+					"helmet"
 					{
-						"model"			"models/characters/us_cap_specialist.mdl"
+						"model"			"models/characters/us_helmet_head.mdl"
 					}
 				}
 			}
@@ -351,9 +351,9 @@
 		{
 			"models"
 			{
-				"player"				"models/characters/security_rifleman.mdl"
-				"viewmodel_hands"		"models/weapons/v_hands_sec_m.mdl"
-				
+				"player"				"models/characters/security_heavy.mdl"
+				"viewmodel_hands"			"models/weapons/v_hands_sec_h.mdl"
+
 				"attachments"
 				{
 					"helmet"
@@ -447,8 +447,8 @@
 		{
 			"models"
 			{
-				"player"				"models/characters/security_heavy.mdl"
-				"viewmodel_hands"			"models/weapons/v_hands_sec_h.mdl"
+				"player"				"models/characters/security_standard.mdl"
+				"viewmodel_hands"			"models/weapons/v_hands_sec_m.mdl"
 
 				"attachments"
 				{
@@ -542,14 +542,14 @@
 
 			"models"
 			{
-				"player"				"models/characters/security_standard.mdl"
-				"viewmodel_hands"			"models/weapons/v_hands_sec_m.mdl"
+				"player"				"models/characters/security_light.mdl"
+				"viewmodel_hands"			"models/weapons/v_hands_sec_l.mdl"
 
 				"attachments"
 				{
-					"helmet"
+					"cap"
 					{
-						"model"			"models/characters/us_helmet_head.mdl"
+						"model"			"models/characters/us_cap_specialist.mdl"
 					}
 				}
 			}
