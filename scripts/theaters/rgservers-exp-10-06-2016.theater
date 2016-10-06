@@ -1020,7 +1020,7 @@
 		{
 			"carry"					"120"
 		}
-		"545x39"
+		"545x39"	// FMJ (US Army Ball) 230gr 250m/s  477J
 		{
 			"import"				"default"
 			"SuppressionIncrement"			"30"
@@ -1108,20 +1108,20 @@
 			"tracer_type"				"whiz_with_line"
 			"tracer_lowammo"			"7"
 		}
-		"556x45"
+		"556x45"	// (currently assuming 855 not 855a) rough approx: 62gr 940m/s 1,767J
 		{
 			"import"				"default"
 			"SuppressionIncrement"			"50"
 			"brass_model"				"models/weapons/shells/556x45.mdl"
 			"Damage"
 			{
-				"10"					"110"
+				"10"					"110"	// bullets fragment at under 60m dealing more damage. (truly more like 150m but compromise for gameplay)
 				"2700"					"80"
 				"12000"					"46"
 			}
-			"PenetrationPower"
+			"PenetrationPower"	// Maybe offer or imply Mk318 rounds which are like combined HP and AP at high cost?
 			{
-				"10"					"600"
+				"10"					"600"	// NATO Ball (M855) can penetrate up to 3 mm (about 1/8 in) of steel at 600 meters
 				"12000"					"175"
 			}
 		}
@@ -1159,11 +1159,11 @@
 			}
 			"PenetrationPower"
 			{
-				"10"					"1200"
+				"10"					"1200"	// M995 can penetrate up to 12 mm (nearly 1/2 in) of RHA steel at 100 meters.
 				"12000"					"400"
 			}
 		}
-		"556x45_tracer"
+		"556x45_tracer"	// 122gr  730.3m/s 2,108J
 		{
 			"import"				"556x45"
 			"tracer_frequency"			"3"
@@ -1203,15 +1203,16 @@
 		{
 			"import"				"556x45_tracer"
 		}
-		"9x19"
+		"9x19"	// FMJ 115gr 381m/s  570J
 		{
 			"import"				"default"
 			"SuppressionIncrement"			"20"
 			"brass_model"				"models/weapons/shells/9x19.mdl"
 			"Damage"
 			{
-				"10"					"60"
-				"8000"					"32"
+				"1"						"60"
+				"100"					"60"
+				"5000"					"32"
 			}
 			"PenetrationPower"
 			{
@@ -1354,6 +1355,55 @@
 			{
 				"10"					"1100"
 				"20000"					"600"
+			}
+		}
+		
+		"762x51_tracer"
+		{
+			"import"				"762x51"
+			"tracer_frequency"			"4"
+			"tracer_type"				"whiz_with_line"
+			"tracer_lowammo"			"5"
+		}
+		
+		"762x51_hp"
+		{
+			"import"				"762x51"
+			
+			"DamageHitgroups"
+			{
+				"HITGROUP_HEAD"				"0.90"
+				"HITGROUP_CHEST"			"0.75"
+				"HITGROUP_STOMACH"			"0.80"
+				"HITGROUP_LEFTARM"			"2.00"
+				"HITGROUP_RIGHTARM"			"2.00"
+				"HITGROUP_LEFTLEG"			"3.00"
+				"HITGROUP_RIGHTLEG"			"3.00"
+			}
+			"PenetrationPower"
+			{
+				"10"					"400"
+				"12000"					"200"
+			}
+		}
+		
+		"762x51_ap"
+		{
+			"import"				"762x51"
+			"DamageHitgroups"
+			{
+				"HITGROUP_HEAD"				"5.00"
+				"HITGROUP_CHEST"			"5.00"
+				"HITGROUP_STOMACH"			"5.00"
+				"HITGROUP_LEFTARM"			"0.80"
+				"HITGROUP_RIGHTARM"			"0.80"
+				"HITGROUP_LEFTLEG"			"0.70"
+				"HITGROUP_RIGHTLEG"			"0.70"
+			}
+			"PenetrationPower"
+			{
+				"10"					"1500"
+				"20000"					"800"
 			}
 		}
 
