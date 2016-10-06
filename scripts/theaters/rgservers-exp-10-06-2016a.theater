@@ -668,7 +668,7 @@
 			
 			"models"
 			{
-				"player"				"models/characters/insurgent_fighter.mdl"
+				"player"				"models/characters/insurgent_light.mdl"
 				//"viewmodel_hands"			"models/weapons/v_hands_ins_m.mdl"
 			}
 			
