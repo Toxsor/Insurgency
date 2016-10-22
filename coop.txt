@@ -27,6 +27,7 @@ dusty_nights_coopv1_1 checkpoint
 embassy_coop checkpoint
 estates_b4 checkpoint
 fortress_coop_beta5 checkpoint
+frequency_coop checkpoint
 game_day_coopv1_3 checkpoint
 gizab_b1_coop checkpoint
 haditha_dam_coop_finale checkpoint
