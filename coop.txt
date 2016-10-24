@@ -33,7 +33,7 @@ gizab_b1_coop checkpoint
 haditha_dam_coop_finale checkpoint
 healthcenter_coop checkpoint
 heights_coop checkpoint
-hijacked_redux_v1_1 checkpoint
+hijacked_v1 checkpoint
 hurtlocker_coopv2hc checkpoint
 inferno_checkpoint_b2 checkpoint
 ins_abdallah_new_night_coop checkpoint
