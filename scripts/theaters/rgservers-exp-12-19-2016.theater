@@ -2244,7 +2244,7 @@
 		"weapon_toz"
 		{
 			"weapon_cost"					"0"
-			"weapon_slot"					"secondary"
+			"weapon_slot"					"primary, secondary"
 			"weapon_weight"					"0"
 			
 			"player_restrictions"
