@@ -731,7 +731,6 @@
 			
 			"buy_order" 
 			{
-			    "gear"				"ins_heavy_armor"
 				"gear"				"ins_chest_rig"
 				"weapon"			"weapon_c4_ied"
 				"weapon"			"weapon_gurkha"
