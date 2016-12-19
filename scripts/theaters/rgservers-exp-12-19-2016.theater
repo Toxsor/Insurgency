@@ -1798,8 +1798,8 @@
 				"RemoteDetonation"			"1"
 				"DetonateDamage"			"250"
 				"DetonateDamageRadius"		"850"
-				"DetonatePenetrationRadius"	"230"
-				"FuseTime"					"0.5"
+				"DetonatePenetrationRadius"	"150"
+				"FuseTime"					"3"
 			}
 			"ammo_clip"
 			{
