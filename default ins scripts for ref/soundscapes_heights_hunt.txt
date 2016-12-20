@@ -1,0 +1,460 @@
+"afg.heights_hunt_exterior"
+{
+
+	// *** dsp settings *** //
+	
+	"dsp"	"41"
+	"dsp_spatial"  "41"
+
+	"dsp_volume" "0.0"
+	"fadetime" "1.0"
+
+	"soundmixer"	"Default_Mix"
+	
+
+	// *** looping sounds *** //
+	
+	//	Mountain Wind Ambience
+	"playlooping"
+	{
+		"volume"	"0.4" //0.9
+		"pitch"		"100"
+		"wave"	"soundscape\ambience\wind_howling_ambience_02.wav"
+	}
+	
+	//	Mountain Wind Ambience
+	"playlooping"
+	{
+		"volume"	"0.5" //0.5
+		"pitch"		"100"
+		"wave"	"soundscape\ambience\wind_01_hp.wav"
+	}
+	
+	//	Cold Wind Ambience 1
+	"playlooping"
+	{
+		"volume"	"1.0" //1.0
+		"pitch"		"100"
+		"wave"	"soundscape\ambience\wind_cold_ambience_01.wav"
+	}
+	
+	//	Cold Wind Ambience 2
+	"playlooping"
+	{
+		"volume"	"0.5" //0.5
+		"pitch"		"100"
+		"wave"	"soundscape\ambience\wind_cold_ambience_02.wav"
+	}
+	
+
+	
+	//	Cold Wind Ambience 3
+	"playlooping"
+	{
+		"volume"	"0.4" //0.6
+		"pitch"		"100"
+		"wave"	"soundscape\ambience\wind_mountain_ambience.wav"
+	}
+	
+
+	  // Wind Howl
+	"playrandom"
+	{
+		"time"		"4,20"
+		"volume"	"0.0,0.0" //0.9,1.0
+		"pitch"		"100"
+		"position"	"random"
+		"soundlevel"  	"SNDLVL_180dB"
+		
+		"rndwave"	
+		{
+		"wave"	")soundscape\emitters\Oneshot\wind_howl_01.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\wind_howl_02.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\wind_howl_03.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\wind_howl_04.ogg"			
+		
+		}
+	} 
+	
+	//	Insects
+	"playlooping"
+	{
+		"volume"	"0.3" //0.6
+		"pitch"		"120"
+		"wave"	"soundscape\ambience\insects_night_quiet.wav"
+	}
+	
+		// Owl Hoot Distant
+	"playrandom"
+	{
+		"time"		"12,26"
+		"volume"	"0.08,0.2"
+		"pitch"		"100"
+		"position"	"random"
+		"soundlevel"  	"SNDLVL_150dB"
+		
+		"rndwave"	
+		{
+		"wave"	")soundscape\emitters\Oneshot\owl_distant_01.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\owl_distant_02.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\owl_distant_03.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\owl_distant_04.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\owl_distant_05.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\owl_distant_06.ogg"				
+		}
+	} 
+	
+	
+	// Owl
+	"playrandom"
+	{
+		"time"		"6,16"
+		"volume"	"0.1,0.3"
+		"pitch"		"100"
+		"position"	"random"
+		"soundlevel"  	"SNDLVL_150dB"
+		
+		"rndwave"	
+		{
+		"wave"	")soundscape\emitters\Oneshot\owl_01.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\owl_02.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\owl_03.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\owl_04.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\owl_05.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\owl_06.ogg"			
+		
+		}
+	} 
+	
+
+	
+
+	
+	//Bird Nightjar
+	"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	"0.15, 0.2"
+		"pitch"		"100,105"
+		"position"	"random"
+		"soundlevel"  	"SNDLVL_150dB"
+		
+		"rndwave"	
+		{
+		"wave"	"soundscape\emitters\Oneshot\bird_nightjar_01.ogg"		
+		"wave"	"soundscape\emitters\Oneshot\bird_nightjar_02.ogg"					
+		}
+	} 
+	
+	
+	
+	// Cows
+	"playrandom"
+	{
+		"time"		"4,20"
+		"volume"	"0.1,0.6"
+		"pitch"		"100"
+		"position"	"random"
+		"soundlevel"  	"SNDLVL_150dB"
+		
+		"rndwave"	
+		{
+		"wave"	")soundscape\emitters\Oneshot\cow_06.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\cow_07.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\cow_08.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\cow_09.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\cow_10.ogg"
+		"wave"	")soundscape\emitters\Oneshot\cow_11.ogg"			
+		
+		}
+	} 
+	
+
+	
+	
+	//bg various bird calls
+	"playrandom"
+	{
+		"time"		"20,40"
+		"volume"	"0.4"
+		"pitch"		"100"
+		"position"	"random"
+		"soundlevel"  	"SNDLVL_NORM"
+		
+		"rndwave"	
+		{
+		"wave"	"soundscape\emitters\Oneshot\birds_raven_01.ogg"	
+		"wave"	"soundscape\emitters\Oneshot\birds_raven_02.ogg"	
+		}
+	} 
+	
+
+	
+	// Goat Herder Bell
+	"playrandom"
+	{
+		"time"		"5,8"
+		"volume"	"0.1,0.3"
+		"pitch"		"95,105"
+		"position"	"random"
+		"soundlevel"  	"SNDLVL_NORM"
+		
+		"rndwave"	
+		{
+		"wave"	"soundscape\emitters\Oneshot\goatbell_01.ogg"	
+		"wave"	"soundscape\emitters\Oneshot\goatbell_02.ogg"	
+		"wave"	"soundscape\emitters\Oneshot\goatbell_03.ogg"			
+		"wave"	"soundscape\emitters\Oneshot\goatbell_05.ogg"	
+		"wave"	"soundscape\emitters\Oneshot\goatbell_06.ogg"	
+		}
+	} 
+	
+
+
+	
+
+	// positional //
+
+	//tarpaulin
+	"playrandom"
+	{
+		"time"		"1,5"
+		"volume"	"0.6"
+		"pitch"		"100"
+		"position"	"0"
+		"soundlevel"  	"SNDLVL_90dB"
+		
+		"rndwave"	
+		{
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_01.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_03.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_04.ogg"
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_05.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_06.ogg"
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_07.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_08.ogg"
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_09.ogg"	
+	    }
+	}
+	
+	//tarpaulin
+	"playrandom"
+	{
+		"time"		"1,5"
+		"volume"	"0.6"
+		"pitch"		"100"
+		"position"	"1"
+		"soundlevel"  	"SNDLVL_90dB"
+		
+		"rndwave"	
+		{
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_01.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_03.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_04.ogg"
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_05.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_06.ogg"
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_07.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_08.ogg"
+		"wave"	")soundscape\emitters\Oneshot\tarpaulin_flap_09.ogg"	
+	    }
+	}
+	
+	 // Radio Mast
+	"playlooping"
+	{
+		"volume"	"0.3"
+		"pitch"		"85"
+		"wave"	"soundscape\emitters\loop\small_radio_mast.wav"
+		"soundlevel"  	"SNDLVL_80dB"
+		"position"	"2"
+	}
+}
+
+
+"afg.heights_hunt_interior"
+{
+
+	// *** dsp settings *** //
+	"dsp"        "41"
+
+	"dsp_spatial" "141"
+	"dsp_volume" "4"
+
+	"soundmixer"	"heights_int_small"
+	
+
+	// *** looping sounds *** //
+	
+
+	// *** looping sounds *** //
+	
+	
+	//	Indoor Ambience
+	"playlooping"
+	{
+		"volume"	"0.7" //0.9
+		"pitch"		"100"
+		"wave"	"soundscape\ambience\rumble_low_ambience.wav"
+	}
+	
+	//	Indoor Ambience
+	"playlooping"
+	{
+		"volume"	"0.7" //0.9
+		"pitch"		"100"
+		"wave"	"soundscape\ambience\smalltown_ambience_indoor_02.wav"
+	}
+	
+	//	Mountain Wind Ambience
+	"playlooping"
+	{
+		"volume"	"0.1" //0.9
+		"pitch"		"100"
+		"wave"	"soundscape\ambience\wind_howling_ambience_02.wav"
+	}
+	
+   //	Cold Wind Ambience 2
+	"playlooping"
+	{
+		"volume"	"0.5" //0.5
+		"pitch"		"100"
+		"wave"	"soundscape\ambience\wind_cold_ambience_02.wav"
+	}
+	
+	//	Insects
+	"playlooping"
+	{
+		"volume"	"0.1" //0.6
+		"pitch"		"120"
+		"wave"	"soundscape\ambience\insects_night_quiet.wav"
+	}
+	
+	
+
+	
+
+	
+    // Cows
+	"playrandom"
+	{
+		"time"		"4,20"
+		"volume"	"0.1,0.2"
+		"pitch"		"100"
+		"position"	"random"
+		"soundlevel"  	"SNDLVL_150dB"
+		
+		"rndwave"	
+		{
+		"wave"	")soundscape\emitters\Oneshot\cow_06.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\cow_07.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\cow_08.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\cow_09.ogg"	
+		"wave"	")soundscape\emitters\Oneshot\cow_10.ogg"
+		"wave"	")soundscape\emitters\Oneshot\cow_11.ogg"			
+		
+		}
+	} 
+	
+	// Goat Herder Bell
+	"playrandom"
+	{
+		"time"		"5,8"
+		"volume"	"0.1"
+		"pitch"		"95,105"
+		"position"	"random"
+		"soundlevel"  	"SNDLVL_NORM"
+		
+		"rndwave"	
+		{
+		"wave"	"soundscape\emitters\Oneshot\goatbell_01.ogg"	
+		"wave"	"soundscape\emitters\Oneshot\goatbell_02.ogg"	
+		"wave"	"soundscape\emitters\Oneshot\goatbell_03.ogg"			
+		"wave"	"soundscape\emitters\Oneshot\goatbell_05.ogg"	
+		"wave"	"soundscape\emitters\Oneshot\goatbell_06.ogg"	
+		}
+	} 
+	
+		//Trash
+	"playrandom"
+	{
+		"time"		"10,20"
+		"volume"	"0.1,0.4"
+		"pitch"		"90,100"
+		"position"	"random"
+		"soundlevel"  	"SNDLVL_NORM"
+		
+		"rndwave"	
+		{
+		"wave"	"soundscape\emitters\Oneshot\trash_move_01.ogg"	
+		"wave"	"soundscape\emitters\Oneshot\trash_move_02.ogg"	
+		"wave"	"soundscape\emitters\Oneshot\trash_move_03.ogg"	
+		"wave"	"soundscape\emitters\Oneshot\trash_move_04.ogg"	
+		}
+	} 
+	
+	//positional
+	
+	 // fluorescent_light_loop
+	"playlooping"
+	{
+		"volume"	"0.35"
+		"pitch"		"100"
+		"wave"	"soundscape\emitters\loop\fluorescent_light_loop.wav"
+		"soundlevel"  	"SNDLVL_70dB"
+		"position"	"0"
+	}
+	
+	 // fluorescent_light_loop
+	"playlooping"
+	{
+		"volume"	"0.35"
+		"pitch"		"100"
+		"wave"	"soundscape\emitters\loop\fluorescent_light_loop.wav"
+		"soundlevel"  	"SNDLVL_70dB"
+		"position"	"1"
+	}
+	
+	// fridge hum
+	"playlooping"
+	{
+		"volume"	"0.6"
+		"pitch"		"100"
+		"wave"	"soundscape\emitters\loop\refrigerator_loop_01.wav"
+		"soundlevel"  	"SNDLVL_90dB"
+		"position"	"2"
+	}
+	
+	// radio static loop 01
+	"playlooping"
+	{
+		"volume"	"1.0"
+		"pitch"		"100"
+		"wave"	"soundscape\emitters\loop\radio_static_loop_02.wav"
+		"soundlevel"  	"SNDLVL_70dB"
+		"position"	"3"
+	}
+	
+    //radio voices
+	"playrandom"
+	{
+		"time"		"2,20"
+		"volume"	"0.6"
+		"pitch"		"100"
+		"soundlevel"  	"SNDLVL_70dB"
+		"position"	"4"
+		
+		"rndwave"	
+		{
+		"wave"	"soundscape\emitters\oneshot\arabic_radio_voice_01.ogg"	
+		"wave"	"soundscape\emitters\oneshot\arabic_radio_voice_02.ogg"	
+		"wave"	"soundscape\emitters\oneshot\arabic_radio_voice_03.ogg"	
+		"wave"	"soundscape\emitters\oneshot\arabic_radio_voice_04.ogg"	
+		"wave"	"soundscape\emitters\oneshot\arabic_radio_voice_05.ogg"	
+		"wave"	"soundscape\emitters\oneshot\arabic_radio_voice_06.ogg"			
+			
+		}
+	} 
+	
+
+
+}
