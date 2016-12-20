@@ -3,10 +3,10 @@
 
 #define MAX_REDIRECTS 5
 
-static DataPackPos:DLPack_Header;
-static DataPackPos:DLPack_Redirects;
-static DataPackPos:DLPack_File;
-static DataPackPos:DLPack_Request;
+static DLPack_Header = 0;
+static DLPack_Redirects = 0;
+static DLPack_File = 0;
+static DLPack_Request = 0;
 
 Download_Socket(const String:url[], const String:dest[])
 {
@@ -36,8 +36,7 @@ Download_Socket(const String:url[], const String:dest[])
 	ParseURL(sURL, hostname, sizeof(hostname), location, sizeof(location), filename, sizeof(filename));
 	FormatEx(sRequest, sizeof(sRequest), "GET %s/%s HTTP/1.0\r\nHost: %s\r\nConnection: close\r\nPragma: no-cache\r\nCache-Control: no-cache\r\n\r\n", location, filename, hostname);
 	
-	new DataPack:dpDLPack = CreateDataPack();
-	new Handle:hDLPack = Handle:dpDLPack;
+	new Handle:hDLPack = CreateDataPack();
 	
 	DLPack_Header = GetPackPosition(hDLPack);
 	WritePackCell(hDLPack, 0);

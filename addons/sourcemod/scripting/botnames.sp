@@ -1,25 +1,12 @@
 #include <sourcemod>
 #include <sdktools>
-#include <insurgency>
 
 #pragma semicolon 1
 #pragma unused cvarVersion
 
+#define PLUGIN_VERSION "1.0"
 #define PLUGIN_DESCRIPTION "Gives automatic names to bots on creation."
-#define PLUGIN_NAME "Bot Names"
-#define PLUGIN_VERSION "1.0.5"
-#define PLUGIN_WORKING "1"
-#define PLUGIN_LOG_PREFIX "BOTNAMES"
-#define PLUGIN_AUTHOR "Jared Ballou (jballou)"
-#define PLUGIN_URL "http://jballou.com/insurgency"
-
-public Plugin:myinfo = {
-        name            = PLUGIN_NAME,
-        author          = PLUGIN_AUTHOR,
-        description     = PLUGIN_DESCRIPTION,
-        version         = PLUGIN_VERSION,
-        url             = PLUGIN_URL
-};
+#define UPDATE_URL "http://ins.jballou.com/sourcemod/update-botnames.txt"
 #define BOT_NAME_PATH "configs/botnames"
 
 // this array will store the names loaded
@@ -44,39 +31,13 @@ new Handle:cvarNameList = INVALID_HANDLE; // list to use
 new Handle:cvarAnnounce = INVALID_HANDLE; // announce new bots?
 new Handle:cvarSuppress = INVALID_HANDLE; // supress join/team/namechange messages?
 
-// called when the plugin loads
-public OnPluginStart()
+public Plugin:myinfo =
 {
-	// cvars!
-	cvarVersion = CreateConVar("sm_botnames_version", PLUGIN_VERSION, PLUGIN_DESCRIPTION, FCVAR_NOTIFY | FCVAR_DONTRECORD);
-	cvarEnabled = CreateConVar("sm_botnames_enabled", "1", "sets whether bot naming is enabled", FCVAR_NOTIFY);
-	cvarPrefix = CreateConVar("sm_botnames_prefix", "", "sets a prefix for bot names (include a trailing space, if needed!)", FCVAR_NOTIFY);
-	cvarRandom = CreateConVar("sm_botnames_random", "1", "sets whether to randomize names used", FCVAR_NOTIFY);
-	cvarAnnounce = CreateConVar("sm_botnames_announce", "0", "sets whether to announce bots when added", FCVAR_NOTIFY);
-	cvarSuppress = CreateConVar("sm_botnames_suppress", "1", "sets whether to supress join/team change/name change bot messages", FCVAR_NOTIFY);
-	cvarNameList = CreateConVar("sm_botnames_list", "default", "Set list to use for bots", FCVAR_NOTIFY);	
-
-	// hook team change, connect to supress messages
-	HookEvent("player_connect", Event_PlayerConnect, EventHookMode_Pre);
-	HookEvent("player_team", Event_PlayerTeam, EventHookMode_Pre);
-	HookEvent("player_changename", Event_PlayerChangeName, EventHookMode_Pre);
-
-	// register our commands
-	RegServerCmd("sm_botnames_reload", Command_Reload);
-	RegServerCmd("sm_botnames_rename_all", Command_Rename_All);
-
-	AutoExecConfig();
-	HookUpdater();
-}
-
-public OnLibraryAdded(const String:name[]) {
-	HookUpdater();
-}
-
-public OnMapStart()
-{
-	ReloadNames();
-	GenerateRedirects();
+	name = "Bot Names",
+	author = "Rakeri",
+	description = PLUGIN_DESCRIPTION,
+	version = PLUGIN_VERSION,
+	url = ""
 }
 
 // a function to generate name_redirects
@@ -183,6 +144,38 @@ ReloadNames()
 	CloseHandle(file);
 }
 
+// called when the plugin loads
+public OnPluginStart()
+{
+	// cvars!
+	cvarVersion = CreateConVar("sm_botnames_version", PLUGIN_VERSION, PLUGIN_DESCRIPTION, FCVAR_NOTIFY | FCVAR_PLUGIN | FCVAR_DONTRECORD);
+	cvarEnabled = CreateConVar("sm_botnames_enabled", "1", "sets whether bot naming is enabled", FCVAR_NOTIFY | FCVAR_PLUGIN);
+	cvarPrefix = CreateConVar("sm_botnames_prefix", "", "sets a prefix for bot names (include a trailing space, if needed!)", FCVAR_NOTIFY | FCVAR_PLUGIN);
+	cvarRandom = CreateConVar("sm_botnames_random", "1", "sets whether to randomize names used", FCVAR_NOTIFY | FCVAR_PLUGIN);
+	cvarAnnounce = CreateConVar("sm_botnames_announce", "0", "sets whether to announce bots when added", FCVAR_NOTIFY | FCVAR_PLUGIN);
+	cvarSuppress = CreateConVar("sm_botnames_suppress", "1", "sets whether to supress join/team change/name change bot messages", FCVAR_NOTIFY | FCVAR_PLUGIN);
+	cvarNameList = CreateConVar("sm_botnames_list", "default", "Set list to use for bots", FCVAR_NOTIFY | FCVAR_PLUGIN);	
+
+	// hook team change, connect to supress messages
+	HookEvent("player_connect", Event_PlayerConnect, EventHookMode_Pre);
+	HookEvent("player_team", Event_PlayerTeam, EventHookMode_Pre);
+
+	// trickier... name changes are user messages, so...
+	//HookUserMessage(GetUserMessageId("SayText"), UserMessage_SayText2, true);
+	//HookUserMessage(GetUserMessageId("SayText2"), UserMessage_SayText2, true);
+
+	// register our commands
+	RegServerCmd("sm_botnames_reload", Command_Reload);
+	RegServerCmd("sm_botnames_rename_all", Command_Rename_All);
+
+	AutoExecConfig();
+}
+
+public OnMapStart()
+{
+	ReloadNames();
+	GenerateRedirects();
+}
 
 // reload bot name, via console
 public Action:Command_Reload(args)
@@ -237,7 +230,26 @@ public bool:RenameBot(client)
 	}
 	return true;
 }
-
+// handle "SayText2" usermessages, including name change notifies!
+public Action:UserMessage_SayText2(UserMsg:msg_id, Handle:bf, const players[], playersNum, bool:reliable, bool:init)
+{
+/*
+	if (!(GetConVarBool(cvarEnabled) && GetConVarBool(cvarSuppress)))
+	{
+		return Plugin_Continue;
+	}
+*/
+	decl String:message[256];
+	BfReadString(bf, message, sizeof(message));
+	PrintToServer("[BOTNAMES] 1 message %s",message);
+	BfReadString(bf, message, sizeof(message));
+	PrintToServer("[BOTNAMES] 2 message %s",message);
+	if (StrContains(message, "Name_Change") != -1)
+	{
+		return Plugin_Handled;
+	}
+	return Plugin_Continue;
+}
 // handle player team change, to supress bot messages
 public Action:Event_PlayerTeam(Handle:event, const String:name[], bool:dontBroadcast)
 {
@@ -259,22 +271,6 @@ public Action:Event_PlayerTeam(Handle:event, const String:name[], bool:dontBroad
 		return Plugin_Changed;
 	}
 
-	return Plugin_Continue;
-}
-// handle player team change, to supress bot messages
-public Action:Event_PlayerChangeName(Handle:event, const String:name[], bool:dontBroadcast) {
-	if (!(GetConVarBool(cvarEnabled) && GetConVarBool(cvarSuppress))) {
-		return Plugin_Continue;
-	}
-	//PrintToServer("[BOTNAMES]: Triggered Event_PlayerChangeName");
-	new client = GetClientOfUserId(GetEventInt(event, "userid"));
-	if (client == 0) {
-		return Plugin_Continue;
-	}
-	if (IsFakeClient(client)) {
-		//PrintToServer("[BOTNAMES]: Bot, suppressing name change event");
-		return Plugin_Handled;
-	}
 	return Plugin_Continue;
 }
 

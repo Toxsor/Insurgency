@@ -70,9 +70,7 @@
 #include <sourcemod>
 #include <sdktools>
 
-#define PLUGIN_VERSION		"1.4"
-#define UPDATE_URL "http://ins.jballou.com/sourcemod/update-sm_downloader.txt"
-
+#define SM_DOWNLOADER_VERSION		"1.4"
 
 new Handle:g_version=INVALID_HANDLE;
 new Handle:g_enabled=INVALID_HANDLE;
@@ -89,7 +87,7 @@ public Plugin:myinfo =
 	name = "SM File/Folder Downloader and Precacher",
 	author = "SWAT_88",
 	description = "Downloads and Precaches Files",
-	version = PLUGIN_VERSION,
+	version = SM_DOWNLOADER_VERSION,
 	url = "http://www.sourcemod.net"
 }
 
@@ -98,8 +96,8 @@ public OnPluginStart()
 	g_simple = CreateConVar("sm_downloader_simple","1");
 	g_normal = CreateConVar("sm_downloader_normal","1");
 	g_enabled = CreateConVar("sm_downloader_enabled","1");
-	g_version = CreateConVar("sm_downloader_version",PLUGIN_VERSION,"SM File Downloader and Precacher Version",FCVAR_NOTIFY);
-	SetConVarString(g_version,PLUGIN_VERSION);
+	g_version = CreateConVar("sm_downloader_version",SM_DOWNLOADER_VERSION,"SM File Downloader and Precacher Version",FCVAR_NOTIFY);
+	SetConVarString(g_version,SM_DOWNLOADER_VERSION);
 }
 
 public OnPluginEnd(){

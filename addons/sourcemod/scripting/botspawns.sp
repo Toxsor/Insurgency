@@ -341,36 +341,6 @@ CheckSpawnPoint(Float:vecSpawn[3],client) {
 	}
 	return 1;
 }
-/*
-float GetSpawnPoint_HidingSpot(client,iteration=0) {
-	float vecSpawn[3];
-	float vecOrigin[3];
-	GetClientAbsOrigin(client,vecOrigin);
-
-	UpdatePlayerOrigins();
-	new m_nActivePushPointIndex = Ins_ObjectiveResource_GetProp("m_nActivePushPointIndex");
-
-	new minidx = (iteration) ? 0 : g_iCPLastHidingSpot[m_nActivePushPointIndex];
-	new maxidx = (iteration) ? g_iCPLastHidingSpot[m_nActivePushPointIndex] : g_iCPHidingSpotCount[m_nActivePushPointIndex];
-	new iSpot;
-	for (new iCPHIndex = minidx; iCPHIndex < maxidx; iCPHIndex++) {
-		iSpot = g_iCPHidingSpots[m_nActivePushPointIndex][iCPHIndex];
-		vecSpawn = GetHidingSpotVector(iSpot);
-
-		if (CheckSpawnPoint(vecSpawn,client)) {
-			g_iCPLastHidingSpot[m_nActivePushPointIndex] = iCPHIndex;
-			InsLog(DEBUG,"FOUND! %N (%d) hiding spot %d at (%f, %f, %f)", client, client, iSpot, vecSpawn[0], vecSpawn[1], vecSpawn[2]);
-			return vecSpawn;
-		}
-	}
-	if (iteration) {
-		InsLog(DEBUG,"Unable to find hiding spot for %N (%d)", client, client);
-		return vecOrigin;
-	}
-	InsLog(DEBUG,"Running second iteration for hiding spot %N (%d)", client, client);
-	return GetSpawnPoint_HidingSpot(client,1);
-}
-*/
 float GetSpawnPoint_SpawnPoint(client) {
 	int m_iTeam = GetClientTeam(client);
 	int m_iTeamNum;

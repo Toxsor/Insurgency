@@ -4,27 +4,22 @@
 // The rest of the code is based off code in the source-sdk-2013 repository. I only
 // attempted to recreate those functions to be used in SourcePawn.
 
+#pragma dynamic 32768
 #include <sourcemod>
 #include <sdktools>
 #include <navmesh>
 
-#define PLUGIN_AUTHOR "Jared Ballou (jballou)"
-#define PLUGIN_DESCRIPTION "Read navigation mesh"
-#define PLUGIN_NAME "[INS] Navmesh Parser"
-#define PLUGIN_URL "http://jballou.com/insurgency"
-#define PLUGIN_VERSION "1.0.4"
-#define PLUGIN_WORKING 1
-
-public Plugin:myinfo = {
-	name		= PLUGIN_NAME,
-	author		= PLUGIN_AUTHOR,
-	description	= PLUGIN_DESCRIPTION,
-	version		= PLUGIN_VERSION,
-	url		= PLUGIN_URL
-};
-
-
+#define PLUGIN_VERSION "1.0.3"
 #define UPDATE_URL "http://ins.jballou.com/sourcemod/update-navmesh.txt"
+
+public Plugin:myinfo = 
+{
+    name = "SourcePawn Navigation Mesh Parser",
+    author	= "KitRifty",
+    description	= "A plugin that can read Valve's Navigation Mesh.",
+    version = PLUGIN_VERSION,
+    url = ""
+}
 
 #define UNSIGNED_INT_BYTE_SIZE 4
 #define UNSIGNED_CHAR_BYTE_SIZE 1
@@ -65,6 +60,10 @@ new g_iNavMeshAreaOpenListIndex = -1;
 new g_iNavMeshAreaOpenListTailIndex = -1;
 new g_iNavMeshAreaMasterMarker = 0;
 
+// Script Timeout
+new Handle:g_hTimeout;
+new g_iTimeout;
+new bool:g_bTimeout = false;
 
 public APLRes:AskPluginLoad2(Handle:myself, bool:late, String:error[], err_max)
 {
@@ -137,6 +136,8 @@ public APLRes:AskPluginLoad2(Handle:myself, bool:late, String:error[], err_max)
 
 public OnPluginStart()
 {
+	g_hTimeout = CreateConVar("sm_navmesh_timeout", "7", "Script Timeout");
+	
 	g_hNavMeshPlaces = CreateArray(256);
 	g_hNavMeshAreas = CreateArray(NavMeshArea_MaxStats);
 	g_hNavMeshAreaConnections = CreateArray(NavMeshConnection_MaxStats);
@@ -152,6 +153,10 @@ public OnPluginStart()
 	g_hNavMeshGridLists = CreateArray(NavMeshGridList_MaxStats);
 	
 	HookEvent("nav_blocked", Event_NavAreaBlocked);
+	HookConVarChange(g_hTimeout, Event_CvarChange);
+	
+	g_iTimeout = GetConVarInt(g_hTimeout);
+	AutoExecConfig(true, "plugin.navmesh");
 }
 
 public OnMapStart()
@@ -161,7 +166,13 @@ public OnMapStart()
 	decl String:sMap[256];
 	GetCurrentMap(sMap, sizeof(sMap));
 	
+	g_bTimeout = false;
 	g_bNavMeshBuilt = NavMeshLoad(sMap);
+}
+
+public Event_CvarChange(Handle:cvar, const String:oldvalue[], const String:newvalue[])
+{
+	g_iTimeout = GetConVarInt(g_hTimeout);
 }
 
 public Event_NavAreaBlocked(Handle:event, const String:name[], bool:dB)
@@ -993,8 +1004,14 @@ bool:NavMeshLoad(const String:sMapName[])
 		new iGlobalLadderConnectionsStartIndex = 0;
 		new iGlobalVisibleAreasStartIndex = 0;
 		
+	
+		// Timestamp
+		new iTimeStamp = GetTime();
+		
 		for (new iAreaIndex = 0; iAreaIndex < iAreaCount; iAreaIndex++)
 		{
+			if (CheckTimeout(iTimeStamp, g_iTimeout)) break;
+			
 			new iAreaID;
 			new Float:x1, Float:y1, Float:z1, Float:x2, Float:y2, Float:z2;
 			new iAreaFlags;
@@ -1097,6 +1114,8 @@ bool:NavMeshLoad(const String:sMapName[])
 				
 					for (new iConnectionIndex = 0; iConnectionIndex < iConnectionCount; iConnectionIndex++) 
 					{
+						if (CheckTimeout(iTimeStamp, g_iTimeout)) break;
+
 						iConnectionsEndIndex = iGlobalConnectionsStartIndex;
 					
 						new iConnectingAreaID;
@@ -1124,6 +1143,8 @@ bool:NavMeshLoad(const String:sMapName[])
 				
 				for (new iHidingSpotIndex = 0; iHidingSpotIndex < iHidingSpotCount; iHidingSpotIndex++)
 				{
+					if (CheckTimeout(iTimeStamp, g_iTimeout)) break;
+
 					iHidingSpotsEndIndex = iGlobalHidingSpotsStartIndex;
 				
 					new iHidingSpotID;
@@ -1136,6 +1157,13 @@ bool:NavMeshLoad(const String:sMapName[])
 					
 					new iHidingSpotFlags;
 					ReadFileCell(hFile, iHidingSpotFlags, UNSIGNED_CHAR_BYTE_SIZE);
+					
+					// Added by naong
+					if (iNavSubVersion > 3)
+					{
+						new iTrash;
+						ReadFileCell(hFile, iTrash, UNSIGNED_SHORT_BYTE_SIZE);
+					}
 					
 					new iIndex = PushArrayCell(g_hNavMeshAreaHidingSpots, iHidingSpotID);
 					SetArrayCell(g_hNavMeshAreaHidingSpots, iIndex, flHidingSpotX, NavMeshHidingSpot_X);
@@ -1157,6 +1185,8 @@ bool:NavMeshLoad(const String:sMapName[])
 				
 				for (new iApproachAreaIndex = 0; iApproachAreaIndex < iApproachAreaCount; iApproachAreaIndex++)
 				{
+					if (CheckTimeout(iTimeStamp, g_iTimeout)) break;
+
 					new iApproachHereID;
 					ReadFileCell(hFile, iApproachHereID, UNSIGNED_INT_BYTE_SIZE);
 					
@@ -1189,6 +1219,8 @@ bool:NavMeshLoad(const String:sMapName[])
 			
 				for (new iEncounterPathIndex = 0; iEncounterPathIndex < iEncounterPathCount; iEncounterPathIndex++)
 				{
+					if (CheckTimeout(iTimeStamp, g_iTimeout)) break;
+					
 					iEncounterPathsEndIndex = iGlobalEncounterPathsStartIndex;
 				
 					new iEncounterFromID;
@@ -1217,6 +1249,8 @@ bool:NavMeshLoad(const String:sMapName[])
 					
 						for (new iEncounterSpotIndex = 0; iEncounterSpotIndex < iEncounterSpotCount; iEncounterSpotIndex++)
 						{
+							if (CheckTimeout(iTimeStamp, g_iTimeout)) break;
+
 							iEncounterSpotsEndIndex = iGlobalEncounterSpotsStartIndex;
 						
 							new iEncounterSpotOrderID;
@@ -1252,7 +1286,6 @@ bool:NavMeshLoad(const String:sMapName[])
 			//LogMessage("Place ID: %d", iPlaceID);
 			
 			// Get ladder connections.
-			
 			new iLadderConnectionsStartIndex = -1;
 			new iLadderConnectionsEndIndex = -1;
 			
@@ -1269,6 +1302,8 @@ bool:NavMeshLoad(const String:sMapName[])
 				
 					for (new iLadderConnectionIndex = 0; iLadderConnectionIndex < iLadderConnectionCount; iLadderConnectionIndex++)
 					{
+						if (CheckTimeout(iTimeStamp, g_iTimeout)) break;
+						
 						iLadderConnectionsEndIndex = iGlobalLadderConnectionsStartIndex;
 					
 						new iLadderConnectionID;
@@ -1314,6 +1349,8 @@ bool:NavMeshLoad(const String:sMapName[])
 					
 						for (new iVisibleAreaIndex = 0; iVisibleAreaIndex < iVisibleAreaCount; iVisibleAreaIndex++)
 						{
+							if (CheckTimeout(iTimeStamp, g_iTimeout)) break;
+
 							iVisibleAreasEndIndex = iGlobalVisibleAreasStartIndex;
 						
 							new iVisibleAreaID;
@@ -1385,6 +1422,16 @@ bool:NavMeshLoad(const String:sMapName[])
 			SetArrayCell(g_hNavMeshAreas, iIndex, false, NavMeshArea_Blocked);
 			SetArrayCell(g_hNavMeshAreas, iIndex, -1, NavMeshArea_NearSearchMarker);
 		}
+		
+		new iCurrentTime = GetTime();
+		LogMessage("Hiding spot Count: %d (Loading time: %ds)",GetArraySize(g_hNavMeshAreaHidingSpots), iCurrentTime - iTimeStamp );
+	}
+	
+	if (g_bTimeout)
+	{
+		CloseHandle(hFile);
+		LogError("Script execution timed out (Timeout: %d)", g_iTimeout);
+		return false;
 	}
 	
 	// Set up the grid.
@@ -3095,4 +3142,16 @@ public Native_NavMeshAreaGetLightIntensity(Handle:plugin, numParams)
 public Native_NavMeshLadderGetLength(Handle:plugin, numParams)
 {
 	return _:NavMeshLadderGetLength(GetNativeCell(1));
+}
+
+stock bool:CheckTimeout(iTimeStamp, iTimeout)
+{
+	new iCurrentTime = GetTime();
+	if (iTimeStamp + iTimeout <= iCurrentTime)
+	{
+		g_bTimeout = true;
+		return true;
+	}
+	else
+		return false;
 }
